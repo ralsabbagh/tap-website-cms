@@ -1,5 +1,5 @@
 import React, { useContext } from 'react';
-import popupController from '../components/Popup/PopupController';
+import popupController from '../components/basic/Popup/PopupController';
 import windowStore from '../stores/WindowStore';
 
 const AppContext = React.createContext({

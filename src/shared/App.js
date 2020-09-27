@@ -2,7 +2,9 @@ import React, { useEffect } from 'react';
 import { observer } from 'mobx-react-lite';
 import { Route, Redirect, Switch, withRouter } from 'react-router-dom';
 import preferencesStore from './stores/PreferencesStore';
-import Component from './components/Component/Component';
+import Component from './components/basic/Component/Component';
+import FractionField from './components/fields/FractionField/FractionField';
+import Container from './components/basic/Container/Container';
 let count = 0;
 
 function App({ history }) {
@@ -23,11 +25,10 @@ function App({ history }) {
       {!country ? (
         <div>{'Loader'}</div>
       ) : (
-        // <Loader windowWidth={windowStore.width} windowHeight={windowStore.height} />
-        // <Switch>
-        //   <Route render={() => <h1>{'Not Found'}</h1>} />
-        // </Switch>
-        <Component name={'row'} />
+        // <Component name={'row'} />
+        <Container className={'page_container'}>
+          <FractionField />
+        </Container>
       )}
     </div>
   );

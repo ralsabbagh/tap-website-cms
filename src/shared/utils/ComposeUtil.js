@@ -1,19 +1,19 @@
 import React from 'react';
-import Container from '../components/Container/Container';
-import Row from '../components/Row/Row';
-import Text from '../components/Text/Text';
-import Paragraph from '../components/Paragraph/Paragraph';
-import Image from '../components/Image/Image';
-import Spacing from '../components/Spacing/Spacing';
-import Separator from '../components/Separator/Separator';
-import Icon from '../components/Icon/Icon';
-import Input from '../components/Input/Input';
-import Button from '../components/Button/Button';
-import Select from '../components/Select/Select';
+import Container from '../components/basic/Container/Container';
+import Row from '../components/basic/Row/Row';
+import Text from '../components/basic/Text/Text';
+import Paragraph from '../components/basic/Paragraph/Paragraph';
+import Image from '../components/basic/Image/Image';
+import Spacing from '../components/basic/Spacing/Spacing';
+import Separator from '../components/basic/Separator/Separator';
+import Icon from '../components/basic/Icon/Icon';
+import Input from '../components/basic/Input/Input';
+import Button from '../components/basic/Button/Button';
+import Select from '../components/basic/Select/Select';
 import countries from '../data_source/countries.json';
-import Anchor from '../components/Anchor/Anchor';
-import Iframe from '../components/Iframe/Iframe';
-import Animation from '../components/Animation/Animation';
+import Anchor from '../components/basic/Anchor/Anchor';
+import Iframe from '../components/basic/Iframe/Iframe';
+import Animation from '../components/basic/Animation/Animation';
 class ComposeUtil {
   static composeComponent(component_obj) {
     if (!component_obj) return <React.Fragment />;

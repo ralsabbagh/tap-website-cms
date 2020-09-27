@@ -1,0 +1,192 @@
+{
+  "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+  "page": "api",
+  "slot": "api",
+  "brandingColor": "#f4dc00",
+  "color": "#ffc72d",
+  "bannerImage": "https://websiteimages.b-cdn.net/pages/api/banner/API-main-image.png",
+  "block": {
+    "title": "api",
+    "subtitle": {
+      "en": "for developers",
+      "ar": "للمطورين"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/api-1.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/api-2.png"
+  },
+  "callToAction": {
+    "title": {
+      "en": "Start Integrating",
+      "ar": "ابدأ الدمج"
+    },
+    "paragraph": {
+      "en": "custom e-payment experience, from start to finish.",
+      "ar": "تجربة دفع إلكتروني سهلة وسريعة"
+    },
+    "shortTitle": {
+      "en": "Ready to start building?",
+      "ar": "هل أنت جاهز للبدء؟"
+    },
+    "shortParagraph": {
+      "en": "Add Tap’s API to your system in minutes!",
+      "ar": "دمج سهل وسريع!"
+    },
+    "buttonText": {
+      "en": "Get Started",
+      "ar": "ابدأ الآن"
+    },
+    "buttonLink": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    },
+    "image": "https://websiteimages.b-cdn.net/pages/api/icons/api-documentation.png"
+  },
+  "link": "/api",
+  "features": [
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/build-icon.png",
+      "title": {
+        "ar": "إنشاء",
+        "en": "Build"
+      },
+      "paragraph": {
+        "ar": "ابدأ بإنشاء الموقع أو التطبيق الخاص بمشروعك.",
+        "en": "Maximize the value of Tap for your business, construct a payment framework that fits your unique needs."
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/connect-icon.png",
+      "title": {
+        "ar": "دمج",
+        "en": "Connect"
+      },
+      "paragraph": {
+        "ar": "قم بالربط مع تاپ وانضم لأكثر من 1000 مشروع نشط يومياً.",
+        "en": "Making it easy to connect businesses with customers, use our API functionality to reach out in your own way."
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/delight-icon.png",
+      "title": {
+        "ar": "تجربة ممتعة",
+        "en": "Delight"
+      },
+      "paragraph": {
+        "ar": "وفّر تجربة رائعة لعملائك من خلال بوابة تاپ للدفع الإلكتروني.",
+        "en": "Use Tap’s full-featured API to create an experience that your customers will love and remember you by."
+      }
+    }
+  ],
+  "statisticsTitle": {
+    "ar": "لمحة عن API تاپ",
+    "en": "Access the full power of Tap"
+  },
+  "statistics": [
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/icon-integration.png",
+      "countTo": 1001,
+      "finalText": {
+        "en": "1001+",
+        "ar": "1,001"
+      },
+      "description": {
+        "ar": "عملية دمج",
+        "en": "World-class integrations"
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/icon-transaction.png",
+      "countTo": 1000000000,
+      "finalText": {
+        "en": "1M+",
+        "ar": "أكثر من مليون"
+      },
+      "description": {
+        "ar": "عمليّة تحويل",
+        "en": "Successful transactions"
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/icon-country.png",
+      "countTo": 7,
+      "finalText": {
+        "en": "7",
+        "ar": "7"
+      },
+      "description": {
+        "ar": "دول",
+        "en": "Available countries"
+      }
+    }
+  ],
+  "title": {
+    "ar": "ابدأ بالتطوير مع تاپ",
+    "en": "Feature rich"
+  },
+  "paragraph": {
+    "ar": "كل ما تحتاجه لتقديم تجربة دفع إلكتروني رائعة.",
+    "en": "Everything you need to build the perfect payment experience: you name it, we’ve got it."
+  },
+  "apiFeatures": [
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/Payment-requests.png",
+      "title": {
+        "ar": "طلب\nالدفع",
+        "en": "Track\nPayments"
+      },
+      "subtitle": {
+        "ar": "وجه زبائنك لبوابة الدفع الإلكتروني الخاصة بتاپ",
+        "en": "Direct your payments seamlessly"
+      },
+      "description": {
+        "ar": "يحتاج صاحب العمل لتوفير تفاصيل طلب الدفع، لتقوم تاپ بإرسال رابط الدفع.",
+        "en": "Got a custom sales process in mind? Tap’s got your back. All you have to do is submit your Payment Request parameter details to Tap for verification, and we’ll set you up with everything you need to direct your payment requests to the Tap gateway."
+      },
+      "link": "/developers",
+      "readMoreText": {
+        "en": "Read more",
+        "ar": "اقرأ المزيد"
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/Track-payments.png",
+      "title": {
+        "ar": "تتبّع\nالدفع",
+        "en": "Track\nPayments"
+      },
+      "subtitle": {
+        "ar": "تتبع حالة مدفوعاتك أصبح أكثر سهولة!",
+        "en": "See your payment status in real-time"
+      },
+      "description": {
+        "ar": "قم بتتبّع ومراقبة حالة طلب الدفع الذي أنشأته.",
+        "en": "Looking for more control over your payment cycle? Our Create a Payment API allows you to include a tracking feature to help you see your payment status changes as they happen."
+      },
+      "link": "/developers",
+      "readMoreText": {
+        "en": "Read more",
+        "ar": "اقرأ المزيد"
+      }
+    },
+    {
+      "icon": "https://websiteimages.b-cdn.net/pages/api/icons/Refund.png",
+      "title": {
+        "ar": "إرجاع\nالمدفوعات",
+        "en": "Painless\nRefund"
+      },
+      "subtitle": {
+        "ar": "إرجاع القيمة المدفوعة إلى الزبون مرّة أخرى",
+        "en": "Super simple refund requests"
+      },
+      "description": {
+        "ar": "إعادة المبلغ المدفوع إلى حساب العميل مرّة أخرى.",
+        "en": "Our API helps you make the refund process as easy and pain-free as possible through account-to-account refund requests. Just plug it in and watch the magic happen!"
+      },
+      "link": "/developers",
+      "readMoreText": {
+        "en": "Read more",
+        "ar": "اقرأ المزيد"
+      }
+    }
+  ]
+}

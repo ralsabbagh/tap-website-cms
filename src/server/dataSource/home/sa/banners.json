@@ -1,0 +1,157 @@
+[
+  {
+    "type": "stripeSlide",
+    "backgroundImage": {
+      "lg": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/sell/sa_main_web_2.jpg",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/sell/sa_main_web_2_flipped.jpg"
+      },
+      "xs": "https://websiteimages.b-cdn.net/bannerImages/sell/sa_main_mob_1.jpg"
+    },
+    "stripeStyle": { "backgroundColor": "#00aff0", "color": "#fff" },
+    "title": {
+      "text": {
+        "en": "Start Accepting Online\nPayments on your App\nor Website",
+        "ar": "استقبل المدفوعات\nعلى التطبيق الخاص بك\nأو على موقعك الإلكتروني"
+      },
+      "style": { "color": "#fff" }
+    },
+    "callToAction": {
+      "actionType": "link",
+      "product": "sell",
+      "color": "#00aff0",
+      "partner": "",
+      "linkText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      },
+      "link": {
+        "en": "http://sandbox.register.tap.company/COUNTRY/en/sell",
+        "ar": "http://sandbox.register.tap.company/COUNTRY/ar/sell"
+      }
+    },
+    "paymentsImage": {
+      "src": "https://websiteimages.b-cdn.net/paymentMethods/white/payments_sa_white.svg",
+      "style": {
+        "height": "30px",
+        "width": "366px"
+      }
+    },
+    "icons": {
+      "style": {
+        "lg": { "width": "200px", "height": "75px", "padding": "0" },
+        "xs": { "width": "200px", "height": "75px", "padding": "0" }
+      },
+      "srcs": ["https://websiteimages.b-cdn.net/bannerImages/sell/laptop_icon_new_.svg"]
+    },
+    "subtitle": {
+      "text": {
+        "en": "for online commerce",
+        "ar": "للتجارة عبر الإنترنت"
+      },
+      "style": { "color": "#fff" }
+    }
+  },
+  {
+    "type": "stripeSlide",
+    "backgroundImage": {
+      "lg": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/collect/sa_gocollect_web.jpg",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/collect/sa_gocollect_web_flipped.jpg"
+      },
+      "xs": "https://websiteimages.b-cdn.net/bannerImages/collect/sa_gocollect_mob.jpg"
+    },
+    "stripeStyle": { "backgroundColor": "#ff0031", "color": "#fff" },
+    "title": {
+      "text": {
+        "en": "Start Sending Invoices\n& Collect Payments Socially",
+        "ar": "أرسل الفواتير\nو حصّل مدفوعاتك عبر وسائل التواصل الإجتماعي"
+      },
+      "style": { "color": "#fff" }
+    },
+    "callToAction": {
+      "schedule_for": "GD",
+      "product": "collect",
+      "color": "#ff0031",
+      "actionType": "sms",
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Send a download link",
+        "ar": "أرسل رابط التحميل"
+      },
+      "linkText": {
+        "en": "Download the app",
+        "ar": "حمّل التطبيق "
+      },
+      "link": {
+        "ios": "https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+        "android": "https://play.google.com/store/apps/details?id=tap.gocollect"
+      }
+    },
+    "paymentsImage": {
+      "src": "https://websiteimages.b-cdn.net/paymentMethods/white/payments_sa_white.svg",
+      "style": {
+        "height": "30px",
+        "width": "366px"
+      }
+    },
+    "icons": {
+      "style": {
+        "lg": { "width": "271px", "height": "33px", "padding": "0px" },
+        "xs": { "width": "271px", "height": "33px", "padding": "0px" }
+      },
+      "srcs": ["https://websiteimages.b-cdn.net/bannerImages/collect/sm_icons_new.svg"]
+    },
+    "subtitle": {
+      "text": {
+        "en": "for social & conversational commerce",
+        "ar": "للتجارة عبر وسائل التواصل الإجتماعي"
+      },
+      "style": { "color": "#fff" }
+    }
+  },
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#ddf2f5",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png), url(https://websiteimages.b-cdn.net/pages/ntp/top_left_bg.png)",
+          "backgroundSize": "400px, 500px",
+          "backgroundPosition": "right -168px bottom 0px, left top",
+          "backgroundRepeat": "no-repeat"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png), url(https://websiteimages.b-cdn.net/pages/ntp/top_left_bg.png)",
+          "backgroundSize": "400px, 500px",
+          "backgroundPosition": "right -168px bottom 0px, left top",
+          "backgroundRepeat": "no-repeat"
+        }
+      }
+    },
+    "image": {
+      "src": "https://websiteimages.b-cdn.net/pages/ntp/saudi_map.png",
+      "style": {
+        "lg": { "width": "85%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "textColor": "#4b4847",
+      "logo": "https://websiteimages.b-cdn.net/pages/ntp/partner_logo.png",
+      "title": {
+        "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+        "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+      },
+      "shortTitle": {
+        "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+        "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+      }
+    }
+  }
+]

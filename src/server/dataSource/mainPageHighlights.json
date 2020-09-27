@@ -1,0 +1,301 @@
+[
+  {
+    "hasBanner": false,
+    "hasBlock": false,
+    "type": "occasion",
+    "slot": "occasion",
+    "brandingColor": "#e6e5e3",
+    "paternImage": "https://websiteimages.b-cdn.net/eid_bg.jpg",
+    "paternImageSize": "185vh auto",
+    "patternImagePosition": "center bottom",
+    "bannerGraphic": "https://websiteimages.b-cdn.net/eid_graphic.png",
+    "bannerText": "https://websiteimages.b-cdn.net/eid_greeting.png",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "block": {
+      "title": "gocollect",
+      "subtitle": {
+        "en": "send bills",
+        "ar": "إرسال الفواتير"
+      },
+      "order": "0",
+      "image": "https://websiteimages.b-cdn.net/eid_block.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/eid_block.png",
+      "mobileOnly": true,
+      "hero": true,
+      "noLink": true
+    }
+  },
+  {
+    "hasBanner": false,
+    "hasBlock": false,
+    "type": "occasion",
+    "slot": "occasion",
+    "brandingColor": "#e6e5e3",
+    "paternImageSize": "185vh auto",
+    "patternImagePosition": "center bottom",
+    "bannerGraphic": "https://websiteimages.b-cdn.net/ramadanweb%202.mp4",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "block": {
+      "title": "gocollect",
+      "subtitle": {
+        "en": "send bills",
+        "ar": "إرسال الفواتير"
+      },
+      "order": "0",
+      "image": "https://websiteimages.b-cdn.net/eid_block.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/eid_block.png",
+      "mobileOnly": true,
+      "hero": true,
+      "noLink": true
+    }
+  },
+  {
+    "similar": true,
+    "hasBanner": true,
+    "hasBlock": true,
+    "product": "collect",
+    "slot": "collect",
+    "brandingColor": "#ff0031",
+    "schedule_for": "GD",
+    "bannerImage": "https://websiteimages.b-cdn.net/bannerImages/gocollect-en-video.png",
+    "videoLink": "https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc",
+    "subImage": "https://websiteimages.b-cdn.net/subImages/gocollect-sub-image.jpg",
+    "countries": ["kw", "om", "eg", "qa", "ae", "bh", "jo", "lb"],
+    "block": {
+      "order": "2",
+      "title": "gocollect",
+      "subtitle": {
+        "en": "send bills",
+        "ar": "إرسال الفواتير"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png"
+    }
+  },
+  {
+    "hasBanner": true,
+    "hasBlock": true,
+    "product": "sell",
+    "slot": "sell",
+    "brandingColor": "#00aff0",
+    "bannerImage": "https://websiteimages.b-cdn.net/bannerImages/goSell-accept-payments-online.png",
+    "subImage": "https://websiteimages.b-cdn.net/subImages/gosell-sub-image.png",
+    "countries": ["kw", "om", "eg", "qa", "ae", "bh", "jo", "lb"],
+    "block": {
+      "order": "3",
+      "title": "gosell",
+      "subtitle": {
+        "en": "accept online payments",
+        "ar": "استقبال المدفوعات الإلكترونية"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png"
+    }
+  },
+  {
+    "similar": true,
+    "hasBanner": true,
+    "hasBlock": true,
+    "product": "collect",
+    "partner": "nbk",
+    "slot": "nbk/collect",
+    "brandingColor": "#1d4d8a",
+    "schedule_for": "GD",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/nbk/NBK-symbol.png",
+    "logo": "https://websiteimages.b-cdn.net/partners/nbk/NBK-tap-logo.svg",
+    "bannerImage": "https://websiteimages.b-cdn.net/bannerImages/gocollect-en-video.png",
+    "videoLink": "https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc",
+    "subImage": "https://websiteimages.b-cdn.net/subImages/gocollect-sub-image.jpg",
+    "countries": ["kw"],
+    "block": {
+      "order": "4",
+      "title": "gocollect \\partner",
+      "subtitle": {
+        "en": "send bills",
+        "ar": "إرسال الفواتير"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/nbk-collect.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/nbk-collect-1.png"
+    }
+  },
+  {
+    "hasBanner": false,
+    "hasBlock": false,
+    "product": "sell",
+    "partner": "zyda",
+    "slot": "zyda",
+    "brandingColor": "#1B0120",
+    "paternImage": "",
+    "bannerTitle": { "en": "Don’t Miss Out", "ar": "لا يطوووفكم" },
+    "bannerSubtitle": {
+      "en": "FREE websites and KNET payments\nfor the first 1000 businesses to sign up starting today",
+      "ar": "متجر إلكتروني ببلاش وعمليات الـ كي-نت ببلاش\nلأول 1000 متجر يسجل ابتداءاً من الآن!"
+    },
+    "logo": "https://websiteimages.b-cdn.net/partners/zyda/banner/zyda_tap.png",
+    "bannerImage": "https://websiteimages.b-cdn.net/partners/zyda/banner/top_banner_phone%202.png",
+    "subImage": "https://websiteimages.b-cdn.net/subImages/gocollect-sub-image.jpg",
+    "countries": ["kw"],
+    "block": {
+      "order": "4",
+      "title": {
+        "en": "e-commerce partner",
+        "ar": "منصة إلكترونية"
+      },
+      "subtitle": {
+        "en": "take your business online",
+        "ar": "أطلق مشروعك للأونلاين"
+      },
+      "image": "https://websiteimages.b-cdn.net/partners/zyda/blocks/zyda1.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/partners/zyda/blocks/zyda1_1.png"
+    }
+  },
+  {
+    "similar": false,
+    "hasBanner": true,
+    "hasBlock": true,
+    "product": "collect",
+    "partner": "rb",
+    "slot": "rb",
+    "brandingColor": "#282868",
+    "schedule_for": "GD",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/rb/rb_symbol.svg",
+    "logo": "https://websiteimages.b-cdn.net/partners/rb/rb_tap_logos.svg",
+    "bannerImage": {
+      "en": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_en.png",
+      "ar": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_ar.png"
+    },
+    "videoLink": {
+      "ar": "https://player.vimeo.com/video/197276703?autoplay=0&byline=0&portrait=0&color=cccccc",
+      "en": "https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc"
+    },
+    "countries": ["sa"],
+    "block": {
+      "order": "1",
+      "title": {
+        "en": "banking partner",
+        "ar": "شريك استراتيجي"
+      },
+      "subtitle": {
+        "en": "promoting a cashless society",
+        "ar": "نحو مجتمع رقمي غير نقدي"
+      },
+      "image": "https://websiteimages.b-cdn.net/partners/rb/RB1.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/partners/rb/rb3.png"
+    }
+  },
+  {
+    "similar": false,
+    "hasBanner": true,
+    "hasBlock": false,
+    "product": "sell",
+    "partner": "rb",
+    "slot": "rb",
+    "brandingColor": "#282868",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/rb/rb_symbol.svg",
+    "logo": "https://websiteimages.b-cdn.net/partners/rb/rb_tap_logos.svg",
+    "bannerImage": {
+      "en": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_en.png",
+      "ar": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_ar.png"
+    },
+    "countries": ["sa"]
+  },
+  {
+    "hasBanner": false,
+    "hasBlock": true,
+    "product": "pay",
+    "slot": "pay",
+    "brandingColor": "#2ace00",
+    "schedule_for": "TD",
+    "bannerImage": "https://websiteimages.b-cdn.net/bannerImages/gopay-eng-video.png",
+    "videoLink": "https://player.vimeo.com/video/146118094?autoplay=0&byline=0&portrait=0&color=cccccc",
+    "subImage": "https://websiteimages.b-cdn.net/subImages/gopay-sub-image.jpg",
+    "countries": ["kw"],
+    "block": {
+      "order": "3",
+      "title": "gopay",
+      "subtitle": {
+        "en": "pay bills",
+        "ar": "دفع الفواتير"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/goPay.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/goPay.png",
+      "hiddenOnMobile": true
+    }
+  },
+  {
+    "hasBanner": false,
+    "hasBlock": false,
+    "slot": "api",
+    "brandingColor": "#ffc72d",
+    "block": {
+      "order": "6",
+      "title": "api",
+      "subtitle": {
+        "en": "for developers",
+        "ar": "للمطورين"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/api-1.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/api-2.png"
+    }
+  },
+  {
+    "hasBanner": true,
+    "hasBlock": true,
+    "slot": "vision2030",
+    "color": "#ddf2f5",
+    "brandingColor": "#005a61",
+    "paternImageSize": "cover",
+    "patternImagePosition": "left",
+    "link": "/vision2030",
+    "bannerImage": "https://websiteimages.b-cdn.net/pages/ntp/saudi_map.png",
+    "bannerImageDesktopWidth": "85%",
+    "paternImage": "https://websiteimages.b-cdn.net/pages/ntp/vision_pattern.png",
+    "logo": "https://websiteimages.b-cdn.net/pages/ntp/partner_logo.png",
+    "callToAction": {
+      "title": {
+        "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+        "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+      },
+      "shortTitle": {
+        "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+        "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+      },
+      "textColor": "#4b4847"
+    },
+    "countries": ["sa"],
+    "block": {
+      "order": "5",
+      "title": {
+        "ar": "رؤية 2030",
+        "en": "vision 2030"
+      },
+      "subtitle": {
+        "en": "National Transformation Program",
+        "ar": "برنامج التحول الوطني"
+      },
+      "image": "https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png"
+    }
+  },
+  {
+    "hasBanner": false,
+    "hasBlock": false,
+    "slot": "testimonials",
+    "brandingColor": "rgb(211, 124, 118)",
+    "bannerImage": "",
+    "paternImageSize": "auto 100%",
+    "patternImagePosition": "right bottom",
+    "link": "/testimonials",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "block": {
+      "order": "7",
+      "title": "testimonials",
+      "subtitle": {
+        "en": "from businesses",
+        "ar": "أصحاب المشاريع"
+      },
+      "image": "https://websiteimages.b-cdn.net/blocks/testimonials.png",
+      "hoverImage": "https://websiteimages.b-cdn.net/blocks/testimonials.png"
+    }
+  }
+]

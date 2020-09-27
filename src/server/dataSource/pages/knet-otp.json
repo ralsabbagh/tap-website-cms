@@ -1,0 +1,93 @@
+{
+  "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+  "page": "knet-otp",
+  "slot": "knet-otp",
+  "color": "#4b4847",
+  "bannerImage": "https://websiteimages.b-cdn.net/bannerImages/tap-knet-tap-otp-one-time-password.png",
+  "bannerImageDesktopWidth": "85%",
+  "paternImage": "https://websiteimages.b-cdn.net/bannerImages/tap-knet-otp-one-time-password-security-pattern-image.jpg",
+  "paternImage2": "https://websiteimages.b-cdn.net/pages/otp/tap-knet-otp-one-time-password-security-pattern-image-reveresed.jpg",
+  "paternImageStyle": {
+    "backgroundSize": "cover",
+    "backgroundRepeat": "repeat",
+    "backgroundPosition": "center"
+  },
+  "link": "/knet-otp",
+  "callToAction": {
+    "title": {
+      "en": "Paying securely with KNET\nusing One Time Password “OTP”",
+      "ar": "دفع آمن عن طريق الكي نت\nباستخدام رمز الـOTP"
+    },
+    "shortTitle": {
+      "en": "Paying securely with KNET\nusing One Time Password “OTP”",
+      "ar": "دفع آمن عن طريق الكي نت\nباستخدام رمز الـOTP"
+    },
+    "buttonLink": "/",
+    "textColor": "#4b4847",
+    "buttonShap": "bordered colored",
+    "actionType": "link",
+    "linkText": {
+      "en": "Watch the video",
+      "ar": "شاهد الفيديو"
+    }
+  },
+  "tutorialVideos": [
+    {
+      "device": "pc",
+      "image": "https://websiteimages.b-cdn.net/pages/otp/icons/OTP-pc-tablet-payment-video.svg",
+      "video": {
+        "en": "//player.vimeo.com/video/213635508?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+        "ar": "//player.vimeo.com/video/213635481?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+      }
+    },
+    {
+      "device": "mobile",
+      "image": "https://websiteimages.b-cdn.net/pages/otp/icons/OTP-mobile-payment-video.svg",
+      "video": {
+        "en": "//player.vimeo.com/video/213635499?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc",
+        "ar": "//player.vimeo.com/video/213635466?width=1080&autoplay=0&byline=0&portrait=0&color=cccccc"
+      }
+    }
+  ],
+  "content": [
+    {
+      "paragraph": {
+        "en": "OTP stands for one-time password, which is a security technique that produces one single use password or passcode at present time intervals, provides protection against various password-based attacks, specifically password sniffing and replay attacks. It provides more enhanced protection than static passwords, which remain the same for multiple login sessions. OTP works through randomness algorithms that generate a new and random password each time they are used in order to prevent a hacker to guess the future password.",
+        "ar": "إتمام عمليّة دفع إلكتروني باستخدام كي نت يمنحك الحماية عبر استخدام رمز الـOTP (رمز مرور لمرّة واحدة)، وهي تقنية أمان تقوم بتوفير رمز مرور يمكن استخدامه لمرّة واحدة خلال فترة زمنية معيّنة، يعمل الـOTP عن طريق خوارزميات تقوم بإنتاج رمز مرور عشوائي مختلف عند كل محاولة دفع، ويُرسل إلى المستخدم عبر رسالة نصيّة قصيرة، تقدّم تقنية الـ OTP مستوى حماية أعلى من مستويات الحماية الذي يقدّمه رمز مرور ثابت لمحاولات دفع متعدّدة."
+      }
+    },
+    {
+      "paragraph": {
+        "en": "Currently OTP service is activated in the electronic services payment to provide more security and protection for customers who use Debit cards. KNET took into account the highest security standards for electronic payment services and sought to this technique to provide a safer services for both the user and the World Banks.",
+        "ar": "تقوم خدمات الدفع الإلكتروني حالياً بتفعيل تقنية الـOTP لتقديم حماية أمان أكبر لمستخدمي البطاقات الإئتمانية، وقد قامت كي نت بالأخذ بأعلى معايير الأمان لخدمات الدفع الإلكتروني باستخدام هذه التقنية سعياً لتوفير خدمات آمنة لكلٍ من المستخدم والبنك الدولي."
+      }
+    }
+  ],
+  "stepsTitle": {
+    "en": "OTP step by step",
+    "ar": "رمز الـOTP خطوة بخطوة"
+  },
+  "otpSteps": [
+    {
+      "image": "https://websiteimages.b-cdn.net/pages/otp/steps/knet-OTP-step-one-secure.png",
+      "text": {
+        "en": "Add your card info, as usual, and press 'Submit'.",
+        "ar": "قم بتعبئة بيانات بطاقتك بالطريقة الاعتيادية واضغط 'Submit'."
+      }
+    },
+    {
+      "image": "https://websiteimages.b-cdn.net/pages/otp/steps/knet-OTP-step-two-secure.png",
+      "text": {
+        "en": "You will receive an SMS with 6 digits (OTP code). Add the 6 digits in the OTP section then press 'Confirm' again.",
+        "ar": "سوف تصلك رسالة قصيرة تحتوي على رمز مكون من ستة أرقام (رمز الـOTP)قم بإدخال الستة أرقام في الخانة المخصصة لرمز الـOTP  واضغط 'Confirm' مرّة أخرى."
+      }
+    },
+    {
+      "image": "https://websiteimages.b-cdn.net/pages/otp/steps/knet-OTP-step-three-secure.png",
+      "text": {
+        "en": "Your payment is done successfully!",
+        "ar": "تهانينا! لقد تمت عملية الدفع بنجاح."
+      }
+    }
+  ]
+}

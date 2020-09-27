@@ -1,0 +1,44 @@
+[
+  {
+    "name": "wordpress",
+    "displayname": "WordPress",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/WordPress.svg",
+    "documentationurl": "https://wordpress.org/plugins/tap-payments"
+  },
+  {
+    "name": "opencart",
+    "displayname": "OpenCart",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/OpenCart.svg",
+    "documentationurl": "https://www.opencart.com/index.php?route=marketplace/extension/info&extension_id=28240"
+  },
+  {
+    "name": "prestashop",
+    "displayname": "PrestaShop",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/PrestaShop.svg",
+    "documentationurl": "https://websiteimages.b-cdn.net/Plugins/Prestashop/PrestaShop.rar"
+  },
+  {
+    "name": "ecwid",
+    "displayname": "Ecwid",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Ecwid.svg",
+    "documentationurl": "https://support.ecwid.com/hc/en-us/articles/207100429-Payment-options#SowhatIneedtostartacceptingcreditcardsactually?"
+  },
+  {
+    "name": "joomla",
+    "displayname": "Joomla",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Joomla.svg",
+    "documentationurl": "https://websiteimages.b-cdn.net/Plugins/Joomla/Joomla.zip"
+  },
+  {
+    "name": "magento",
+    "displayname": "Magento",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Magento.svg",
+    "documentationurl": "https://websiteimages.b-cdn.net/Plugins/Magento/Magento.rar"
+  },
+  {
+    "name": "shopify",
+    "displayname": "Shopify",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Shopify.svg",
+    "documentationurl": "https://help.shopify.com/manual/payments/third-party-gateways"
+  }
+]

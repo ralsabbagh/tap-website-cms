@@ -1,0 +1,14 @@
+{
+  "background": "https://websiteimages.b-cdn.net/bannerImages/home/om_main_banner_mob.jpg",
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/paymentMethods/white/payments_om_white_.svg",
+    "style": {
+      "height": "32px",
+      "width": "185.5px"
+    }
+  },
+  "text": {
+    "en": "Start Accepting Online Payments",
+    "ar": "استقبل المدفوعات\nالإلكترونية"
+  }
+}

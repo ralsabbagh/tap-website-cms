@@ -1,0 +1,251 @@
+[
+  {
+    "name": "Boubyan",
+    "slot": "boubyan",
+    "logo": "https://websiteimages.b-cdn.net/partners/boubyan/boubyan-tap-logo.svg",
+    "brandingColor": "#ff0031",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/boubyan/boubyan-symbol.svg",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "slot": "collect"
+      },
+      {
+        "product": "sell",
+        "slot": "sell"
+      },
+      {
+        "product": "tap",
+        "slot": "tap"
+      }
+    ],
+    "intro": {
+      "en": "Lucky for you, you just got the best of both worlds.",
+      "ar": "ومن حسن الطالع أنك قد حصلت على أفضل المميزات بشأن حليّن مختلفين."
+    },
+    "subIntro": {
+      "en": "Boubyan Bank was established in 2004, and they’ve been re-establishing the way banking in Kuwait works every day since then. Boubyan Bank is all about creating fast, open, and synergistic services that work together seamlessly. At Tap, we believe that’s what every business requires to succeed: a fresh perspective, and an ability to handle every new challenge and opportunity with ease. It’s the perfect banking solution for the up-and-coming makers, doers, and dreamers that use Tap to build their businesses from the ground up every day.",
+      "ar": "أسُس بنك بوبيان فيي عام 2004 وقد أعادوا تأسيس طريقة العمل البنكية في الكويت بشكل مستمر منذ ذلك الوقت. فكل شئي في بنك بوبيان يدور حول الإنشاء السريع والفتح والخدمات المحفزة التي تعمل معا بسلاسة. في شركة تاپ نرى أن كل شركة تسعى إلى النجاح تحتاج إلى: منظور جديد وقدرة على التعامل ببساطة مع كل تحدي وفرصة جديدة. فهذا هو الحل البنكي الأمثل أمام أصحاب الأعمال والتنفيذيون والحالمون الصاعدون الذين يستخدمون خدمة تاپ كل يوم في بناء أعمالهم التجارية من البداية حتى الإزدهار."
+    }
+  },
+  {
+    "name": "NBK",
+    "slot": "nbk",
+    "logo": "https://websiteimages.b-cdn.net/partners/nbk/NBK-tap-logo.svg",
+    "brandingColor": "#1d4d8a",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/nbk/NBK-symbol.png",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "videoLink": "https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc",
+        "slot": "collect",
+        "brandingColor": "#1d4d8a",
+        "block": {
+          "title": "gocollect partner",
+          "subtitle": {
+            "en": "send bills",
+            "ar": "إرسال الفواتير"
+          },
+          "image": "https://websiteimages.b-cdn.net/blocks/nbk-collect1.png",
+          "hoverImage": "https://websiteimages.b-cdn.net/blocks/nbk-collect2.png"
+        }
+      }
+    ],
+    "intro": {
+      "en": "Welcome to the next level of e-commerce.",
+      "ar": "رحّب بمستوى تجارة إلكترونية جديد"
+    },
+    "subIntro": {
+      "en": "In the world of banking, The National Bank of Kuwait needs no introduction. Prided as the gold standard of financial security, versatility, and reliability around the world -- it’s the fullproof banking partner that every ambitious Tap-reneur deserves. Through years of research, we narrowed down a list of all the banking tools and services that our users required in order to meet all their business needs. The result? An exclusive, power-packed mega suite of tools and services from NBK and Tap to take your business from ‘better’ to ‘best.’",
+      "ar": "لا يحتاج بنك الكويت الوطني إلى تعريف في عالم البنوك. فهو يتميز بازدهار المعيار الذهبي مثل الضمان الاجتماعي والبراعة والمصداقية حول العالم -- إنه الشريك البنكي البسيط الذي يستحقه كل رائد طموح في شركة تاپ. ومن خلال سنوات من البحث فقد ضيقنا قائمة خاصة بجميع الأدوات والخدمات البنكية التي يطلبها المستخدمون لتلبية احتياجتهم التجارية.  فما هي النتيجة؟ مجموعة ضخمة وحصرية من الأدوات والخدمات التي يقدمها بنك الكويت الوطني وتاپ لتحسين تجارتك إلى الأفضل."
+    }
+  },
+  {
+    "name": "Zain",
+    "slot": "zain",
+    "logo": "https://websiteimages.b-cdn.net/partners/zain/zain-tap-logo.svg",
+    "brandingColor": "#1f525f",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/zain/zain-pattern.svg",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "slot": "collect"
+      },
+      {
+        "product": "sell",
+        "slot": "sell"
+      },
+      {
+        "product": "tap",
+        "slot": "tap"
+      }
+    ],
+    "intro": {
+      "en": "Tap into A Wonderful World.",
+      "ar": "تاپ نحو عالم جميل"
+    },
+    "subIntro": {
+      "en": "For over 30 years, Zain has been inspiring people across the Middle East to tap into ‘A Wonderful World.’ It’s a world where communication is clear, connection is instant, and the experience is bold and colorful in every step of the way. At Tap, it’s the kind of world we aspire to create, for ourselves and for our users. That’s why we teamed up with Zain to bring that same level of speed, clarity, and undeniable innovation, exclusively for our Tap-reneurs.",
+      "ar": "ولأكثر من ثلاثين سنة، فإن شركة زين تُلهم الناس عبر الشرق الأوسط 'بالانتقال إلى عالم جميل'. إنه عالم يتميز بوضوح التواصل والاتصال الفوري والخبرة الكبيرة والبهجة في كل خطوة على امتداد الطريق. وفي شركة تاپ إنه العالم الذي نتطلع إلي إنشائه لأنفسنا وللمستخدمين. وهذا هو سبب تعاوننا مع شركة زين من أجل تقديم نفس مستوى السرعة والوضوح والإبتكار الذي لا شك فيه المُقتصر على رودا شركة تاپ."
+    }
+  },
+  {
+    "name": "Zyda",
+    "slot": "zyda",
+    "logo": "https://websiteimages.b-cdn.net/partners/zyda/banner/zyda_tap.png",
+    "brandingColor": "#1B0120",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/zyda/banner/pattern1.png",
+    "paternImageStyle": {
+      "backgroundSize": "25% auto",
+      "backgroundPosition": "top left"
+    },
+    "paternImage2": "https://websiteimages.b-cdn.net/partners/zyda/banner/pattern2.png",
+    "paternImageStyle2": {
+      "backgroundSize": "15% auto",
+      "backgroundPosition": "bottom right"
+    },
+    "countries": ["kw"],
+    "hideCategoriesTitles": true,
+    "hideProductTestimonials": true,
+    "hideAddVideos": true,
+    "hideAddVideosOnMobile": false,
+    "hideSubImage": true,
+    "hideSubBanner": false,
+    "hideBusinesses": false,
+    "customSubBanner": {
+      "title": {
+        "en": "Open Account",
+        "ar": "افتح حساب الحين"
+      },
+      "subtitle": {
+        "en": "Only for the first 1000 businesses to sign up. Don’t miss out!",
+        "ar": "لا يطوفكم هذا العرض الخاص حق اول 1000 متجر!"
+      },
+      "image": "https://websiteimages.b-cdn.net/partners/zyda/images/sign_up.png"
+    },
+    "products": [
+      {
+        "product": "sell",
+        "slot": "sell",
+        "bannerImageDesktopWidth": "75%",
+        "bannerImage": {
+          "en": "https://websiteimages.b-cdn.net/partners/zyda/banner/banner_en_.gif",
+          "ar": "https://websiteimages.b-cdn.net/partners/zyda/banner/banner_ar_.gif"
+        },
+        "bannerTitle": { "en": "Don’t Miss Out", "ar": "لا يطوووفكم" },
+        "bannerSubtitle": {
+          "en": "FREE websites and KNET payments\nfor the first 1000 businesses to sign up starting today",
+          "ar": "متجر إلكتروني ببلاش وعمليات الـ كي-نت ببلاش\nلأول 1000 متجر يسجل ابتداءاً من الآن!"
+        },
+        "intro": {
+          "en": " ",
+          "ar": " "
+        },
+        "subIntro": {
+          "en": "Accept KNET payments for free with Tap Payments\nAnd start your online website for free with Zyda!",
+          "ar": "تاب راح تعطيكم الـ كي - نت ببلاش\nو زيدا راح تسويلكم الموقع بعد ببلاش"
+        }
+      }
+    ],
+    "intro": {
+      "en": "Accept KNET payments for free with Tap Payments\nAnd start your online website for free with Zyda!",
+      "ar": "تاب راح تعطيكم الـ كي - نت ببلاش\nو زيدا راح تسويلكم الموقع بعد ببلاش"
+    }
+  },
+  {
+    "name": "rb",
+    "slot": "rb",
+    "logo": "https://websiteimages.b-cdn.net/partners/rb/rb_tap_logos.svg",
+    "brandingColor": "#282868",
+    "paternImage": "https://websiteimages.b-cdn.net/partners/rb/rb_symbol.svg",
+    "blockImage": {
+      "en": "https://websiteimages.b-cdn.net/partners/rb/riyad_bank_mobile_en.jpg",
+      "ar": "https://websiteimages.b-cdn.net/partners/rb/riyad_bank_mobile.jpg"
+    },
+    "countries": ["sa"],
+    "hideCategoriesTitles": true,
+    "hideProductTestimonials": true,
+    "hideAddVideosOnMobile": false,
+    "hideSubImage": false,
+    "products": [
+      {
+        "product": "sell",
+        "slot": "sell",
+        "bannerImage": {
+          "en": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_en.png",
+          "ar": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_ar.png"
+        },
+        "subImage": "https://websiteimages.b-cdn.net/partners/rb/gosell_sub_image_saudi.jpg",
+        "intro": {
+          "en": " ",
+          "ar": " "
+        },
+        "subIntro": {
+          "en": "Activate online payments on your mobile apps and websites easily and quickly with goSell from Tap Payments. Your customers can now pay using any major debit or credit card including Apple Pay and it’ll be settled directly into your account with Riyad Bank.",
+          "ar": "تتيح لكم خدمة 'goSell' من تاب تفعيل المدفوعات الإلكترونية بشكل فوري ومبسط على مواقعكم و تطبيقاتكم الإلكترونية. يمكن لعملائكم الآن الدفع بواسطة جميع البطاقات البنكية المتاحة في المملكة. سيتم إيداع المبالغ مباشرة في حسابكم مع بنك الرياض."
+        },
+        "contentBlocks_": [
+          {
+            "backgroundColor": "#dddced",
+            "backgroundImage": "",
+            "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Plug-ins.png",
+            "icon": "https://websiteimages.b-cdn.net/partners/rb/gocollect/icons/platform_icon.gif",
+            "buttonText": { "ar": "اعرف أكثر", "en": "Learn More" },
+            "action": "openIntercom",
+            "title": { "ar": "المنصات", "en": "Platforms" },
+            "description": {
+              "ar": "يمكنك ربط خدمة goSell من تاب مع ابرز المنصات الإلكترونية في المملكة والعالم. ابرز المنصات التي تدعمها تاب:\n منصة زد، Zyda، Expand Cart، Presta Shop، Open Cart، Wordpress، Shopify ،  Magento، وغيرهم الكثير.",
+              "en": "Link your goSell account with the most popular e-commerce platforms in Saudi Arabia and the world. Some of the most popular platforms that Tap supports are Zid, Zyda, Expand cart, PrestaShop, OpenCart, WordPress, Shopify, Magento and many more."
+            }
+          },
+          {
+            "backgroundColor": "#f6f2b9",
+            "backgroundImage": "",
+            "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/API.png",
+            "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/API.png",
+            "buttonText": { "ar": "اعرف أكثر", "en": "Learn More" },
+            "action": "link",
+            "link": "/developers",
+            "title": { "ar": "المبرمجين", "en": "Developers" },
+            "description": {
+              "ar": "استخدم ال API وال SDK التي توفرها تاب لتطوير موقعك او تطبيقك حيث ما شئت. اضغط هنا للذهاب الى صفحة المبرمجين.",
+              "en": "Create a payment system that works for your business, on your website or mobile app, with our APIs and SDKs. Click here to go to our developers page to learn more."
+            }
+          }
+        ]
+      },
+      {
+        "product": "collect",
+        "slot": "collect",
+        "videoLink": {
+          "ar": "https://player.vimeo.com/video/197276703?autoplay=0&byline=0&portrait=0&color=cccccc",
+          "en": "https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc"
+        },
+        "bannerImage": {
+          "en": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_en.png",
+          "ar": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_ar.png"
+        },
+        "subImage": "https://websiteimages.b-cdn.net/partners/rb/rb_sub_mage.jpg",
+        "intro": {
+          "en": " ",
+          "ar": " "
+        },
+        "subIntro": {
+          "en": "Available on both iPhone and Android, goCollect is the perfect solution for anyone selling their products or services on social media. Just send a payment link to your customers through the channel of their choice, whether that’s email, SMS, WhatsApp, Instagram, Facebook or any other social media platform and receive your payments online instantly! We will settle the amounts you receive to your account within Riyad Bank.",
+          "ar": "تطبيق ”goCollect“ على أجهزة الـ iPhone و الـ Android مثالي لمن يبيع منتجات أو خدمات عبر مواقع التواصل الإجتماعي. يمكنكم الآن استقبال المدفوعات الإلكترونية بشكل فوري من خلال إرسال رابط إلكتروني لعملائكم عبر الرسائل النصية القصيرة SMS أو الوتساب، الإنستغرام، الفيسبوك ، وغيره من مواقع التواصل الإجتماعي. سنقوم بإيداع المبالغ المحصلة في حسابكم مع بنك الرياض."
+        }
+      }
+    ],
+    "intro": {
+      "en": "From the start, Riyad Bank has always been committed to providing innovative digital banking solutions to meet the needs of their customers. They have always prioritized enabling seamless yet secure banking. This is why we are proud to partner with Riyad Bank to increase the range of their digital offerings!\n\nAt Tap, we understand the importance of providing small and medium businesses as well as startups with innovative solutions to enable easier online payment acceptance- no matter what platform they use to sell online! Considering the current exceptional circumstances, it has now become more important than ever to enable easier online payment acceptance for businesses since this also reduces the circulation of cash and can help curb the spread of the Coronavirus.",
+      "ar": "بنك الرياض هو البنك الأكثر ابتكاراً والأجدر بالثقة. يقدم البنك مجموعة متكاملة من الخدمات والمنتجات المصرفية الإسلامية والتقليدية لعملائه من الأفراد والشركات والمؤسسات الناشئة. يواكب بنك الرياض تطلعات عملائه بتقديم خدمات إلكترونية متقدمة ويحرص على تقديم أحدث التقنيات ليتمكن عملاءه من تنفيذ عملياتهم المصرفية من أي مكان بسهولة ويسر وأمان."
+    },
+    "subIntro": {
+      "en": "Working together with Riyad bank, we hope to help move the region towards a cashless future and so this partnership will also help us realize the goals of Vision 2030, particularly the objectives within the Financial Sector Development Program.\n\nTogether, Tap Payments and Riyad Bank will focus on our shared vision to enhance the range and quality of the digital products and services that we provide, to shape the finance sector within the region!",
+      "ar": "تاپ هي لاعب رئيسي في صناعة التقنية المالية والتحول الرقمي المالي في منطقة الشرق الأوسط. وفي المملكة العربية السعودية، نعتز ونفتخر بمساهمتنا في العمل للوصول إلى مجتمع غير نقدي، وهو أحد أهداف برنامج تطوير القطاع المالي.\n\n\nإنطلاقاً من حرص بنك الرياض وحرصنا على صحة وسلامة العملاء والحد من انتشار فايروس كورونا المستجد (COVID-19)، تأتي هذه الشراكة مع بنك الرياض. لتمكين الشركات الصغيرة والمتوسطة وأصحاب الأعمال الحرة، من استقبال المدفوعات إلكترونيا بسهولة وسرعة."
+    }
+  }
+]

@@ -1,0 +1,20 @@
+{
+  "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+  "page": "support",
+  "slot": "support",
+  "color": "#959595",
+  "bannerImage": "https://websiteimages.b-cdn.net/pages/support/banner/support-main.svg",
+  "link": "/support",
+  "content": [
+    {
+      "title": {
+        "en": "How can we help you?",
+        "ar": "كيف يمكننا مساعدتك؟"
+      },
+      "paragraph": {
+        "en": "We’re absolutely here to help and we’re always very happy to hear\nany of your comments, suggestions, or concerns regarding our service and our company.",
+        "ar": "نحن هنا للمساعدة ، وسعداء دائما لسماع تعليقاتك وآرائك بشأن الخدمات التي تقدمها شركتنا."
+      }
+    }
+  ]
+}

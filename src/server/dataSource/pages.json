@@ -1,0 +1,79 @@
+[
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "account",
+    "slot": "account"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "support",
+    "slot": "support"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "jobs",
+    "slot": "jobs"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "about",
+    "slot": "about"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "api",
+    "slot": "api"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "developers",
+    "slot": "developers",
+    "color": "#959595",
+    "iframeSrc": "https://tappayments.api-docs.io/2.0"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "activate-payment",
+    "slot": "activate-payment"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "testimonials",
+    "slot": "testimonials"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "expired-link",
+    "slot": "expired-link"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "knet-otp",
+    "slot": "knet-otp"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "vision2030",
+    "slot": "vision2030"
+  },
+  {
+    "countries": ["sa"],
+    "page": "covid19",
+    "slot": "covid19"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "terms-conditions",
+    "slot": "terms-conditions"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "activate-payment",
+    "slot": "activate-payment"
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "privacy-policy",
+    "slot": "privacy-policy"
+  }
+]

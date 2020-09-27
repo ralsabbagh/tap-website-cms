@@ -1,0 +1,85 @@
+{
+  "component": "container",
+  "props": {
+    "className": "page_container"
+  },
+  "children": [
+    {
+      "component": "spacing",
+      "props": { "space": { "lg": 30, "xs": 0 } }
+    },
+    {
+      "component": "row",
+      "props": {
+        "style": { "xs": { "width": "200px" } },
+        "spacing": { "lg": 70, "xs": 0 },
+        "portitions": {
+          "lg": [0.2, 0.2, 0.2, 0.2, 0.2],
+          "xs": [1, 1, 1, 1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/arabnet.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/paypers.png" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/fintech.png" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/bazar.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/khaleejesque.svg" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+  "page": "about",
+  "slot": "about",
+  "color": "#959595",
+  "bannerImage": "https://websiteimages.b-cdn.net/pages/about/banner/about-main.jpg",
+  "link": "/about",
+  "intro": {
+    "en": "Managing your money is no small task, after all.",
+    "ar": "إدارة مصاريفك ليست أمراً سهلاً في نهاية المطاف."
+  },
+  "subIntro": {
+    "en": "But just because we all have to manage our money that doesn’t mean we all necessarily like managing our money… and it doesn’t mean that we’re always the best at it, either. And yet, as business owners and regular consumers alike, we all have to deal with the maddening work of managing our money—every single day, no matter what. You’re probably asking yourself the same questions we were. Isn’t that why we have technology? Weren’t we supposed to be living better and better… not more and more stressed out?",
+    "ar": "جميعنا مضطرون لإدارة مصاريفنا وحساباتنا بشكل يومي سواء كّنا مستهلكين أو أصحاب أعمال. ولا يعني قيامنا بذلك يومياً أنّنا سعداء بهذه المهمة، ولكنه أمر لا بدّ منه على الرغم من عدم نجاحنا بذلك في أغلب الأوقات.. ولعلّك تسأل نفسك الآن… لماذا كل ذلك؟ ألم توجد التكنولوجيا لجعل حياتنا أبسط وأكثر سهولة وأقل توتراً؟"
+  },
+  "content": [
+    {
+      "title": {
+        "en": "The Beginning",
+        "ar": "البداية"
+      },
+      "paragraph": {
+        "en": "That’s exactly where Tap founders found themselves, once upon a time in the year 2014. Or rather, that’s where they found most Middle Eastern business owners and consumers. They found that, for the world’s leading population of young, wealthy, online savvy, technologically advanced users to still have problems buying and selling things online in their part of the world… Something wasn’t clicking. We live in a world where we didn’t have to deal with drawn out set-up procedures, complicated systems, or inflexible payment methods anymore… but somehow we still were.\n\nWe knew there was a better way. And that way was Tap. So, Tap was born in May 2013, in Kuwait—and with it a whole new era of doing business online in the Middle East. Now businesses could finally bill, accept, receive, and make payments online… easier, faster, and smoother than ever before. Payment clearances that used to take days and weeks to setup, now took just a few hours. Integrating local businesses with the global e-commerce platforms became a real possibility.\n\nNow that Tap is around, managing money—and managing it well—became a whole lot cooler.",
+        "ar": "أمام هذا السؤال، وجد مؤسسوا تاپ أنفسهم بلا إجابة وكان ذلك بداية لتأسيس تاپ عام 2014. فقد لاحظا أن معظم أصحاب الأعمال والمستهلكين في منطقة الشرق الأوسط يعانون من هذه المسألة. وعلى الرغم من أن مجتمعاتنا مليئة بالشباب الشغوفين بالتكنولوجيا والإنترنت، ما زالت عمليات البيع والشراء الإلكترونية متأخّرة ومن هنا راودتهما هذه الفكرة الجديدة. فنحن نعيش في ظل عالم متقدّم يوفّر علينا عناء الأنظمة والإجراءات المعقّدة ، أو طرق الدفع غير المرنة، لكننا رغم ذلك ما زلنا بعيدين عن تطبيق هذا التقدّم على أرض الواقع. لذلك سعى علي ومحمد إلى إيجاد طريقة أفضل. فكانت تاپ. ولدت تاپ في مايو 2013 في الكويت مشكلة انطلاقة مرحلة جديدة للأعمال عبر الإنترنت في منطقة الشرق الأوسط. حيث بات بإمكان أصحاب الأعمال إعداد الفواتير، قبول المدفوعات، استلام وإجراء العمليات المالية إلكترونياً بسهولة وسرعة وطريقة أكثر سلاسة من قبل وباتت إجراءات الحصول على براءة ذمّة مثلا تتم في خلال عدة ساعات بعد أن كانت تتطلب أياما أو أسابيع وأصبح دمج الأعمال المحلية بنظام العمليات المصرفية العالمة حقيقة ممكنة أصبحت إدارة الأموال بطريقة صحيحة عملية أكثر سهولة ومرحاً مع تاپ الآن."
+      }
+    },
+    {
+      "title": {
+        "en": "Fast forward to present day",
+        "ar": "تطوّر سريع ونمو متواصل"
+      },
+      "paragraph": {
+        "en": "Tap now supports over 1000 businesses and major corporations (many of which we’re honored to say you’re familiar with) and has had a (digital!) hand in securing tens of thousands of transactions easily and efficiently for consumers all around the world.\n\nWe’re happily based in Kuwait where our caffeine-fueled team is working day-in, day-out on one really big mission:",
+        "ar": "يدعم تطبيق تاپ اليوم أكثر من 100 مؤسسة وشركة رئيسية (ممن نفتخر بالتعامل معهم) وقد نجح في تقديم مساعدته الرقمية في حماية الآلاف من العمليات المصرفية لعدد من العملاء حول العالم بسهولة وفعالية.\nنحن سعداء بانطلاقتنا من الكويت حيث مركزنا وطاقمنا الشغوف الذي يعمل بجهد متواصل على تنفيذ مهمتنا الضخمة:"
+      }
+    }
+  ],
+  "subImage": "https://websiteimages.b-cdn.net/pages/about/banner/about-sub-image.jpg",
+  "subImageContent": {
+    "title": {
+      "ar": "حياتك أسهل وأعمالك أقوى",
+      "en": "Making your life easier and your business stronger"
+    }
+  },
+  "conclusion": {
+    "en": "If you’re running a business of any kind and need a simple, powerful way to start selling online and accept payments using goSell\\sell and the possibility to bill clients and collect online payments using goCollect\\collect , Tap was built specifically for you.\n\nAt Tap, our greatest goal is serving our clients, our users, and our community every single day. We believe in thinking differently and doing whatever it takes to get to “yes.” Our job is turn roadblocks into opportunities, both in business and in life. In everything we do we strive to be excellent, to over-deliver, and to leave those we impact with the belief that they can do and be more than they ever thought possible.",
+    "ar": "تدير مؤسسة وترغب بنظام مالي بسيط وقوي يساعدك على بيع منتجاتك وإعداد فواتيرك إلكترونياً. goSell\\sell و goCollect\\collect صمّم خصيصاً لتلبية احتياجاتك.\n\nفي تاپ، أهم أهدافنا هو خدمة عملائنا، ومستخدمينا ومجتمعنا كل يوم. نحن نؤمن بالتفكير بطريقة مختلفة ونبذل كل ما في وسعنا لنحقّق ما نطمح إليه . وظيفتنا تحويل العقبات إلى فرص جديدة في الحياة وفي الأعمال. نحن نسعى إلى الأفضل دائماً، وإلى تقديم المزيد وترك أثر وثقة لدى كل عملائنا بأنّ كل شيء ممكن."
+  }
+}

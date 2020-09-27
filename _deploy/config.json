@@ -1,0 +1,16 @@
+{
+  "app": {
+    "name": "tap-website",
+    "version": "1.0.0",
+    "jenkins_env": "prod",
+    "prod_server": "35.193.225.173",
+    "stage_server": "35.193.225.173",
+    "website_url": "http://APP_SERVER/api/Subscription/"
+  },
+  "mail": {
+    "from": "devops@tap.company",
+    "to": "devops@tap.company,r.alsabbagh@tap.company,k.naqawa@tap.company",
+    "to1": "s.kumar@tap.company",
+    "replyTo": "devops@tap.company"
+  }
+}

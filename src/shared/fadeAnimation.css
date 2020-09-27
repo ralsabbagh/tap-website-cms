@@ -1,0 +1,25 @@
+.fade {
+  position: relative;
+  -webkit-animation-name: fade;
+  -webkit-animation-duration: 0.3s;
+  animation-name: fade;
+  animation-duration: 0.3s;
+}
+
+@-webkit-keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes fade {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}

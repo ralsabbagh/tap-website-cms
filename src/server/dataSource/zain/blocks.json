@@ -1,0 +1,35 @@
+[
+  {
+    "slot": "collect/zain",
+    "title": "gocollect",
+    "subtitle": {
+      "en": "send bills",
+      "ar": "إرسال الفواتير"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverColor": "#ff0031"
+  },
+  {
+    "slot": "sell/zain",
+    "title": "gosell",
+    "subtitle": {
+      "en": "accept online payments",
+      "ar": "استقبال المدفوعات الإلكترونية"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverColor": "#00aff0"
+  },
+  {
+    "slot": "tap/zain",
+    "title": "gotap",
+    "subtitle": {
+      "en": "accept instore payments",
+      "ar": "استقبل المدفوعات في المتجر"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goTap1.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goTap2.png",
+    "hoverColor": "#EF4123"
+  }
+]

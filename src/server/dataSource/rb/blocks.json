@@ -1,0 +1,24 @@
+[
+  {
+    "slot": "sell/rb",
+    "title": "gosell",
+    "subtitle": {
+      "en": "accept online payments",
+      "ar": "استقبال المدفوعات الإلكترونية"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverColor": "#00aff0"
+  },
+  {
+    "slot": "collect/rb",
+    "title": "gocollect",
+    "subtitle": {
+      "en": "send bills",
+      "ar": "إرسال الفواتير"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverColor": "#ff0031"
+  }
+]

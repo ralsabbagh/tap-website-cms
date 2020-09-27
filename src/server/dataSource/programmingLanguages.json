@@ -1,0 +1,56 @@
+[
+  {
+    "name": "php",
+    "displayname": "PHP",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/PHP.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  },
+  {
+    "name": "python",
+    "displayname": "Python",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Python.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  },
+  {
+    "name": "aspnet",
+    "displayname": "ASP.NET",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/ASP.NET.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  },
+  {
+    "name": "java",
+    "displayname": "Java",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Java.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  },
+  {
+    "name": "nodejs",
+    "displayname": "Node.js",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Node.js.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  },
+  {
+    "name": "rubyonrails",
+    "displayname": "Ruby on Rails",
+    "image": "https://websiteimages.b-cdn.net/reg-imgs/platforms/Ruby%20on%20Rails.svg",
+    "documentationurl": {
+      "en": "/COUNTRY/en/developers",
+      "ar": "/COUNTRY/ar/developers"
+    }
+  }
+]

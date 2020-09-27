@@ -1,0 +1,17 @@
+{
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/paymentMethods/payments_om_.png",
+    "style": {
+      "xs": {
+        "height": "36px"
+      },
+      "lg": {
+        "height": "46px"
+      }
+    }
+  },
+  "subtitle": {
+    "en": "Collect payments socially with Tap",
+    "ar": "خدمة التحصيل لتجارة التواصل الإجتماعي"
+  }
+}

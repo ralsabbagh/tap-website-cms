@@ -1,0 +1,150 @@
+{
+  "component": "container",
+  "props": {
+    "className": "page_container"
+  },
+  "children": [
+    {
+      "component": "spacing",
+      "props": { "space": { "lg": 20 } }
+    },
+    {
+      "component": "separator",
+      "props": { "width": { "lg": "90%" } }
+    },
+    {
+      "component": "spacing",
+      "props": { "space": { "lg": 80 } }
+    },
+    {
+      "component": "row",
+      "props": {
+        "portitions": {
+          "lg": [0.5, 0.5],
+          "xs": [1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "on": "scroll",
+            "type": "slide",
+            "direction": "right"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": {
+                "src": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_My_list.png"
+              }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "on": "scroll",
+            "type": "slide",
+            "direction": "left"
+          },
+          "children": [
+            {
+              "component": "container",
+              "props": {
+                "style": { "lg": { "textAlign": "left" } }
+              },
+              "children": [
+                {
+                  "component": "row",
+                  "props": {
+                    "spacing": {
+                      "lg": 30
+                    }
+                  },
+                  "children": [
+                    {
+                      "component": "image",
+                      "props": {
+                        "src": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-MyList.png",
+                        "style": { "lg": { "width": "50px", "height": "50px" } }
+                      }
+                    },
+                    {
+                      "component": "container",
+                      "children": [
+                        {
+                          "component": "text",
+                          "props": {
+                            "text": "Multiple Payments",
+                            "level": { "lg": "h5" }
+                          }
+                        },
+                        {
+                          "component": "spacing",
+                          "props": { "space": { "lg": 6 } }
+                        },
+                        {
+                          "component": "text",
+                          "props": {
+                            "text": "All Together, All At Once.",
+                            "level": { "lg": "h6" },
+                            "style": { "lg": { "fontStyle": "italic" } }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "component": "spacing",
+                  "props": { "space": { "lg": 15 } }
+                },
+                {
+                  "component": "paragraph",
+                  "props": {
+                    "level": { "lg": "h6" },
+                    "spans": [
+                      {
+                        "text": "You can now pay for things like your bills, your subscriptions, and your iTunes cards all together, all at once. So while the rest of the world is busy hopping from site to site trying to figure out all their different payments at the same time, you’ll be taking it easy. Because with goPay, life is good.",
+                        "break": true
+                      },
+                      {
+                        "break": true
+                      },
+                      {
+                        "text": "Watch the video",
+                        "className": "blue_link",
+                        "onClick": {
+                          "controller": "popup",
+                          "function": "setState",
+                          "args": {
+                            "state": "open",
+                            "child": {
+                              "component": "iframe",
+                              "props": {
+                                "className": "popup_video",
+                                "src": "https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc"
+                              }
+                            }
+                          }
+                        },
+                        "icon": {
+                          "className": "fa fa-angle-right"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "spacing",
+      "props": { "space": { "lg": 100 } }
+    }
+  ]
+}

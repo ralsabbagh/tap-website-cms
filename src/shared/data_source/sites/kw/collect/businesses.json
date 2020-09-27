@@ -1,0 +1,95 @@
+{
+  "component": "container",
+  "props": {
+    "className": "page_container"
+  },
+  "children": [
+    {
+      "component": "container",
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "spacing",
+              "props": { "space": { "lg": 180 } }
+            },
+            {
+              "component": "text",
+              "props": { "text": "Businesses", "level": { "lg": "h5" } }
+            },
+            {
+              "component": "separator",
+              "props": { "width": { "lg": "250px" } }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "row",
+      "props": {
+        "style": { "xs": { "width": "150px" } },
+        "spacing": { "lg": 170, "md": 150, "sm": 90, "xs": 0 },
+        "portitions": {
+          "lg": [0.25, 0.25, 0.25, 0.25],
+          "xs": [1, 1, 1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_zain.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay-coded.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_itunes.png" }
+            }
+          ]
+        },
+
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay-salto.svg" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

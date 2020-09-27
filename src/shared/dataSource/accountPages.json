@@ -1,0 +1,15 @@
+[
+    {
+      "page":"secure-account",
+      "slot":"secure-account"
+    },
+    {
+      "page":"forgot-password",
+      "slot":"forgot-password"
+    },
+    {
+      "page":"reset-password",
+      "slot":"reset-password"
+    }
+  ]
+  

@@ -1,0 +1,47 @@
+[
+  {
+    "product": "collect",
+    "slot": "collect",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "subPages": [
+      {
+        "page": "activate",
+        "slot": "activate"
+      }
+    ]
+  },
+  {
+    "product": "sell",
+    "slot": "sell",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "subPages": [
+      {
+        "page": "activate",
+        "slot": "activate"
+      }
+    ]
+  },
+  {
+    "product": "tap",
+    "slot": "tap",
+    "countries": ["kw"],
+    "subPages": [
+      {
+        "page": "activate",
+        "slot": "activate"
+      }
+    ]
+  },
+  {
+    "product": "pay",
+    "slot": "pay",
+    "countries": ["kw"],
+    "subPages": []
+  },
+  {
+    "product": "pray",
+    "slot": "pray",
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "subPages": []
+  }
+]

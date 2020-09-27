@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Muli-ExtraLight';
+  src: url('https://websitefonts.b-cdn.net/Muli-ExtraLight.woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal-Light';
+  src: url('https://websitefonts.b-cdn.net/Tajawal-Light.woff2');
+  font-display: swap;
+}
+
+* {
+  font-family: 'Tajawal-Light';
+  /* direction: rtl; */
+}

@@ -1,0 +1,161 @@
+[
+  {
+    "title": {
+      "en": "For Users",
+      "ar": "للمستخدم"
+    },
+    "items": [
+      {
+        "type": "product",
+        "title": {
+          "en": "goPay",
+          "ar": "goPay"
+        },
+        "slot": "pay",
+        "link": "/pay"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "For Business",
+      "ar": "للمتاجر وأصحاب الأعمال"
+    },
+    "items": [
+      {
+        "type": "product",
+        "title": {
+          "en": "goSell",
+          "ar": "goSell"
+        },
+        "slot": "sell",
+        "link": "/sell"
+      },
+      {
+        "type": "product",
+        "title": {
+          "en": "goCollect",
+          "ar": "goCollect"
+        },
+        "slot": "collect",
+        "link": "/collect"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "For Developers",
+      "ar": "للمطورين"
+    },
+    "items": [
+      {
+        "type": "page",
+        "title": {
+          "en": "eCommerce",
+          "ar": "التجارة الالكترونية"
+        },
+        "slot": "api",
+        "link": "/api"
+      },
+      {
+        "type": "page",
+        "title": {
+          "en": "Documentation",
+          "ar": "دليل المبرمجين"
+        },
+        "slot": "developers",
+        "link": "/developers"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Help",
+      "ar": "للمساعدة"
+    },
+    "items": [
+      {
+        "type": "page",
+        "title": {
+          "en": "Support",
+          "ar": "إتصل بنا"
+        },
+        "slot": "jobs",
+        "link": "/support"
+      },
+      {
+        "type": "page",
+        "title": {
+          "en": "Knet OTP",
+          "ar": "كي نت رمز الـOTP"
+        },
+        "slot": "knet-otp",
+        "link": "/knet-otp"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "About Tap",
+      "ar": "عن تاپ"
+    },
+    "items": [
+      {
+        "type": "page",
+        "title": {
+          "en": "Press Info",
+          "ar": "معلومات صحفية"
+        },
+        "link": "?section=pressinfo"
+      },
+      {
+        "type": "page",
+        "title": {
+          "en": "Our Story",
+          "ar": "قصتنا"
+        },
+        "slot": "about",
+        "link": "/about"
+      },
+      {
+        "type": "page",
+        "title": {
+          "en": "Jobs",
+          "ar": "التوظيف"
+        },
+        "slot": "jobs",
+        "link": "/jobs"
+      },
+      {
+        "title": {
+          "en": "Blog",
+          "ar": "المدونة"
+        },
+        "href": "https://ana.tap.company/"
+      }
+    ]
+  },
+  {
+    "title": {
+      "en": "Social Responsibility",
+      "ar": "مسؤولية إجتماعية"
+    },
+    "items": [
+      {
+        "title": {
+          "en": "goPray",
+          "ar": "goPray"
+        },
+        "link": "/pray"
+      },
+      {
+        "title": {
+          "en": "KSA Vision 2030",
+          "ar": "رؤية المملكة العربية السعودية 2030"
+        },
+        "link": "/vision2030",
+        "country": "sa"
+      }
+    ]
+  }
+]

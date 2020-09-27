@@ -1,0 +1,1046 @@
+[
+  {
+    "categoryName":{
+      "en":"Art",
+      "ar":"الفن"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/art.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"Pixies Photography",
+          "ar":"تصوير بيكسيز "
+        },
+        "qoute":{
+          "en":"It’s so easy that I can finish my work even if I’m in my car.",
+          "ar":"من كثر ما هو سهل، أقدر أسوّي شغلي حتى وأنا واقفة بالسيارة."
+        },
+        "shortQoute":{
+          "en":"Get my bookings confirmed in advance!",
+          "ar":"صار يوصلني تأكيد أكثر على موعدهم!"
+        },
+        "utterer":{
+          "en":"Basmah Alqertas",
+          "ar":"بسمة القرطاس"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسسة"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/PixiesPhotography-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Pixies-Photograph-4.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/pixies.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/pixies.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/pixies-photography-basmah-alqertas.png",
+        "videoLink":"https://player.vimeo.com/video/199632278?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"pixies-photography",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/pixiesphoto/"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/pixiesphoto?lang=en"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/pixiesphoto/"
+          }
+        ],
+        "order":5
+      },
+      {
+        "businessName":{
+          "en":"Tashkeel Studio",
+          "ar":"تشكيل"
+        },
+        "qoute":{
+          "en":"Tap took tashkeel beyond GCC, we reached the US!.",
+          "ar":" تاپ خلّه تشكيل أكثر إنتشاراً مو بس بالخليج حتى وصل أمريكا."
+        },
+        "shortQoute":{
+          "en":"Customers can receive their order at anytime!",
+          "ar":"تاپ موثوق يحسّس الزبون بالأمان!"
+        },
+        "utterer":{
+          "en":"Mohsen Alshammeri",
+          "ar":"محسن الشمري"
+        },
+        "uttererPosition":{
+          "en":"Fine Artist",
+          "ar":"فنان تشكيلي"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/Tashkeel-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Tashkeel-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/tashkeel-black.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/tashkeel-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/tashkeel-mohsen-alshammeri.png",
+        "videoLink":"https://player.vimeo.com/video/199632335?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"tashkeel-studio",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/tashkeelhub"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/Tashkeel"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/tashkeelstudio/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://tashkeel.org/"
+          }
+        ],
+        "order":6
+      },
+      {
+        "businessName":{
+          "en":"Manifesto١٣",
+          "ar":"مانيفيستو١٣"
+        },
+        "qoute":{
+          "en":"Before Tap they had to come to pay, now payments collection is way more easier, and they are paying earlier.",
+          "ar":"قبل كان لازم يجون عشان يدفعون، تاپ حققت الفاعلية من ناحية الدفع ومن ناحية إنّه الناس يدفعون أبكر."
+        },
+        "shortQoute":{
+          "en":"It’s only a 2 steps process. Very easy!",
+          "ar":"حسيت أنه عملية مكونة من خطوتين بس، وايد سهل!"
+        },
+        "utterer":{
+          "en":"Dalal Alnafisi",
+          "ar":"دلال النفيسي"
+        },
+        "uttererPosition":{
+          "en":"Owner",
+          "ar":"المالك"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Manafisto13-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/manifesto13-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/manifesto13-2.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/manifesto-dalal-alnafisi.png",
+        "videoLink":"https://player.vimeo.com/video/199632074?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"manifesto",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/Manifesto%D9%A1%D9%A3-725264840899513/?ref=hl"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/manifesto13kwt"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/manifesto13/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://manifesto13.com/"
+          }
+        ],
+        "order":14
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Education",
+      "ar":"التعليم"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/education.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"The Proteges",
+          "ar":"البروتجيز"
+        },
+        "qoute":{
+          "en":"Tap made it easy for the accountant since it handled a lot of his tasks.",
+          "ar":"تاپ سهّلت وايد على المحاسب، وشالت عنّا وايد مهام."
+        },
+        "shortQoute":{
+          "en":"Tap helped us to manage our internal accounting issues.",
+          "ar":"عمليّة التحصيل صارت وايد وايد أسهل."
+        },
+        "utterer":{
+          "en":"Rana Alkhaled",
+          "ar":"رنا الخالد"
+        },
+        "uttererPosition":{
+          "en":"Mentor",
+          "ar":"مرشد"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/Proteges-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/TheProteges-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/theproteges-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/theproteges.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/the-proteges-rana-alkhaled.jpg",
+        "videoLink":"https://player.vimeo.com/video/199782831?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"the-proteges",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/theprotegeskw/?ref=bookmarks"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/the_proteges"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/theproteges/?hl=en"
+          },
+          {
+            "socialMedia":"youtube",
+            "link":"https://www.youtube.com/user/ireland313"
+          },
+          {
+            "socialMedia":"website",
+            "link":"https://www.theproteges.org/"
+          }
+        ],
+        "order":11
+      },
+      {
+        "businessName":{
+          "en":"Sirdab Lab",
+          "ar":"سرداب لاب"
+        },
+        "qoute":{
+          "en":"Tap is the most convenient way to accept payment via email or SMS.",
+          "ar":"تاپ أنسب طريقة نستقبل فيها المدفوعات عن طريق الإيميل أو الرسائل القصيرة."
+        },
+        "shortQoute":{
+          "en":"The best alternative to invoice customers remotely by SMS or email.",
+          "ar":"وايد ارتحنا من خدماتهم!"
+        },
+        "utterer":{
+          "en":"Haider Almosawi",
+          "ar":"حيدر الموسوي"
+        },
+        "uttererPosition":{
+          "en":"CEO & Co-founder",
+          "ar":"رئيس مجلس الإدارة والمؤسس"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/SirdabLab-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/SirdabLab-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/sirdablab-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/sirdab-lab-2.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/sirdab-lab-haider-almosawi.png",
+        "videoLink":"https://player.vimeo.com/video/199632458?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"sirdab-lab",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/sirdab_lab"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/sirdab_lab/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://sirdab-lab.com/"
+          }
+        ],
+        "order":16
+      },
+      {
+        "businessName":{
+          "en":"Yadawi",
+          "ar":"يدوي"
+        },
+        "qoute":{
+          "en":"The nice thing about Tap is that they listen to the customers’ requests.",
+          "ar":"الحلو في تاپ إنّهم يستمعون لطلبات العميل."
+        },
+        "shortQoute":{
+          "en":"Tap was a game changer for Yadawi.",
+          "ar":"الحلو فيهم الحوار!"
+        },
+        "utterer":{
+          "en":"Lubna Abbas",
+          "ar":"لبنى عباس"
+        },
+        "uttererPosition":{
+          "en":"Co-founder",
+          "ar":"مؤسسة"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Yadawi-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/yadawi-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/yadawi-2.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/yadawi-lubna-abbas.png",
+        "videoLink":"https://player.vimeo.com/video/199782877?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"yadawi",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/yadawikuwait/"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/yadawi/"
+          }
+        ],
+        "order":19
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Events",
+      "ar":"الأحداث"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/event.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"Yalwah",
+          "ar":"يلوه"
+        },
+        "qoute":{
+          "en":"The presence of any company with Tap is an added value to this company and it confirms its positioning as they deal with a professional company.",
+          "ar":"وجود أي شركة مع تاپ هو إضافة للشركة ويأكد مركزها لأنهم يتعاملون مع شركة محترفة."
+        },
+        "shortQoute":{
+          "en":"Fast business solution!",
+          "ar":"ما نستغني عنهم!"
+        },
+        "utterer":{
+          "en":"Nour AlBaghli",
+          "ar":"نور البغلي"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"شريك إداري"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/Yalwa-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/yalwa.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/yalwah-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/yalwah-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/yalwah-nour-albaghli.png",
+        "videoLink":"https://player.vimeo.com/video/199783119?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"yalwah",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/yalwah.directory"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/yalwahkw"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/yalwahkw/?hl=en"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.yalwah.com/"
+          }
+        ],
+        "order":3
+      },
+      {
+        "businessName":{
+          "en":"Gulfrun",
+          "ar":"چلف رن"
+        },
+        "qoute":{
+          "en":"Very convenient, since it saves the hustle of collecting the unpaid bills.",
+          "ar":"شي مريّحنا من ناحية يفكك من إنك تراكض وراء أشخاص مع فواتير."
+        },
+        "shortQoute":{
+          "en":"Remind people about their payment without the hassle of calling them every time!",
+          "ar":"تاپ توفر عليك الإحراج عند تحصيل مبلغ من حقك!"
+        },
+        "utterer":{
+          "en":"Marzouq Alghanim",
+          "ar":"مرزوق الغانم"
+        },
+        "uttererPosition":{
+          "en":"Partner",
+          "ar":"شريك"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/GulfRun-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/gulfrun.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/gulfrun.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/gulfrun-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/gulfrun-marzouq-alghanim.png",
+        "videoLink":"https://player.vimeo.com/video/199783012?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"gulfrun",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/gulfrun"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/gulfrun"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/gulfrun/"
+          },
+          {
+            "socialMedia":"youtube",
+            "link":"https://www.youtube.com/user/gulfruntv"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.gulfrun.com/"
+          }
+        ],
+        "order":7
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Food",
+      "ar":"الطعام"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/food.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"The Urban Creamery",
+          "ar":"ذا يوربان كريمري"
+        },
+        "qoute":{
+          "en":"I always recommend them to use goCollect, it makes it easier to them since it doesn’t waste their time and effort.",
+          "ar":" دائماً أنصح إنّه يستخدمون goCollect..يسهّل عليهم وما يضيّع عليهم الشغل."
+        },
+        "shortQoute":{
+          "en":" Get paid before delivering the order!",
+          "ar":"دائماً أنصح ربعي بتاپ!"
+        },
+        "utterer":{
+          "en":"Danah Alfulaij",
+          "ar":"دانة الفليج"
+        },
+        "uttererPosition":{
+          "en":"Managing Partner",
+          "ar":"شريك إداري"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/UrbanCreamery-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/UrbanCreamery-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/urban-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/urbancreamery.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/urban-creamery-danah-alfulaij.jpg",
+        "videoLink":"https://player.vimeo.com/video/199783738?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"the-urban-creamery",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/urbancreamery"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/Urbancreamery"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/urbancreamery/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.urbancreamerykwt.com/"
+          }
+        ],
+        "order":2
+      },
+      {
+        "businessName":{
+          "en":"Ubon",
+          "ar":"أوبون"
+        },
+        "qoute":{
+          "en":"Tap is very simple yet it’s exactly what we need!",
+          "ar":"تاپ وايد بسيط لكن بنفس الوقت الّي نحتاجه."
+        },
+        "shortQoute":{
+          "en":"Very simple but exactly just what you need!",
+          "ar":"ماله داعي نفتر على جميع فروع مطاعمنا ونشرف على الحجوزات!"
+        },
+        "utterer":{
+          "en":"Rashed Alfoudari",
+          "ar":"راشد الفودري"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسس"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/Ubon-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Ubon-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/ubon-orginal.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/ubon-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/ubon-rashed-alfoudari.png",
+        "videoLink":"https://player.vimeo.com/video/199784030?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"ubon",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/ubonkw"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/ubonkw/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.ubonkw.com/"
+          }
+        ],
+        "order":8
+      },
+      {
+        "businessName":{
+          "en":"Pasticceria Di Pietro - Dipietro",
+          "ar":"ديبيترو"
+        },
+        "qoute":{
+          "en":"Sending an invoice simply and quickly and having it paid, that’s the most important thing.",
+          "ar":"البساطة وسرعة إرسال الفاتورة مع معرفة إنها اندفعت..هذا أهم شي."
+        },
+        "shortQoute":{
+          "en":"Simplicity",
+          "ar":"سهّل علينا أمور المدفوعات!"
+        },
+        "utterer":{
+          "en":"Luciano & Mays",
+          "ar":"لوسيانو وميس ديبيترو"
+        },
+        "uttererPosition":{
+          "en":"Founders",
+          "ar":"مؤسسين"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/depietro.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/dipietro-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/dipietro.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/di-pietro-dipietro-luciano-and-mays.jpg",
+        "videoLink":"https://player.vimeo.com/video/199783283?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"pasticceria-di-pietro-dipietro",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/pasticceria.dipietro"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/dipietro_kw/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"https://pasticceriadipietro.com/"
+          }
+        ],
+        "order":10
+      },
+      {
+        "businessName":{
+          "en":"Cake District",
+          "ar":"كيك ديستركت"
+        },
+        "qoute":{
+          "en":"You won’t have any problems collecting your money.",
+          "ar":"ما رح تصير عندك مشكلة بتحصيل الأموال."
+        },
+        "shortQoute":{
+          "en":"Secure your payments before delivering the product.",
+          "ar":"تاپ حل مشكلة تحصيل الأموال!"
+        },
+        "utterer":{
+          "en":"Omar Alruwaih",
+          "ar":"عمر الرويح"
+        },
+        "uttererPosition":{
+          "en":"Owner",
+          "ar":"مالك"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/depietro.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/cake-district.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/Cakedistrict.jpg",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/cake-district-omar-alruwaih.png",
+        "videoLink":"https://player.vimeo.com/video/199783227?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"cake-district",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/cakedistrictkw/"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/cakedistrict_kw/?hl=en"
+          }
+        ],
+        "order":12
+      },
+      {
+        "businessName":{
+          "en":"Frosting Treats",
+          "ar":"فروستنغ"
+        },
+        "qoute":{
+          "en":"It made the delivery process faster, the driver just delivers the product and leaves.",
+          "ar":"سرّع طريقة التوصيل، إنّه السايق بس يوصل المنتج ويمشي. "
+        },
+        "shortQoute":{
+          "en":"Tap made the delivery process even easier!",
+          "ar":"وايد فادني بطريقة إيجابية!"
+        },
+        "utterer":{
+          "en":"Alrabab Jamal",
+          "ar":"الرباب جمال"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسس"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/Frosting-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/FrostingTreats-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/frostingtreats.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/frostingtreats.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/frosting-treats-alrabab-jamal.png",
+        "videoLink":"https://player.vimeo.com/video/199783544?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"frosting-treats",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/frostingtreats/"
+          }
+        ],
+        "order":18
+      },
+      {
+        "businessName":{
+          "en":"Minwain",
+          "ar":"من وين"
+        },
+        "qoute":{
+          "en":"People, mostly the new generation, are more towards online payments.",
+          "ar":"الناس وخاصة الجيل الجديد أكثر إقبال على الدفع الإلكتروني."
+        },
+        "shortQoute":{
+          "en":"Tap allowed us match people expectations by only sending them a link to pay.",
+          "ar":"ادفع وأنت بمكانك!"
+        },
+        "utterer":{
+          "en":"Abdulwahab Aljuhairy",
+          "ar":"عبد الوهاب الجهيري"
+        },
+        "uttererPosition":{
+          "en":"Co-founder",
+          "ar":"مؤسس"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Minwain-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/minwean-color-en.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/minwain.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/minween-abdulwahab-aljuhairy.png",
+        "videoLink":"https://player.vimeo.com/video/199783629?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"minwain",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/minwainapp/"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/minwain/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.minwain.co/"
+          }
+        ],
+        "order":20
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Gifts",
+      "ar":"هدايا"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/gift.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"Dar Haa",
+          "ar":"دار هاء"
+        },
+        "qoute":{
+          "en":"Honestly it impacted two things not only on sales, Tap impacted my convenience and my customers’ convenience.",
+          "ar":"أثّر على شييّن الصّراحة مو بس المبيعات، تاپ أثّر على راحتي وراحة الزبون."
+        },
+        "shortQoute":{
+          "en":"Secure your payments before delivering the item!",
+          "ar":"قلّل المشاكل مع شركة التوصيل والزبون!"
+        },
+        "utterer":{
+          "en":"Haya Alomar",
+          "ar":"هيا العمر"
+        },
+        "uttererPosition":{
+          "en":"Owner",
+          "ar":"المالك"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/darhaa.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Darhaa-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/darhaa.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/darhaa-2.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/darhaa-haya-alomar.png",
+        "videoLink":"https://player.vimeo.com/video/199784064?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"dar-haa",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/darhaa_kw?lang=en"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/darhaa_kw/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://darhaa.com/"
+          }
+        ],
+        "order":4
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Membership",
+      "ar":"العضوية"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/membership.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"Porsche Club",
+          "ar":"نادي بورش الكويت"
+        },
+        "qoute":{
+          "en":"The annual membership renewals are currently much easier.",
+          "ar":" تجديد الاشتراكات السنويّة حالياً وايد وايد أسهل."
+        },
+        "shortQoute":{
+          "en":"Paying in a click!",
+          "ar":"تاپ سهّل علينا وعليهم!"
+        },
+        "utterer":{
+          "en":"Mohammed Alwazzan",
+          "ar":"محمد الوزان"
+        },
+        "uttererPosition":{
+          "en":"Event Manager",
+          "ar":"منظم فعاليات"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Porsche-Club-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/prosche-club.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/porsche-club.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/porsche-club-mohammed-alwazzan.png",
+        "videoLink":"https://player.vimeo.com/video/199784621?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0&player_id=pclub",
+        "directLink":"porsche-club",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/PorscheClubKuwait/"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/PorscheClubq8"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/PorscheClubq8/"
+          },
+          {
+            "socialMedia":"youtube",
+            "link":"https://www.youtube.com/user/PorscheClubKuwait"
+          }
+        ],
+        "order":1
+      },
+      {
+        "businessName":{
+          "en":"Birth Kuwait",
+          "ar":"بيرث كويت"
+        },
+        "qoute":{
+          "en":"Till now, all the people paying through Tap are happy because they can pay anytime anywhere.",
+          "ar":" لحد الآن كل النّاس الّي يدفعون عن طريق تاپ مبسوطين لأنهم يقدرون يدفعون بأي مكان وبأي وقت."
+        },
+        "shortQoute":{
+          "en":"People can pay anytime from anywhere!",
+          "ar":"واجهة البرنامج وايد حلوة!"
+        },
+        "utterer":{
+          "en":"Heba Alali",
+          "ar":"هبة العالي"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسسة"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/BirthKuwait-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/BirthKuwait-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/birthkw-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/birthkuwiat.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/birth-kuwait-heba-alali.png",
+        "videoLink":"https://player.vimeo.com/video/199784578?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"birth-kuwait",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/BirthKuwait"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/BirthKuwait"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/birthkuwait/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.birthkuwait.com/"
+          }
+        ],
+        "order":18
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Sports",
+      "ar":"الرياضة"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/sports.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"IQ8hoops",
+          "ar":"كيو ايت هوبز"
+        },
+        "qoute":{
+          "en":"With Tap you now you have a collector inside and outside Kuwait.",
+          "ar":"هالسّنة مع دخول تاپ ياني سبعين بالمية من الاشتراكات خلال يومين."
+        },
+        "shortQoute":{
+          "en":"Tap increased our sales!",
+          "ar":"تاپ زادت مبيعاتنا!"
+        },
+        "utterer":{
+          "en":"Shuaib Shuaib",
+          "ar":"شعيب شعيب"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسس"
+        },
+        "circleImage":"https://websiteimages.b-cdn.net/testimonialsPage/testimonialsCircles/q8hoops-circle.png",
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/q8hoops.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/q8hoops.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/q8hoops-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/q8hoops-shuaib-shuaib.png",
+        "videoLink":"https://player.vimeo.com/video/199783059?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"q8hoops",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/Q8Hoops-216407855063261/"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/q8hoops"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/q8hoops/?hl=en"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://q8hoops.com/"
+          }
+        ],
+        "order":9
+      },
+      {
+        "businessName":{
+          "en":"Arsenal Soccer",
+          "ar":"آرسنال سوكر"
+        },
+        "qoute":{
+          "en":" With Tap you now you have a collector inside and outside Kuwait.",
+          "ar":" ضمن لنا راحة عملائنا وهذا الّي نبيه طبعاً."
+        },
+        "shortQoute":{
+          "en":"With Tap it’s a lot easier to track your payments.",
+          "ar":"وايد ساعدنا نكون أفضل بلّي نسويه."
+        },
+        "utterer":{
+          "en":"Hannah Farmer",
+          "ar":"هنا فارمر"
+        },
+        "uttererPosition":{
+          "en":"School Director",
+          "ar":"مديرة المدرسة"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Arsnel-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/soccerschools-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/soccerschool.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/arsenal-soccer-hannah-farmer.png",
+        "videoLink":"https://player.vimeo.com/video/199784911?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"arsenal-soccer",
+        "order":13
+      },
+      {
+        "businessName":{
+          "en":"Soccer Tools",
+          "ar":"سوكر تولز"
+        },
+        "qoute":{
+          "en":"It saved me time, most importantly, I can accept payments from outside Kuwait using Visa & MasterCard.",
+          "ar":" وفّر عليّ وقت وسرعة، وأهم نقطة أني أحصل المبالغ إلي برّه الكويت عن طريق الفيزا والماستر."
+        },
+        "shortQoute":{
+          "en":"Keep track of all transactions.",
+          "ar":"مع تاپ دز الفاتورة للعميل وبعدها سلّم البضاعة."
+        },
+        "utterer":{
+          "en":"Hesham Alaoud",
+          "ar":"هشام العود"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسس"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Soccer-tools-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/soccertools-color-1.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/soccertools.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/soccer-tools-hesham-alaoud.png",
+        "videoLink":"https://player.vimeo.com/video/199784952?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"soccer-tools",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/soccer_tools"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/soccer_tools/"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://st-kw.com/"
+          }
+        ],
+        "order":15
+      }
+    ]
+  },
+  {
+    "categoryName":{
+      "en":"Travel",
+      "ar":"السفر"
+    },
+    "categoryIcon":"https://websiteimages.b-cdn.net/testimonialsPage/businessesCategories/travel.svg",
+    "categoryBusinesses":[
+      {
+        "businessName":{
+          "en":"Pearl Lagoon",
+          "ar":"بيرل لاجون"
+        },
+        "qoute":{
+          "en":"It limited the lake of credibility of some customers.",
+          "ar":" حدّت من عدم مصداقية بعض الزبائن."
+        },
+        "shortQoute":{
+          "en":"Get my payments on time and get everything ready in advance for my clients.",
+          "ar":"مع خدمة الدفع الأون لاين الزبون ممكن يدفع بأي وقت."
+        },
+        "utterer":{
+          "en":"Houmod Alharbi",
+          "ar":"حمود الحربي"
+        },
+        "uttererPosition":{
+          "en":"Founder",
+          "ar":"مؤسس"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/Pearl-lagoon-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/pearl-lagoon-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/pearl-lagoon.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/pearl-lagoon-houmod-alharbi.png",
+        "videoLink":"https://player.vimeo.com/video/199785113?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"pearl-lagoon",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/q8_mini_yacht/"
+          }
+        ],
+        "order":14
+      },
+      {
+        "businessName":{
+          "en":"Its Sports",
+          "ar":"ايتس سبورتس"
+        },
+        "qoute":{
+          "en":" With Tap you now you have a collector inside and outside Kuwait.",
+          "ar":" مع تاپ صار عندك مندوب داخل الكويت وخارجها."
+        },
+        "shortQoute":{
+          "en":"Our sales increased since we’ve started using Tap, mostly online.",
+          "ar":"بتزيد نسبة المبيعات خصوصاً بالأون لاين!"
+        },
+        "utterer":{
+          "en":"Samer Al Saydali",
+          "ar":"سمير الصيدلي"
+        },
+        "uttererPosition":{
+          "en":"Captain",
+          "ar":"كابتن"
+        },
+        "sliderBackground":"https://websiteimages.b-cdn.net/testimonialsPage/bannerImages/its-sports-5.png",
+        "logo":"https://websiteimages.b-cdn.net/testimonialsPage/icons/itssportsco-color.png",
+        "squareLogo":"https://websiteimages.b-cdn.net/testimonialsPage/squareIcon/itssportsco-1.png",
+        "businessImage":"https://websiteimages.b-cdn.net/testimonialsPage/images/its-sports-samer-al-saydali.png",
+        "videoLink":"https://player.vimeo.com/video/199785012?autoplay=0&loop=0&autopause=1&title=0&byline=0&portrait=0",
+        "directLink":"its-sports",
+        "socialMediaLinks":[
+          {
+            "socialMedia":"facebook",
+            "link":"https://www.facebook.com/itssport/"
+          },
+          {
+            "socialMedia":"twitter",
+            "link":"https://twitter.com/ItsSportsCo"
+          },
+          {
+            "socialMedia":"instagram",
+            "link":"https://www.instagram.com/itssportsco/"
+          },
+          {
+            "socialMedia":"youtube",
+            "link":"https://www.youtube.com/channel/UCLoKqyCZanmYof7rpkQvPzg"
+          },
+          {
+            "socialMedia":"website",
+            "link":"http://www.its-sports.com/"
+          }
+        ],
+        "order":17
+      }
+    ]
+  }
+]

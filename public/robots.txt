@@ -1,0 +1,21 @@
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 10
+Sitemap: https://www.tap.company/sitemap.xml
+
+User-agent: *
+Allow: /api/
+Crawl-delay: 10
+Sitemap: https://www.tap.company/sitemap.xml
+
+User-agent: OtherBot
+Allow: /allow-for-all-bots
+Allow: /allow-only-for-other-bot
+Crawl-delay: 10
+Sitemap: https://www.tap.company/sitemap.xml
+
+User-agent: *
+Allow: /
+Disallow: /search
+Crawl-delay: 10
+Sitemap: https://www.tap.company/sitemap.xml

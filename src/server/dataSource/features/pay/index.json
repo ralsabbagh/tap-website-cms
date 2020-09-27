@@ -1,0 +1,64 @@
+[
+  {
+    "categoryName": "category_title",
+    "showMoreButtonText": "category_more_button",
+    "showLessButtonText": "category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "list_title",
+        "subtitle": "list_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-MyList.png",
+        "description": "list_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_My_list.png",
+        "videoButtonText": "list_action_text",
+        "video": "list_video"
+      },
+      {
+        "title": "multiple_payments_title",
+        "subtitle": "multiple_payments_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-multi-payments.png",
+        "description": "multiple_payments_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_Multi_Payments.png",
+        "videoButtonText": "multiple_payments_action_text",
+        "video": "multiple_payments_video"
+      },
+      {
+        "title": "notifications_title",
+        "subtitle": "notifications_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-notifications.png",
+        "description": "notifications_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_Notifications.png",
+        "videoButtonText": "notifications_action_text",
+        "video": "notifications_video"
+      },
+      {
+        "title": "scan_title",
+        "subtitle": "scan_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-Scan.png",
+        "description": "scan_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_Scan.png",
+        "videoButtonText": "scan_action_text",
+        "video": "scan_video"
+      },
+      {
+        "title": "receipts_title",
+        "subtitle": "receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-Receipts.png",
+        "description": "receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_Receipts.png",
+        "videoButtonText": "receipts_action_text",
+        "video": "receipts_video"
+      },
+      {
+        "title": "security_title",
+        "subtitle": "security_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-Security.png",
+        "description": "security_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_Security.png",
+        "videoButtonText": "security_action_text",
+        "video": "security_video"
+      }
+    ]
+  }
+]

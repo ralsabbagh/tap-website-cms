@@ -1,0 +1,33 @@
+{
+  "title": {
+    "en": "In The News",
+    "ar": "في الأخبار"
+  },
+  "items": [
+    {
+      "name": "arabnet",
+      "image": "https://websiteimages.b-cdn.net/inthenews/arabnet.svg",
+      "link": " https://www.arabnet.me/english/editorials/Business/E-Commerce/Tap--Payment-Solutions-Made-Easy-Quick-and-Secure"
+    },
+    {
+      "name": "thepaypers",
+      "image": "https://websiteimages.b-cdn.net/inthenews/paypers.png",
+      "link": "https://thepaypers.com/interviews/exclusive-interview-with-ali-abulhasan-ceo-of-tap-payments-on-payment-methods-and-ecommerce-trends-in-mena/778919-38"
+    },
+    {
+      "name": "fintech",
+      "image": "https://websiteimages.b-cdn.net/inthenews/fintech.png",
+      "link": "https://fintechnews.ae/4433/saudiarabia/saudi-arabia-18-companies-join-fintech-regulatory-sandbox/"
+    },
+    {
+      "name": "bazar",
+      "image": "https://websiteimages.b-cdn.net/inthenews/bazar.svg",
+      "link": "http://bazaar.town/tap-the-smart-way-to-pay/"
+    },
+    {
+      "name": "khaleejsque",
+      "image": "https://websiteimages.b-cdn.net/inthenews/khaleejesque.svg",
+      "link": "https://websiteimages.b-cdn.net//inthenews/Science-Culture-Tap-Liltera-R-Williams-April-.pdf"
+    }
+  ]
+}

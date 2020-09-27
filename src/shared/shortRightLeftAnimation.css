@@ -1,0 +1,71 @@
+.shortFromRight {
+  position: relative;
+  -webkit-animation-name: shortFromRight;
+  -webkit-animation-duration: 1.5s;
+  animation-name: shortFromRight;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes shortFromRight {
+  0% {
+    opacity: 0;
+    left: 100px;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    left: 0px;
+  }
+}
+
+@keyframes shortFromRight {
+  0% {
+    opacity: 0;
+    left: 100px;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    left: 0px;
+  }
+}
+
+.shortFromLeft {
+  position: relative;
+  -webkit-animation-name: shortFromLeft;
+  -webkit-animation-duration: 1.5s;
+  animation-name: shortFromLeft;
+  animation-duration: 1.5s;
+}
+
+@-webkit-keyframes shortFromLeft {
+  0% {
+    opacity: 0;
+    right: 100px;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    right: 0px;
+  }
+}
+
+@keyframes shortFromLeft {
+  0% {
+    opacity: 0;
+    right: 100px;
+  }
+  50% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+    right: 0px;
+  }
+}

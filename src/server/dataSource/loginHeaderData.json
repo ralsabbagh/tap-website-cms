@@ -1,0 +1,45 @@
+{
+  "inputsPlaceholders": [
+    {
+      "type": "email",
+      "placeholder": {
+        "en": "Email Address",
+        "ar": "البريد الإلكتروني"
+      }
+    },
+    {
+      "type": "password",
+      "placeholder": {
+        "en": "Password",
+        "ar": "رمز المرور"
+      }
+    }
+  ],
+  "buttonsTexts": [
+    {
+      "text": {
+        "en": "Sign In",
+        "ar": "دخول"
+      }
+    }
+  ],
+  "links": [
+    {
+      "link": {
+        "ar": "http://sandbox.register.tap.company/COUNTRY/ar",
+        "en": "http://sandbox.register.tap.company/COUNTRY/en"
+      },
+      "linkText": {
+        "en": "Sign Up",
+        "ar": "سجّل"
+      }
+    },
+    {
+      "link": "/account/forgot-password",
+      "linkText": {
+        "en": "Forgot Password?",
+        "ar": "نسيت رمز المرور؟"
+      }
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "background": "https://websiteimages.b-cdn.net/bannerImages/home/eg_main_banner_mob.jpg",
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/paymentMethods/white/payments_eg_white_.svg",
+    "style": {
+      "height": "23px",
+      "width": "280.5px"
+    }
+  },
+  "text": {
+    "en": "Start Accepting Online Payments",
+    "ar": "استقبل المدفوعات\nالإلكترونية"
+  }
+}

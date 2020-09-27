@@ -1,0 +1,17 @@
+{
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/paymentMethods/payments_om_.png",
+    "style": {
+      "xs": {
+        "height": "36px"
+      },
+      "lg": {
+        "height": "46px"
+      }
+    }
+  },
+  "subtitle": {
+    "en": "Activate online payments for your online commerce",
+    "ar": "فعل المدفوعات الإلكترونية للتجارة عبر الإنترنت "
+  }
+}

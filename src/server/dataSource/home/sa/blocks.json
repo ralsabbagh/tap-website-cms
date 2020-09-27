@@ -1,0 +1,52 @@
+[
+  {
+    "slot": "collect",
+    "title": "gocollect",
+    "subtitle": {
+      "en": "send bills",
+      "ar": "إرسال الفواتير"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverColor": "#ff0031"
+  },
+  {
+    "slot": "sell",
+    "title": "gosell",
+    "subtitle": {
+      "en": "accept online payments",
+      "ar": "استقبال المدفوعات الإلكترونية"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverColor": "#00aff0"
+  },
+  {
+    "slot": "rb",
+    "title": {
+      "en": "banking partner",
+      "ar": "شريك استراتيجي"
+    },
+    "subtitle": {
+      "en": "promoting a cashless society",
+      "ar": "نحو مجتمع رقمي غير نقدي"
+    },
+    "image": "https://websiteimages.b-cdn.net/partners/rb/RB1.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/partners/rb/rb3.png",
+    "hoverColor": "#282868"
+  },
+  {
+    "slot": "vision2030",
+    "title": {
+      "ar": "رؤية 2030",
+      "en": "vision 2030"
+    },
+    "subtitle": {
+      "en": "National Transformation Program",
+      "ar": "برنامج التحول الوطني"
+    },
+    "image": "https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png",
+    "hoverColor": "#005a61"
+  }
+]

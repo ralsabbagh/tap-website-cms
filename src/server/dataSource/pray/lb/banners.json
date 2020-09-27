@@ -1,0 +1,55 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#3f3e3a",
+      "style": {}
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/gopray-main.png",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/gopray-main.png"
+      },
+      "style": {
+        "lg": { "width": "70%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "sms",
+      "schedule_for": "GP",
+      "color": "#3f3e3a",
+      "product": "pray",
+      "title": {
+        "en": "Find Faith & Goodwill, Wherever You Go",
+        "ar": "هديتكم -- مِن  تاب"
+      },
+      "shortTitle": {
+        "en": "Find Faith & Goodwill\nWherever You Go",
+        "ar": "هديتكم -- مِن  تاب"
+      },
+      "actionTitle": {
+        "en": "Please enter your mobile number",
+        "ar": "الرجاء إدخال رقم هاتفك"
+      },
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Send a download link",
+        "ar": "أرسل رابط التحميل"
+      },
+      "linkText": {
+        "en": "Download the app",
+        "ar": "حمّل التطبيق "
+      },
+      "link": {
+        "ios": "https://itunes.apple.com/us/app/gopray-by-tap/id1233380166?ls=1&mt=8",
+        "android": "https://play.google.com/store/apps/details?id=com.tap.tapcompass"
+      }
+    }
+  }
+]

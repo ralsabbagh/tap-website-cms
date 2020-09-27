@@ -1,0 +1,126 @@
+[
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "account",
+    "slot": "account",
+    "content": {}
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "support",
+    "slot": "support",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/support.json",
+      "formsFields": "src/server/dataSource/formsFields.json",
+      "addresses": "src/server/dataSource/addresses.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "jobs",
+    "slot": "jobs",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/jobs.json",
+      "formsFields": "src/server/dataSource/formsFields.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "about",
+    "slot": "about",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/about.json",
+      "teamMembers": "src/server/dataSource/teamMembers.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "api",
+    "slot": "api",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/api.json",
+      "programmingLanguages": "src/server/dataSource/programmingLanguages.json",
+      "platforms": "src/server/dataSource/platforms.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "developers",
+    "slot": "developers",
+    "color": "#959595",
+    "iframeSrc": "https://tappayments.api-docs.io/2.0",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/api.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "activate-payment",
+    "slot": "activate-payment",
+    "content": {
+      "paymentMethods": "src/server/dataSource/paymentMethods.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "testimonials",
+    "slot": "testimonials",
+    "content": {
+      "testimonials": "src/server/dataSource/testimonialsPage.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "expired-link",
+    "slot": "expired-link",
+    "content": {
+      "forgotPasswordPage": "src/server/dataSource/forgotPasswordPage.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "knet-otp",
+    "slot": "knet-otp",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/knet-otp.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "vision2030",
+    "slot": "vision2030",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/vision2030.json",
+      "tapPageIntro": "src/server/dataSource/tapPageIntro.json"
+    }
+  },
+  {
+    "countries": ["sa"],
+    "page": "covid19",
+    "slot": "covid19",
+    "content": {
+      "pageObj": "src/server/dataSource/pages/covid19.json",
+      "tapPageIntro": "src/server/dataSource/tapPageIntro.json",
+      "businesses": "src/server/dataSource/businesses.json",
+      "callToAction": "src/server/dataSource/callToAction.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "terms-conditions",
+    "slot": "terms-conditions",
+    "content": {
+      "termsConditions": "src/server/dataSource/pages/terms-conditions.json",
+      "privacyPolicy": "src/server/dataSource/pages/privacy-policy.json"
+    }
+  },
+  {
+    "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+    "page": "privacy-policy",
+    "slot": "privacy-policy",
+    "content": {
+      "termsConditions": "src/server/dataSource/pages/terms-conditions.json",
+      "privacyPolicy": "src/server/dataSource/pages/privacy-policy.json"
+    }
+  }
+]

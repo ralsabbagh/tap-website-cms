@@ -1,0 +1,50 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#ff0031",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/boubyan/boubyan-symbol.svg)",
+          "backgroundSize": "cover",
+          "backgroundPosition": "center"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/boubyan/boubyan-symbol.svg)",
+          "backgroundSize": "400%",
+          "backgroundPosition": "center"
+        }
+      }
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/gotap-devices-english.png",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/gotap-devices-english.png"
+      },
+      "style": {
+        "lg": { "width": "70%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "link",
+      "color": "#ff0031",
+      "logo": "https://websiteimages.b-cdn.net/partners/boubyan/boubyan-tap-logo.svg",
+      "title": {
+        "en": "goTap\nGo Everywhere",
+        "ar": "goTap\nعملك في كل مكان"
+      },
+      "shortTitle": {
+        "en": "goTap\nGo Everywhere",
+        "ar": "goTap\nعملك في كل مكان"
+      },
+      "linkText": {
+        "en": "Grab your device",
+        "ar": "اطلب جهازك"
+      },
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeYru2t77hiqoYQSuOkIKEVIOaN0-n14CG6htPykqZDV8BaqQ/viewform?vc=0&c=0&w=1"
+    }
+  }
+]

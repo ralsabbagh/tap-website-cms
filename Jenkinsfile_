@@ -1,0 +1,53 @@
+#!/usr/bin/env groovy
+pipeline {
+    agent any
+
+    environment {        
+        // DB_ENGINE    = 'sqlite'
+        APP_NAME = 'tap-website'
+        APP_VERSION = getAppVersion()        
+        IMAGE_NAME  = "${env.APP_NAME}:${env.APP_VERSION}"
+        REGISTRY_ADDRESS = 'hub.docker.tap.company'        
+    }
+
+    stages {
+        stage('Clone repository') {
+            steps{
+                checkout scm
+            }
+        }
+        stage('Print environment') {
+            steps{
+                sh 'git --version'
+                echo "Branch: ${env.BRANCH_NAME}"
+                sh 'docker -v'
+                sh 'printenv'                      
+            }
+        }     
+        stage('Build image') {
+            steps{
+                // echo "APP_NAME: ${env.APP_NAME}"
+                // echo "APP_VERSION: ${env.APP_VERSION}"                
+                // echo "docker build -t ${env.APP_NAME}:${env.APP_VERSION} -f Dockerfile --no-cache"
+                sh "docker build -t ${env.IMAGE_NAME} . --no-cache"
+            }
+        }
+        stage('Building image') {
+            steps{
+                script {
+                    if(env.BRANCH_NAME == 'master'){
+                        sh 'docker tag ${env.IMAGE_NAME} ${env.REGISTRY_ADDRESS}/library/${env.IMAGE_NAME}'
+                        sh 'docker push ${env.REGISTRY_ADDRESS}/library/${env.IMAGE_NAME}'
+                        sh 'docker rmi -f ${env.IMAGE_NAME} ${env.REGISTRY_ADDRESS}/library/${env.IMAGE_NAME}'                    
+                    }
+                }
+            }
+        }     
+    }
+}
+
+def getAppVersion(){
+    def packageJSON = readJSON file: 'package.json'
+    def packageJSONVersion = packageJSON.version
+    return packageJSONVersion
+}

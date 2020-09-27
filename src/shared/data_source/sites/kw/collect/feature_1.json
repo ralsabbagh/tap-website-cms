@@ -1,0 +1,159 @@
+{
+  "component": "container",
+  "props": {
+    "className": "page_container"
+  },
+  "children": [
+    {
+      "component": "container",
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "spacing",
+              "props": { "space": { "lg": 150 } }
+            },
+            {
+              "component": "text",
+              "props": { "text": "Features", "level": { "lg": "h5" } }
+            },
+            {
+              "component": "separator",
+              "props": { "width": { "lg": "250px" } }
+            },
+            {
+              "component": "spacing",
+              "props": { "space": { "lg": 50 } }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "row",
+      "props": {
+        "portitions": {
+          "lg": [0.5, 0.5],
+          "xs": [1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "on": "scroll",
+            "type": "slide",
+            "direction": "right"
+          },
+          "children": [
+            {
+              "component": "container",
+              "props": {
+                "style": { "lg": { "textAlign": "left" } }
+              },
+              "children": [
+                {
+                  "component": "row",
+                  "props": {
+                    "spacing": {
+                      "lg": 30
+                    }
+                  },
+                  "children": [
+                    {
+                      "component": "image",
+                      "props": {
+                        "src": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Icons/gopay-Icon-MyList.png",
+                        "style": { "lg": { "width": "50px", "height": "50px" } }
+                      }
+                    },
+                    {
+                      "component": "container",
+                      "children": [
+                        {
+                          "component": "text",
+                          "props": {
+                            "text": "List",
+                            "level": { "lg": "h5" }
+                          }
+                        },
+                        {
+                          "component": "spacing",
+                          "props": { "space": { "lg": 6 } }
+                        },
+                        {
+                          "component": "text",
+                          "props": {
+                            "text": "Flow Through Your Finances.",
+                            "level": { "lg": "h6" },
+                            "style": { "lg": { "fontStyle": "italic" } }
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "component": "spacing",
+                  "props": { "space": { "lg": 15 } }
+                },
+                {
+                  "component": "paragraph",
+                  "props": {
+                    "level": { "lg": "h6" },
+                    "spans": [
+                      {
+                        "text": "Simply enter your relevant information upon access and let goPay take it from there! "
+                      },
+                      {
+                        "text": "goPay will instantly retrieve all your connected payments and bills, and automatically prioritize them for you in a clear list format.",
+                        "break": true
+                      },
+                      {
+                        "text": "No stress, no clutter, no confusion. Just focus, clarity, and instant peace of mind. Yeah–just like that.",
+                        "break": true
+                      },
+                      {
+                        "break": true
+                      },
+                      {
+                        "text": "Watch the video",
+                        "className": "blue_link",
+                        "anchor": {
+                          "link": "/sell"
+                        },
+                        "icon": {
+                          "className": "fa fa-angle-right"
+                        }
+                      }
+                    ]
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "on": "scroll",
+            "type": "slide",
+            "direction": "left"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": {
+                "src": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPay/Illustrations/goPay_My_list.png"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

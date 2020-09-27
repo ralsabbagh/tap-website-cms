@@ -1,0 +1,587 @@
+[
+  {
+    "categoryName": "acceptance_category_title",
+    "showMoreButtonText": "acceptance_category_more_button",
+    "showLessButtonText": "acceptance_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "accept_everything_title",
+        "subtitle": "accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+        "description": "accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/all-payments.png",
+        "partner": "none"
+      },
+      {
+        "title": "accept_everything_title",
+        "subtitle": "accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+        "description": "accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/all-payments.png",
+        "partner": "boubyan"
+      },
+      {
+        "title": "accept_everything_title",
+        "subtitle": "accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+        "description": "accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/all-payments.png",
+        "partner": "zain"
+      },
+      {
+        "title": "accept_everything_title",
+        "subtitle": "accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+        "description": "accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/local_card.png",
+        "partner": "rb"
+      },
+      {
+        "title": "charge_title",
+        "subtitle": "charge_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Charge.png",
+        "description": "charge_description",
+        "image": "charge_image_rb",
+        "partner": "rb"
+      },
+      {
+        "title": "charge_title",
+        "subtitle": "charge_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Charge.png",
+        "description": "charge_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Charge.png",
+        "partner": "boubyan"
+      },
+      {
+        "title": "charge_title",
+        "subtitle": "charge_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Charge.png",
+        "description": "charge_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Charge.png",
+        "partner": "zain"
+      },
+      {
+        "title": "charge_title",
+        "subtitle": "charge_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Charge.png",
+        "description": "charge_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Charge.png",
+        "partner": "none"
+      },
+      {
+        "title": "authorize_title",
+        "subtitle": "authorize_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Authentication.png",
+        "description": "authorize_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Authorize.png"
+      },
+      {
+        "title": "multi_currency_title",
+        "subtitle": "multi_currency_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Multi_currency.png",
+        "description": "multi_currency_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_MultiCurrency.png"
+      },
+      {
+        "title": "dynamic_currency_title",
+        "subtitle": "dynamic_currency_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-DCC.png",
+        "description": "dynamic_currency_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_DCC.png"
+      },
+      {
+        "title": "card_saving_title",
+        "subtitle": "card_saving_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Card-Saving.png",
+        "description": "card_saving_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Card_Saving.png",
+        "partner": "none"
+      },
+      {
+        "title": "card_saving_title",
+        "subtitle": "card_saving_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Card-Saving.png",
+        "description": "card_saving_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Card_Saving.png",
+        "partner": "boubyan"
+      },
+      {
+        "title": "card_saving_title",
+        "subtitle": "card_saving_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Card-Saving.png",
+        "description": "card_saving_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Card_Saving.png",
+        "partner": "zain"
+      },
+      {
+        "title": "card_saving_title",
+        "subtitle": "card_saving_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Card-Saving.png",
+        "description": "card_saving_description",
+        "image": "card_saving_image_rb",
+        "partner": "rb"
+      },
+      {
+        "title": "schedule_title",
+        "subtitle": "schedule_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Schedule.png",
+        "description": "schedule_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Schedule.png"
+      },
+      {
+        "title": "subscriptions_title",
+        "subtitle": "subscriptions_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Subscription.png",
+        "description": "subscriptions_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Subscription.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "integration_category_title",
+    "showMoreButtonText": "integration_category_more_button",
+    "showLessButtonText": "integration_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "api_title",
+        "subtitle": "api_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/API.png",
+        "description": "api_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/API.png"
+      },
+      {
+        "title": "mobile_sdk_title",
+        "subtitle": "mobile_sdk_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Mobile-SDK.png",
+        "description": "mobile_sdk_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_MobileSDK.png"
+      },
+      {
+        "title": "plugins_title",
+        "subtitle": "plugins_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/API.png",
+        "description": "plugins_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Plug-ins.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "operations_category_title",
+    "showMoreButtonText": "operations_category_more_button",
+    "showLessButtonText": "operations_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "receipts_title",
+        "subtitle": "receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "receipts_description",
+        "image": "receipts_image_rb",
+        "partner": "rb"
+      },
+      {
+        "title": "receipts_title",
+        "subtitle": "receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Receipts.png",
+        "partner": "boubyan"
+      },
+      {
+        "title": "receipts_title",
+        "subtitle": "receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Receipts.png",
+        "partner": "zain"
+      },
+      {
+        "title": "receipts_title",
+        "subtitle": "receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Receipts.png",
+        "partner": "none"
+      },
+      {
+        "title": "refunds_title",
+        "subtitle": "refunds_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Refund.png",
+        "description": "refunds_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Refund_transparent.gif"
+      },
+      {
+        "title": "customers_title",
+        "subtitle": "customers_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Customer.png",
+        "description": "customers_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Customer.png"
+      },
+      {
+        "title": "security_title",
+        "subtitle": "security_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Security.png",
+        "description": "security_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Security.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "account_category_title",
+    "showMoreButtonText": "account_category_more_button",
+    "showLessButtonText": "account_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "banking_options_title",
+        "subtitle": "banking_options_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Icons/Flexible-banking.png",
+        "description": "banking_options_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Flexible-Banking-Options.png",
+        "partner": "none"
+      },
+      {
+        "title": "activation_title",
+        "subtitle": "activation_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Same-Day-Activation.png",
+        "description": "activation_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Same-Day-Activation.png"
+      },
+      {
+        "title": "statements_receipts_title",
+        "subtitle": "statements_receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "statements_receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Statements-&-Receipts.png",
+        "partner": "none"
+      },
+      {
+        "title": "statements_receipts_title",
+        "subtitle": "statements_receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "statements_receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Statements-&-Receipts.png",
+        "partner": "boubyan"
+      },
+      {
+        "title": "statements_receipts_title",
+        "subtitle": "statements_receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "statements_receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Statements-&-Receipts.png",
+        "partner": "zain"
+      },
+      {
+        "title": "statements_receipts_title",
+        "subtitle": "statements_receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "statements_receipts_description",
+        "image": "statements_receipts_image_rb",
+        "partner": "rb"
+      },
+      {
+        "title": "analytics_history_title",
+        "subtitle": "analytics_history_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Analytics-&-History.png",
+        "description": "analytics_history_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Analytics-&-History.png"
+      },
+      {
+        "title": "all_businesses_title",
+        "subtitle": "all_businesses_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/All-Businesses-Welcome.png",
+        "description": "all_businesses_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/All-Businesses-Welcome.png",
+        "partner": "none"
+      },
+      {
+        "title": "support_title",
+        "subtitle": "support_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Dedicated-Support.png",
+        "description": "support_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Support.png"
+      },
+      {
+        "title": "multiple_user_title",
+        "subtitle": "multiple_user_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Multi-account.png",
+        "description": "multiple_user_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Multi_user_account.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "protect_category_title",
+    "showMoreButtonText": "protect_category_more_button",
+    "showLessButtonText": "protect_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "risk_title",
+        "subtitle": "risk_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-risk.png",
+        "description": "risk_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Risk.png"
+      },
+      {
+        "title": "protection_title",
+        "subtitle": "protection_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Protection.png",
+        "description": "protection_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Protection.png"
+      },
+      {
+        "title": "authentication_title",
+        "subtitle": "authentication_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Authotize.png",
+        "description": "authentication_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Authentication.png"
+      },
+      {
+        "title": "card_title",
+        "subtitle": "card_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Card.png",
+        "description": "card_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Card.png"
+      },
+      {
+        "title": "product_title",
+        "subtitle": "product_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/Product.png",
+        "description": "product_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Product2.png"
+      },
+      {
+        "title": "ip_ddress_title",
+        "subtitle": "ip_ddress_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-IP-Address.png",
+        "description": "ip_ddress_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_IP_Address.png"
+      },
+      {
+        "title": "billing_address_title",
+        "subtitle": "billing_address_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Billing-address.png",
+        "description": "billing_address_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_Billing_Address.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "device_category_title",
+    "showMoreButtonText": "device_category_more_button",
+    "showLessButtonText": "device_category_less_button",
+    "partners": ["zain"],
+    "items": [
+      {
+        "title": "router_title",
+        "subtitle": "router_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Router.png",
+        "description": "router_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/Zain_Sell_Router.png"
+      },
+      {
+        "title": "wifi_title",
+        "subtitle": "wifi_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-Wifi.png",
+        "description": "wifi_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/Zain_Sell_Wifi.png"
+      },
+      {
+        "title": "lte_title",
+        "subtitle": "lte_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Icons/icon-LTE.png",
+        "description": "lte_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goSell/Illustrations/goSell_LTE.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "rb_features_category_title",
+    "showMoreButtonText": "rb_features_category_more_button",
+    "showLessButtonText": "rb_features_category_less_button",
+    "partners": ["rb"],
+    "numberOfShownFeatures": "5",
+    "items": [
+      {
+        "title": "rb_accept_everything_title",
+        "subtitle": "rb_accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/every-way-to-pay.png",
+        "description": "rb_accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/All_Cards_Accepted_.png"
+      },
+      {
+        "title": "rb_easy_setup_title",
+        "subtitle": "rb_easy_setup_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/easy_setup.png",
+        "description": "rb_easy_setup_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Get_Setup_Easily.gif"
+      },
+      {
+        "title": "rb_analytics_reports_title",
+        "subtitle": "rb_analytics_reports_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/report.png",
+        "description": "rb_analytics_reports_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Reports.png"
+      },
+      {
+        "title": "rb_start_selling_title",
+        "subtitle": "rb_start_selling_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/goSell-colored_Same%20Day%20Activation.png",
+        "description": "rb_start_selling_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Start_Selling_Right_Away.png"
+      },
+      {
+        "title": "rb_security_title",
+        "subtitle": "rb_security_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Security.png",
+        "description": "rb_security_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Security.png",
+        "backgroundColor": "#ededed"
+      }
+    ]
+  },
+  {
+    "categoryName": "rb_tabs_more_features_category_title",
+    "showMoreButtonText": "rb_tabs_more_features_category_more_button",
+    "showLessButtonText": "rb_tabs_more_features_category_less_button",
+    "partners": ["rb"],
+    "displayAs": "tabs",
+    "items": [
+      {
+        "title": "rb_multi_currency_title",
+        "subtitle": "rb_multi_currency_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/Multi_currency.png",
+        "description": "rb_multi_currency_description"
+      },
+      {
+        "title": "rb_refund_title",
+        "subtitle": "rb_refund_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/Refund.png",
+        "description": "rb_refund_description"
+      },
+      {
+        "title": "rb_receipt_title",
+        "subtitle": "rb_receipt_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/goSell-colored_Statements%20_%20Receipts.png",
+        "description": "rb_receipt_description"
+      },
+      {
+        "title": "rb_vat_title",
+        "subtitle": "rb_vat_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/vaticon.png",
+        "description": "rb_vat_description"
+      },
+      {
+        "title": "rb_users_title",
+        "subtitle": "rb_users_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/Multi-account.png",
+        "description": "rb_users_description"
+      },
+      {
+        "title": "rb_support_title",
+        "subtitle": "rb_support_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/Dedicated-Support.png",
+        "description": "rb_support_description"
+      }
+    ]
+  },
+  {
+    "categoryName": "rb_more_features_category_title",
+    "showMoreButtonText": "rb_more_features_category_more_button",
+    "showLessButtonText": "rb_more_features_category_less_button",
+    "partners": ["rb"],
+    "hideName": "true",
+    "items": [
+      {
+        "title": "rb_cards_saving_title",
+        "subtitle": "rb_cards_saving_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/icon-Card-Saving.png",
+        "description": "rb_cards_saving_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Card_Saving_.png"
+      },
+      {
+        "title": "rb_know_your_customers_title",
+        "subtitle": "rb_know_your_customers_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/icon-Customer.png",
+        "description": "rb_know_your_customers_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Customers.png"
+      },
+      {
+        "title": "rb_subscriptions_title",
+        "subtitle": "rb_subscriptions_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/rb/gosell/icons/icon-Subscription.png",
+        "description": "rb_subscriptions_description",
+        "image": "https://websiteimages.b-cdn.net/partners/rb/gosell/images/Subscriptions.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "zyda_intro_category_title",
+    "showMoreButtonText": "zyda_intro_category_more_button",
+    "showLessButtonText": "zyda_intro_category_less_button",
+    "partners": ["zyda"],
+    "numberOfShownFeatures": "5",
+    "items": [
+      {
+        "title": "zyda_intro_title",
+        "subtitle": "zyda_intro_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/what_is_zyda_.png",
+        "description": "zyda_intro_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/what_is_zyda.png"
+      },
+      {
+        "title": "zyda_what_to_sell_title",
+        "subtitle": "zyda_what_to_sell_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/what_can_i_sell_.png",
+        "description": "zyda_what_to_sell_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/what_can_i_sell.png"
+      },
+      {
+        "title": "zyda_who_use_title",
+        "subtitle": "zyda_who_use_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/who_uses_zyda_.png",
+        "description": "zyda_who_use_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/who_use_zyda-.gif"
+      },
+      {
+        "title": "zyda_why_to_use_title",
+        "subtitle": "zyda_why_to_use_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/why_zyda_.png",
+        "description": "zyda_why_to_use_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/why_use_zyda.png"
+      },
+      {
+        "title": "zyda_who_will_deliver_title",
+        "subtitle": "zyda_who_will_deliver_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/who_will_deliver_.png",
+        "description": "zyda_who_will_deliver_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/who_will_deliver.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "zyda_offer_category_title",
+    "showMoreButtonText": "zyda_offer_category_more_button",
+    "showLessButtonText": "zyda_offer_category_less_button",
+    "partners": ["zyda"],
+    "items": [
+      {
+        "title": "zyda_monthly_fees_title",
+        "subtitle": "zyda_monthly_fees_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/monthly_fees_.png",
+        "description": "zyda_monthly_fees_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/monthly_fees-.gif"
+      },
+      {
+        "title": "zyda_transaction_fees_title",
+        "subtitle": "zyda_transaction_fees_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/partners/zyda/icons/transaction_rates_.png",
+        "description": "zyda_transaction_fees_description",
+        "image": "https://websiteimages.b-cdn.net/partners/zyda/images/transaction_fees_s.gif"
+      }
+    ]
+  }
+]

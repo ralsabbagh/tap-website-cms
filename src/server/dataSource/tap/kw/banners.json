@@ -1,0 +1,38 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#EF4123",
+      "style": {}
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/gotap-devices-english.png",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/gotap-devices-english.png"
+      },
+      "style": {
+        "lg": { "width": "70%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "link",
+      "color": "#EF4123",
+      "title": {
+        "en": "goTap\nGo Everywhere",
+        "ar": "goTap\nعملك في كل مكان"
+      },
+      "shortTitle": {
+        "en": "goTap\nGo Everywhere",
+        "ar": "goTap\nعملك في كل مكان"
+      },
+      "linkText": {
+        "en": "Grab your device",
+        "ar": "اطلب جهازك"
+      },
+      "link": "https://docs.google.com/forms/d/e/1FAIpQLSeYru2t77hiqoYQSuOkIKEVIOaN0-n14CG6htPykqZDV8BaqQ/viewform?vc=0&c=0&w=1"
+    }
+  }
+]

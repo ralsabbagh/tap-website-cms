@@ -1,0 +1,76 @@
+{
+  "component": "container",
+  "props": { "style": { "lg": { "backgroundColor": "#2bce00", "padding": "50px" } }, "spacing": { "lg": 15 } },
+  "children": [
+    {
+      "component": "paragraph",
+      "props": {
+        "style": { "lg": { "color": "#fff" } },
+        "level": { "lg": "h3" },
+        "spans": [
+          {
+            "text": "Bills? Paid.",
+            "break": true
+          },
+          {
+            "text": "Subscriptions? Renewed.",
+            "break": true
+          },
+          {
+            "text": "Worries? All Gone."
+          }
+        ]
+      }
+    },
+    {
+      "component": "spacing",
+      "props": { "space": { "lg": 20 } }
+    },
+    {
+      "component": "row",
+      "props": { "spacing": { "lg": 15, "xs": 0 } },
+      "children": [
+        {
+          "component": "input",
+          "props": {
+            "style": { "lg": { "width": "240px" } },
+            "placeHolder": "Mobile Number",
+            "prefix": {
+              "component": "select",
+              "props": {
+                "shape": "icon",
+                "valueKey": "international_code",
+                "iconKey": "country_flag_url",
+                "title": "-- select a country --",
+                "textKeys": [
+                  {
+                    "prefixText": "(+",
+                    "textkey": "international_code"
+                  },
+                  {
+                    "prefixText": ") ",
+                    "textkey": "country_name_english"
+                  }
+                ]
+              }
+            }
+          }
+        },
+        {
+          "component": "button",
+          "props": {
+            "style": { "lg": { "width": "240px" } },
+            "primaryColor": "#fff",
+            "secondaryColor": "#2bce00",
+            "text": {
+              "text": "Send a download link"
+            },
+            "icon": {
+              "className": "fas fa-arrow-circle-down"
+            }
+          }
+        }
+      ]
+    }
+  ]
+}

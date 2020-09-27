@@ -1,0 +1,48 @@
+[
+  {
+    "shape": "buttons",
+    "name": "oldwebsite",
+    "message": {
+      "en": "Do you want to visit the old website?",
+      "ar": "هل تريد زيارة الموقع القديم؟"
+    },
+    "confirmText": {
+      "en": "Yes",
+      "ar": "نعم"
+    },
+    "declineText": {
+      "en": "No",
+      "ar": "لا"
+    },
+    "link": "https://www.gotapnow.com"
+  },
+  {
+    "shape": "buttons",
+    "name": "language",
+    "message": {
+      "en": "هل تريد تصفح الموقع بالعربية؟",
+      "ar": "?Do you want to view the website in English"
+    },
+    "confirmText": {
+      "ar": "Yes",
+      "en": "نعم"
+    },
+    "declineText": {
+      "en": "لا",
+      "ar": "No"
+    },
+    "link": { "en": "ar", "ar": "en" }
+  },
+  {
+    "shape": "hyperText",
+    "name": "share",
+    "message": {
+      "en": "Want to share this page on social media? ",
+      "ar": "هل ترغب بمشاركة الصفحة عبر وسائل التواصل؟ "
+    },
+    "confirmText": {
+      "en": "Click here!",
+      "ar": "اضغط هنا!"
+    }
+  }
+]

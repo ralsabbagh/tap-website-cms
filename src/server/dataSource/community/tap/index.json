@@ -1,0 +1,33 @@
+{
+    "title": "community_section_title",
+    "testimonials": [
+        {
+            "testimonialImage": "https://websiteimages.b-cdn.net/testimonials/bilbayt.jpg",
+            "qoute": "first_buisness_qoute",
+            "name": "first_buisness_person_name",
+            "role": "first_buisness_person_role",
+            "business": "first_buisness_business_name"
+        },
+        {
+            "testimonialImage": "https://websiteimages.b-cdn.net/testimonials/nuqat.jpg",
+            "qoute": "second_buisness_qoute",
+            "name": "second_buisness_person_name",
+            "role": "second_buisness_person_role",
+            "business": "second_buisness_business_name"
+        },
+        {
+            "testimonialImage": "https://websiteimages.b-cdn.net/testimonials/opensouq.jpg",
+            "qoute": "third_buisness_qoute",
+            "name": "third_buisness_person_name",
+            "role": "third_buisness_person_role",
+            "business": "third_buisness_business_name"
+        },
+        {
+            "testimonialImage": "https://websiteimages.b-cdn.net/testimonials/sirdablab.jpg",
+            "qoute": "fourth_buisness_qoute",
+            "name": "fourth_buisness_person_name",
+            "role": "fourth_buisness_person_role",
+            "business": "fourth_business_name"
+        }
+    ]
+}

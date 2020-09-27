@@ -1,0 +1,13 @@
+[
+  {
+    "slot": "sell/zyda",
+    "title": "gosell",
+    "subtitle": {
+      "en": "accept online payments",
+      "ar": "استقبال المدفوعات الإلكترونية"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverColor": "#00aff0"
+  }
+]

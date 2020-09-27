@@ -1,0 +1,61 @@
+[
+  {
+    "categoryName": "category_title",
+    "showMoreButtonText": "category_more_button",
+    "showLessButtonText": "category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "qibla_title",
+        "subtitle": "qibla_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/gopray_qibla.png",
+        "description": "qibla_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/goPray-app-Qibla.png"
+      },
+      {
+        "title": "prayer_times_title",
+        "subtitle": "prayer_times_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/fasting_gopray.png",
+        "description": "prayer_times_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/pray-time-en-gopray.png"
+      },
+      {
+        "title": "notifications_title",
+        "subtitle": "notifications_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/gopray_notifications.png",
+        "description": "notifications_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/notification_gopray.png"
+      },
+      {
+        "title": "fasting_mode_title",
+        "subtitle": "fasting_mode_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/fasting_gopray.png",
+        "description": "fasting_mode_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/fasting_mode_gopray.png"
+      },
+      {
+        "title": "sebha_title",
+        "subtitle": "sebha_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/gopray-sebha.png",
+        "description": "sebha_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/sebha_gopray.png"
+      },
+      {
+        "title": "donate_title",
+        "subtitle": "donate_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/goPray-donate.png",
+        "description": "donate_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/donate_gopray.png",
+        "videoButtonText": "donate_action_text",
+        "video": "donate_link"
+      },
+      {
+        "title": "personalized_look_title",
+        "subtitle": "personalized_look_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Icons/gopray_personalized_colors.png",
+        "description": "personalized_look_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/goPray/Illustrations/gopray_personalized_look_.gif"
+      }
+    ]
+  }
+]

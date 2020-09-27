@@ -1,0 +1,17 @@
+{
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/paymentMethods/payments_kw_.png",
+    "style": {
+      "xs": {
+        "height": "26px"
+      },
+      "lg": {
+        "height": "36px"
+      }
+    }
+  },
+  "subtitle": {
+    "en": "Activate online payments for your online commerce",
+    "ar": "فعل المدفوعات الإلكترونية للتجارة عبر الإنترنت "
+  }
+}

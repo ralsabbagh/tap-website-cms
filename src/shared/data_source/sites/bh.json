@@ -1,0 +1,26 @@
+{
+  "route": "bh",
+  "default_language": { "route": "en" },
+  "languages": [{ "route": "en" }, { "route": "ar" }],
+  "pages": [
+    { "route": "" },
+    { "route": "sell" },
+    { "route": "sell/activate" },
+    { "route": "collect" },
+    { "route": "collect/activate" },
+    { "route": "api" },
+    { "route": "about" },
+    { "route": "jobs" },
+    { "route": "support" },
+    { "route": "pray" },
+    { "route": "developers" },
+    { "route": "knet-otp" },
+    { "route": "expired-link" },
+    { "route": "activate-payment" },
+    { "route": "terms-conditions" },
+    { "route": "privacy-policy" },
+    { "route": "account/forgot-password" },
+    { "route": "account/reset-password" },
+    { "route": "account/secure-account" }
+  ]
+}

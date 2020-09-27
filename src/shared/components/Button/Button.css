@@ -1,0 +1,25 @@
+button {
+  -webkit-transition: all 0.2s;
+  -moz-transition: all 0.2s;
+  -ms-transition: all 0.2s;
+  -o-transition: all 0.2s;
+  transition: all 0.2s;
+}
+
+.t_button {
+  border: none;
+  outline: 0px;
+  height: 46px;
+  border-radius: 5px;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0px 15px;
+}
+
+.t_button:focus {
+  outline: 0px;
+}
+
+.t_button.bordered {
+  border: 2px solid;
+}

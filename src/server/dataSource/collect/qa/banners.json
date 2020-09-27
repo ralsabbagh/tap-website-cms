@@ -1,0 +1,63 @@
+[
+  {
+    "type": "stripeSlide",
+    "backgroundImage": {
+      "lg": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/collect/qa_gocollect_web.jpg",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/collect/qa_gocollect_web_flipped.jpg"
+      },
+      "xs": "https://websiteimages.b-cdn.net/bannerImages/collect/qa_gocollect_mob.jpg"
+    },
+    "stripeStyle": { "backgroundColor": "#ff0031", "color": "#fff" },
+    "title": {
+      "text": {
+        "en": "Start Sending Invoices\n& Collect Payments Socially",
+        "ar": "أرسل الفواتير\nو حصّل مدفوعاتك عبر وسائل التواصل الإجتماعي"
+      },
+      "style": { "color": "#fff" }
+    },
+    "callToAction": {
+      "schedule_for": "GD",
+      "product": "collect",
+      "color": "#ff0031",
+      "actionType": "sms",
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Send a download link",
+        "ar": "أرسل رابط التحميل"
+      },
+      "linkText": {
+        "en": "Download the app",
+        "ar": "حمّل التطبيق "
+      },
+      "link": {
+        "ios": "https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+        "android": "https://play.google.com/store/apps/details?id=tap.gocollect"
+      }
+    },
+    "paymentsImage": {
+      "src": "https://websiteimages.b-cdn.net/paymentMethods/white/payments_qa_white.svg",
+      "style": {
+        "height": "30px",
+        "width": "187px"
+      }
+    },
+    "icons": {
+      "style": {
+        "lg": { "width": "271px", "height": "33px", "padding": "0px" },
+        "xs": { "width": "271px", "height": "33px", "padding": "0px" }
+      },
+      "srcs": ["https://websiteimages.b-cdn.net/bannerImages/collect/sm_icons_new.svg"]
+    },
+    "subtitle": {
+      "text": {
+        "en": "for social & conversational commerce",
+        "ar": "للتجارة عبر وسائل التواصل الإجتماعي"
+      },
+      "style": { "color": "#fff" }
+    }
+  }
+]

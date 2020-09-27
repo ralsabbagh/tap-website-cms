@@ -1,0 +1,172 @@
+{
+  "component": "container",
+  "props": {
+    "style": { "lg": { "color": "#fff" } }
+  },
+  "children": [
+    {
+      "component": "row",
+      "props": {
+        "portitions": { "lg": [0.25, 0.25, 0.25, 0.25], "sm": [0.5, 0.5, 0.5, 0.5], "xs": [1, 1, 1, 1] }
+      },
+      "children": [
+        {
+          "component": "container",
+          "props": {
+            "style": { "lg": { "padding": "15px 0", "backgroundColor": "aquamarine" } }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.ikea.com/",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://www.ikea.com/gateway/images/ikea-wordmark.effbabb58ed737ed.svg",
+                    "style": { "lg": { "height": "60px", "marginTop": "15px" } }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": { "lg": { "padding": "15px 0", "backgroundColor": "bisque" } }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.ikea.com/",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://www.ikea.com/gateway/images/ikea-wordmark.effbabb58ed737ed.svg",
+                    "style": { "lg": { "height": "60px", "marginTop": "15px" } }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": { "lg": { "padding": "15px 0", "backgroundColor": "#c3d3d3" } }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.ikea.com/",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://www.ikea.com/gateway/images/ikea-wordmark.effbabb58ed737ed.svg",
+                    "style": { "lg": { "height": "60px", "marginTop": "15px" } }
+                  }
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "component": "container",
+          "props": {
+            "style": { "lg": { "padding": "15px 0", "backgroundColor": "burlywood" } }
+          },
+          "children": [
+            {
+              "component": "anchor",
+              "props": {
+                "link": "https://www.ikea.com/",
+                "target": "_blank"
+              },
+              "children": [
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "gocollect",
+                    "level": { "lg": "h4" },
+                    "style": { "lg": { "fontStyle": "italic" } }
+                  }
+                },
+                {
+                  "component": "text",
+                  "props": {
+                    "text": "collect payments",
+                    "level": { "lg": "h5" }
+                  }
+                },
+                {
+                  "component": "image",
+                  "props": {
+                    "src": "https://www.ikea.com/gateway/images/ikea-wordmark.effbabb58ed737ed.svg",
+                    "style": { "lg": { "height": "60px", "marginTop": "15px" } }
+                  }
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

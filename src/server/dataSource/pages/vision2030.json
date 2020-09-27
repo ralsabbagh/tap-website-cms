@@ -1,0 +1,155 @@
+{
+  "countries": ["kw", "om", "eg", "qa", "ae", "sa", "bh", "jo", "lb"],
+  "page": "vision2030",
+  "slot": "vision2030",
+  "color": "#ddf2f5",
+  "bannerImage": "https://websiteimages.b-cdn.net/pages/ntp/saudi_map.png",
+  "bannerImageDesktopWidth": "85%",
+  "paternImage": "https://websiteimages.b-cdn.net/pages/ntp/right_bottom_bg.png",
+  "paternImage2": "https://websiteimages.b-cdn.net/pages/ntp/top_left_bg.png",
+  "paternImageStyle": {
+    "backgroundSize": "400px",
+    "backgroundRepeat": "no-repeat",
+    "backgroundPosition": "right -168px bottom 0px"
+  },
+  "paternImageStyle2": {
+    "backgroundSize": "500px",
+    "backgroundRepeat": "no-repeat",
+    "backgroundPosition": "left top"
+  },
+  "partnerLogo": "https://websiteimages.b-cdn.net/pages/ntp/partner_logo.png",
+  "link": "/vision2030",
+  "callToAction": {
+    "title": {
+      "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+      "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+    },
+    "shortTitle": {
+      "en": "Bringing you Tomorrow's\nPayment Solutions, Today.",
+      "ar": "رؤية المملكة العربية السعودية\nبرنامج التحول الوطني"
+    },
+    "textColor": "#4b4847"
+  },
+  "content": [
+    {
+      "paragraph": {
+        "en": "Tap Payments have always been an active participant in government initiatives to develop the economy and to help SME’s move towards a cashless future. As such, we are very excited to be involved in one of the 13 vision realization programs established by the Council of Economic and Development Affairs (CEDA) to achieve the strategic objectives of vision 2030 in the Kingdom of Saudi Arabia- The Financial Sector Development Program.",
+        "ar": "إن تاپ للمدفوعات كانت ولا تزال مساهم فعَّال في المبادرات الحكومية لتطوير الإقتصاد ، و مساعدة الشركات الصغيرة والمتوسطة نحو مستقبل الدفع غير النقدي. وبناءً عليه فإننا متحمسون للإنخراط في أحد برامج تحقيق الرؤية الـ 13 التي أنشأها مجلس شؤون الإقتصاد و التطوير ( CEDA ) ، وذلك لتحقيق الأهداف الإستراتيجية للرؤية 2030 في المملكة العربية السعودية – برنامج تطوير القطاع المالي."
+      }
+    },
+    {
+      "paragraph": {
+        "en": "The Financial Sector Development Program was established to develop a diversified and effective financial sector to support the development of the Saudi Economy, diversify its sources of income and increase savings, finance and investment. Being involved with this program gives us the unique opportunity of playing a key role in the realization of vision 2030:",
+        "ar": " تم وضع برنامج تطوير القطاع المالي لإقامة قطاع مالي متنوع و فعال لدعم التطور في الإقتصاد السعودي ، وتنويع مصادر الدخل ، وزيادة المدخرات ، والتمويل و الإستثمار كما أن مشاركتنا في هذا البرنامج تعطينا فرصة فريدة للعب دور أساسي في تحقيق رؤية 2030 :"
+      }
+    },
+    {
+      "paragraph": {
+        "en": "By promoting a cashless society focused on spreading online acceptance amongst businesses.",
+        "ar": "من خلال الترويج لمجتمع الدفع غير النقدي والذي يركز على نشر قبوله إلكترونياً فيما بين الأعمال."
+      }
+    },
+    {
+      "paragraph": {
+        "en": "By providing suitable payment solutions that simplify online payment acceptance for businesses, allowing them to focus on the sustainability of the business.",
+        "ar": "من خلال تقديم حلول دفع مناسبة والتي تيسر قبول الدفع الإلكتروني للأعمال ، والسماح لهم بالتركيز على إستدامة الأعمال."
+      }
+    },
+    {
+      "paragraph": {
+        "en": "By empowering SMEs with suitable payment solutions, allowing the expansion of such segments.",
+        "ar": "تمكين الشركات الصغيرة والمتوسطة من خلال استخدام حلول دفع مناسبة والتي تسمح بانتشار هذه القطاعات."
+      }
+    },
+    {
+      "paragraph": {
+        "en": "By supporting the payment infrastructures in the country, which represents a core element of the E-Government.",
+        "ar": "دعم البنية التحتية للمدفوعات في البلاد والتي تمثل عنصر أساسي في الحكومة الإلكترونية."
+      }
+    }
+  ],
+  "features_": [
+    {
+      "showMoreButtonText": {
+        "en": "more features",
+        "ar": "المزيد من المميّزات"
+      },
+      "showLessButtonText": {
+        "en": "Show Less",
+        "ar": "أظهر أقل"
+      },
+      "partners": ["general"],
+      "items": [
+        {
+          "title": {
+            "en": "Start Sending Bills and Collecting Payments Easily",
+            "ar": "أرسل الفواتير وحصّل مدفوعاتك بسهولة"
+          },
+          "subtitle": {
+            "en": "The functionality of online payment, built for offline businesses.",
+            "ar": "سهولة الإستخدام أونلاين حتى عندما تكون أوفلاين"
+          },
+          "description": {
+            "en": "At Tap, we understand that not all businesses are online businesses. Sometimes, you just need the ease of online processing, to streamline your offline business activities. Activities like payment, billing, and collection. That’s what goCollect— Tap’s fully functional payment collection service—was built and made for.",
+            "ar": "نحن في تاپ، ندرك جيّداً أن ليس جميع الأعمال مرتبطة بشبكة الإنترنت وأنّك تحتاج أن ترتاح بعض الشيء من العمليات الإلكترونية للتركيز على أمور أخرى خارج الشبكة مثل نشاطات الدفع، الفوترة والتحصيل، لذلك قدّمنا لك goCollect_ وهي خدمة إرسال الفواتير وتحصيل المدفوعات الشاملة من تاپ التي أنشئت لهذا السبب بالتحديد. إنّها ببساطة خدمة غير إلكترونية ولكن بسهولة وسرعة خدمات الإنترنت التي تتم أونلاين."
+          },
+          "image": "https://websiteimages.b-cdn.net/pages/ntp/gocollect.png",
+          "videoButtonText": {
+            "en": "Learn more",
+            "ar": "اقرأ المزيد"
+          },
+          "link": {
+            "en": "/collect",
+            "ar": "/collect"
+          }
+        },
+        {
+          "title": {
+            "en": "Start Accepting Online Payments on your App or Website",
+            "ar": "استقبل المدفوعات على التطبيق الخاص بك أو على موقعك الإلكتروني"
+          },
+          "subtitle": {
+            "en": "Whether you’re a powerhouse player or a young solo-preneur, goSell if for you.",
+            "ar": "سواء كنت صاحب شركة أو تعمل منفرداً goSell هي الحل"
+          },
+          "description": {
+            "en": "If you’re in business you already know the importance of seizing every financial opportunity. You already know that having a solid e-commerce platform is essential to succeeding in 2017. You already know that, in order for you to make money? You’ve got to know the business of money.",
+            "ar": "مهما كانت هويتك أو وظيفتك: المال يبقى المسيطر سواء كنت صاحب شركة أو تعمل منفرداً، أنت تدرك بلا شك أهمية اقتناص الفرص المالية وتعرف جيّداً أن امتلاك قاعدة مالية قوية أمر أساسي لاجتياز عام 2017 بنجاح ولكن كي تعلم ذلك وكي تجني المال، عليك أن تفهم طبيعة العمل في المجال المالي."
+          },
+          "image": "https://websiteimages.b-cdn.net/pages/ntp/gosell.png",
+          "videoButtonText": {
+            "en": "Learn more",
+            "ar": "اقرأ المزيد"
+          },
+          "link": {
+            "en": "/sell",
+            "ar": "/sell"
+          }
+        },
+        {
+          "title": {
+            "en": "Vision 2030 is a bold yet achievable blueprint for an ambitious nation",
+            "ar": "رؤية 2030 هي خطة جريئة قابلة للتحقيق لأمّة طموحة."
+          },
+          "subtitle": {
+            "en": "The National Transformation Program",
+            "ar": "برنامج التحول الوطني"
+          },
+          "description": {
+            "en": "“It expresses our long-term goals and expectations and it is built upon our country’s unique strengths and capabilities. It guides our aspirations towards a new phase of development – to create a vibrant society in which all citizens can fulfill their dreams, hopes and ambitions to succeed in a thriving economy.”\n \\Crown \\Prince \\and \\Chairman \\of \\the \\Council \\of \\Economic \\and \\Development \\Affairs \\Mohammad \\bin \\Salman \\bin \\Abdulaziz \\Al-Saud",
+            "ar": "”إنها تعبر عن أهدافنا وآمالنا على المدى البعيد، وتستند إلى مكامن القوة والقدرات الفريدة لوطننا. وهي ترسم تطلعاتنا نحو مرحلة تنموية جديدة غايتها إنشاء مجتمع نابض بالحياة يستطيع فيه جميع المواطنين تحقيق أحلامهم وآمالهم وطموحاتهم في اقتصاد وطني مزدهر.“\nولي العهد ورئيس مجلس الشؤون الاقتصادية والتنمية الأمير محمد بن سلمان بن عبدالعزيز آل سعود"
+          },
+          "image": "https://websiteimages.b-cdn.net/pages/ntp/vision2030.png",
+          "videoButtonText": {
+            "en": "Learn more",
+            "ar": "اقرأ المزيد"
+          },
+          "link": {
+            "en": "https://vision2030.gov.sa/en/programs/NTP",
+            "ar": "https://vision2030.gov.sa/ar/programs/NTP"
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,303 @@
+{
+  "countries": ["sa"],
+  "page": "covid19",
+  "slot": "covid19",
+  "color": "#f7f7f7",
+  "bannerImageDesktopWidth": "70%",
+  "paternImage": "https://websiteimages.b-cdn.net/pages/corona_sa/banner/covid19_sa_background_image.png",
+  "bannerImage": {
+    "en": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_en.png",
+    "ar": "https://websiteimages.b-cdn.net/partners/rb/gocollect_video_ar.png"
+  },
+  "paternImageStyle": {
+    "backgroundSize": "cover",
+    "backgroundRepeat": "no-repeat",
+    "backgroundPosition": "right bottom"
+  },
+  "paternImageStyle2": {
+    "backgroundSize": "500px",
+    "backgroundRepeat": "no-repeat",
+    "backgroundPosition": "left top"
+  },
+  "videoLink": {
+    "ar": "https://player.vimeo.com/video/197276703?autoplay=0&byline=0&portrait=0&color=cccccc",
+    "en": "https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc"
+  },
+  "pageVideoImage": "https://websiteimages.b-cdn.net/pages/corona_sa/corona_sa_video_image.png",
+  "pageVideoLink": {
+    "ar": "https://player.vimeo.com/video/197276703?autoplay=0&byline=0&portrait=0&color=cccccc",
+    "en": "https://player.vimeo.com/video/211170801?autoplay=0&byline=0&portrait=0&color=cccccc"
+  },
+  "link": "/covid19",
+  "callToAction": {
+    "buttonShap": "bordered colored",
+    "textColor": "#246870",
+    "title": {
+      "en": "Take a Step Towards Limiting the Spread of Coronavirus by Accepting Online Payments",
+      "ar": "فعّل المدفوعات الإلكترونية مع تاب\nساهم في الحد من التعاملات النقدية التي قد تساهم في نقل الأوبئة"
+    },
+    "shortTitle": {
+      "en": "Take a Step Towards Limiting the Spread of Coronavirus by Accepting Online Payments",
+      "ar": "فعّل المدفوعات الإلكترونية مع تاب\nساهم في الحد من نقل الأوبئة"
+    },
+    "actionTitle": {
+      "en": "Please enter your mobile number",
+      "ar": "الرجاء إدخال رقم هاتفك"
+    },
+    "actionType": "sms",
+    "placeholder": {
+      "en": "Mobile Number",
+      "ar": "رقم الهاتف"
+    },
+    "buttonText": {
+      "en": "Send a download link",
+      "ar": "أرسل رابط التحميل"
+    },
+    "linkText": {
+      "en": "Download the app",
+      "ar": "حمّل التطبيق "
+    },
+    "link": {
+      "ios": "https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+      "android": "https://play.google.com/store/apps/details?id=tap.gocollect"
+    }
+  },
+  "content": [
+    {
+      "paragraph": {
+        "en": "Following the regulations by the Saudi Monetary Agency (SAMA) to limit the spread of the Coronavirus, which also includes reversing fees for all MADA transactions paid online or through POS devices, we are excited to present to you a service that allows you to send bills and receive online payments through your phone- from wherever you are!",
+        "ar": "تماشيا مع إجراءات مؤسسة النقد السعودي “ساما” في الحد من انتشار فيروس كورونا المستجد (COVID-19) والتى شملت إعفاء الرسوم خدمة مدى على نقاط البيع والتجارة الإلكترونية للمتاجر في المملكة العربية السعودية، نوفر لكم نحن في شركة تاب خدمة إستقبال المدفوعات الإلكترونية خلال 24 ساعة."
+      }
+    }
+  ],
+  "pageTitle": {
+    "image": "https://websiteimages.b-cdn.net/partners/rb/all-payments.png",
+    "title": {
+      "en": "Collect payments instantly with Tap",
+      "ar": "خدمة التحصيل الفوري من تاب"
+    },
+    "subTitle": {
+      "en": "Download goCollect and start receiving online payments easily",
+      "ar": "ابدأ التحصيل الإلكتروني عبر تطبيق goCollect"
+    }
+  },
+  "pageDescription": {
+    "title": {
+      "en": "goCollect",
+      "ar": "goCollect"
+    },
+    "subtitle": {
+      "en": " ",
+      "ar": " "
+    },
+    "description": {
+      "en": "The goCollect app is available on both iPhone and Android and is the perfect solution for those looking to start collecting online payments easily.\nBill your customers and collect online payments instantly on the platform of their choice, whether that’s through email, SMS, Whatsapp, Instagram, Facebook or any other social media platforms. You can receive your settlements directly to any of your bank accounts in the country. Click here to learn more about goCollect!",
+      "ar": "تطبيق ”goCollect“ على اجهزة ال iPhone و Android مثالي لمن يبيع منتجات او خدمات عبر مواقع التواصل الإجتماعي. يمكنكم الان استقبال المدفوعات الإلكترونية من خلال إرسال رابط إلكتروني عن طريق الرسائل النصية القصيرة SMS لعملائكم أو عبر الإنستغرام، الوتساب، الفيسبوك ، وغيره من مواقع التواصل الإجتماعي. سيتم إيداع المبالغ الى حسابكم البنكي بشكل يومي. اضغط هنا لمعرفة المزيد عن خدمة التحصيل ”goCollect“."
+    },
+    "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/logo_gocollet.png",
+    "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/gocollect_image.png"
+  },
+  "features_": [
+    {
+      "categoryName": {
+        "en": "Features",
+        "ar": "مميّزات"
+      },
+      "showMoreButtonText": {
+        "en": "more features",
+        "ar": "المزيد من المميّزات"
+      },
+      "showLessButtonText": {
+        "en": "Show Less",
+        "ar": "أظهر أقل"
+      },
+      "partners": ["general"],
+      "items": [
+        {
+          "title": {
+            "en": "Local, Regional & Global Cards Accepted",
+            "ar": "كل بطاقات الدفع مقبولة"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "goCollect gives your customers more options when it comes to payments, letting them pay with their local, regional or even international cards. With goCollect, you can now accept Mada, Visa, Mastercard and even Apple pay or STC pay. From now on, the only thing you won’t accept is ‘no’ for an answer!",
+            "ar": "يتيح تطبيق ”goCollect“  لعملائكم الدفع بواسطة البطاقات الائتمانية المحلية والعالمية. يمكنكم الآن تحصيل المدفوعات عبر بطاقات مدى، فيزا، وماستر كارد ،Apple Pay و STC Pay."
+          },
+          "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+          "image": {
+            "ar": "https://websiteimages.b-cdn.net/partners/rb/gocollect/images/ar/All_Cards_Accepted_ar.gif",
+            "en": "https://websiteimages.b-cdn.net/partners/rb/gocollect/images/en/All_Cards_Accepted_en.gif"
+          }
+        },
+        {
+          "title": {
+            "en": "Flexible Banking Options",
+            "ar": "خيارات بنكية مرنة"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "goCollect is connected to all banks in the Kingdom of Saudi Arabia! This means that no matter where you bank, the payments you receive will be transferred directly to your account with no extra complications or contracts!",
+            "ar": " خدمة التحصيل ”goCollect“ متصلة مع جميع البنوك في المملكة العربية السعودية وهذا يعني أنه سيتم تحويل المبالغ مباشرة إلى أي من حساباتكم البنكية في المملكة."
+          },
+          "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/banking_options.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/allbanks-saudi.gif"
+        },
+        {
+          "title": {
+            "en": "Greater Consumer Protection",
+            "ar": "خدمة أفضل لعملائكم (خدمة استرداد المبالغ)"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "Tap strives to provide convenience not only for you, but also for your customers. Provide greater flexibility to your customers by allowing for easy cancellations and refunds! In the event that an order is cancelled by your customer, you can refund them easily with the click of a button- right through the goCollect app!",
+            "ar": "تسعى تاب إلى توفير الراحة لكم ولعملائكم. في حال إلغاء الطلب من قبل العميل، يمكنكم استرداد المبالغ لعملائكم بكبسة زر وذلك مباشرة من خلال تطبيق ”goCollect“"
+          },
+          "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/Refund_.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/size_adjusted/goSell_Refund_transparent.gif"
+        },
+        {
+          "title": {
+            "en": "Security Above All Else",
+            "ar": "أموالك وأموال عملائك في أمان"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "There is nothing more important to us than to keep you and your business safe while using Tap.  Our systems are equipped with banking-industry security levels and encryption protocols, as well as remaining compliant with global PCI-DSS security standards. Tap Payments is also a licensed entity and is subject to regulatory authorities in the Kingdom and the gulf region.",
+            "ar": "تحرص تاب على استخدام أحدث التقنيات والأنظمة لحماية جميع العمليات التي تقوم بها تاب. علما بان تاب هي جهة مرخصة وتخضع الى الجهات الرقابية في المملكة و دول الخليج."
+          },
+          "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/security.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/size_adjusted/Security.png"
+        }
+      ]
+    },
+    {
+      "categoryName": {
+        "en": "Additional Features",
+        "ar": "ميّزات إضافية"
+      },
+      "showMoreButtonText": {
+        "en": " ",
+        "ar": " "
+      },
+      "showLessButtonText": {
+        "en": " ",
+        "ar": " "
+      },
+      "partners": ["general"],
+      "items": [
+        {
+          "title": {
+            "en": "Round-The-Clock Support",
+            "ar": "تواصل على مدار الساعة"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "As always, we’ll provide all the support you need- around the clock! That’s why we’ve made it super easy to contact our support team through the live chat available on our website or on goCollect.",
+            "ar": "خدمة العملاء متوفرة على مدار الساعة وذلك عبر خدمة الدردشة على موقعنا الإلكتروني أو عبر خدمة الدعم المباشر المتوفر لمستخدمي تطبيق ”goCollect“."
+          },
+          "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Dedicated-Support.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/Support.png"
+        },
+        {
+          "title": {
+            "en": "Account Activation in Less Than 24 Hours",
+            "ar": "تفعيل الحساب خلال ٢٤ ساعة فقط"
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "Getting started with goCollect couldn’t be easier. You can download goCollect from the App Store or Google Playstore, create your account and get it activated within 24 hours of submitting your required documents! We guarantee it!",
+            "ar": "يمكنك تحميل تطبيق ”goCollect“ من الـ AppStore او الـ Google Playstore وتفعيل الحساب خلال 24 ساعة."
+          },
+          "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/Account_activation%D9%80.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/size_adjusted/account_activation.png"
+        },
+        {
+          "title": {
+            "en": "Unlock Features Unique for Riyad Bank Customers",
+            "ar": "مميزات خاصة لعملاء بنك الرياض "
+          },
+          "subtitle": {
+            "en": " ",
+            "ar": " "
+          },
+          "description": {
+            "en": "Tap payments, in partnership with Riyad Bank, has launched a special program for the bank's customers. Click here to learn more about the benefits and details.",
+            "ar": "قامت تاب بالشراكة مع بنك الرياض بإطلاق برنامج خاص لعملاء البنك. اضغط هنا لمعرفة المزيد عن المزايا والتفاصيل."
+          },
+          "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/rb_icon.png",
+          "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/tap_rb.png"
+        }
+      ]
+    }
+  ],
+  "contentBlocks": [
+    {
+      "backgroundColor": "",
+      "backgroundImage": "",
+      "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/freelance_icon.png",
+      "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/business_image.png",
+      "buttonText": { "ar": "افتح حساب", "en": "Open an Account" },
+      "moreButtonText": {
+        "ar": "متطلبات فتح الحساب",
+        "en": "Account Requirements"
+      },
+      "lessButtonText": { "ar": "أظهر أقل", "en": "Show less" },
+      "action": "link",
+      "link": {
+        "en": "http://sandbox.register.tap.company/sa/en/collect?bus=individual",
+        "ar": "http://sandbox.register.tap.company/sa/ar/collect?bus=individual"
+      },
+      "title": {
+        "en": "Freelance Business",
+        "ar": "صاحب عمل حر"
+      },
+      "description": {
+        "en": "● Copy of freelance certificate.\n\n● Copy of national ID.\n\n● Bank account information.",
+        "ar": "● وثيقة العمل الحر.\n\n● نسخة من بيانات الهوية الوطنية.\n\n● بيانات الحساب البنكي التابع لصاحب العمل الحر."
+      }
+    },
+    {
+      "backgroundColor": "",
+      "backgroundImage": "",
+      "icon": "https://websiteimages.b-cdn.net/pages/corona_sa/feature_icons/Licensed_Businesses_icon.png",
+      "image": "https://websiteimages.b-cdn.net/pages/corona_sa/feature%20images/freelance_image.png",
+      "buttonText": { "ar": "افتح حساب", "en": "Open an Account" },
+      "moreButtonText": {
+        "ar": "متطلبات فتح الحساب",
+        "en": "Account Requirements"
+      },
+      "lessButtonText": { "ar": "أظهر أقل", "en": "Show less" },
+      "action": "link",
+      "link": {
+        "en": "http://sandbox.register.tap.company/sa/en/collect?bus=registered",
+        "ar": "http://sandbox.register.tap.company/sa/ar/collect?bus=registered"
+      },
+      "title": {
+        "en": "Registered Business",
+        "ar": "صاحب منشأة تجارية"
+      },
+      "description": {
+        "en": "● Copy of business license.\n\n● Copy of the owner/authorized signatory's national ID.\n\n● Copy of power of attorney, if not the owner of the business.\n\n● Business bank account information.",
+        "ar": "● نسخة من السجل التجاري.\n\n● نسخة من بيانات الهوية الوطنية للمفوض والمخول بالتوقيع.\n\n● نسخة من إثبات المفوض والمخول بالتوقيع إن كان غير مالك المنشأة.\n\n● بيانات الحساب البنكي التابع للمنشأة."
+      }
+    }
+  ]
+}

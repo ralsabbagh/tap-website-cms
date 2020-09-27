@@ -1,0 +1,48 @@
+{
+  "title": {
+    "en": "Businesses",
+    "ar": "المتاجر"
+  },
+  "businessesList": [
+    {
+      "businesseName": "zain",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_zain.svg",
+      "businesseLink": "https://www.kw.zain.com/ar/kw"
+    },
+    {
+      "businesseName": "ooredoo",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_ooredoo.png",
+      "businesseLink": "https://www.ooredoo.com.kw/portal/en/index"
+    },
+    {
+      "businesseName": "viva",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_viva.png",
+      "businesseLink": "http://www.viva.com.kw/ar/"
+    },
+    {
+      "businesseName": "itunes",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay_itunes.png",
+      "businesseLink": "https://www.apple.com/itunes/"
+    },
+    {
+      "businesseName": "flare fitness",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay-flare_fitness.svg",
+      "businesseLink": "https://www.flare.fitness/"
+    },
+    {
+      "businesseName": "salto",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay-salto.svg",
+      "businesseLink": "https://www.saltokw.com/"
+    },
+    {
+      "businesseName": "coded",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/goPay-coded.svg",
+      "businesseLink": "https://www.joincoded.com/"
+    },
+    {
+      "businesseName": "as",
+      "businesseLogo": "https://websiteimages.b-cdn.net/businessesLogos/goPay/gopay_AS.svg",
+      "businesseLink": "https://www.instagram.com/amirahalshaalan/"
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+[
+  {
+    "categoryName": "device_category_title",
+    "showMoreButtonText": "device_category_more_button",
+    "showLessButtonText": "device_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "accept_everything_title",
+        "subtitle": "accept_everything_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/every-way-to-pay.png",
+        "description": "accept_everything_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/all-payments.png"
+      },
+      {
+        "title": "nfc_title",
+        "subtitle": "nfc_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/goTap_NFC.png",
+        "description": "nfc_description",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/goTap_feature_artwork_NFC.png"
+      },
+      {
+        "title": "refunds_title",
+        "subtitle": "refunds_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/goTap_Refund.png",
+        "description": "refunds_description",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/goTap_feature_artwork_refund.png"
+      },
+      {
+        "title": "delivery_title",
+        "subtitle": "delivery_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/goTap_48_hours_delivery.png",
+        "description": "delivery_escription",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/goTap_feature_artwork_48hours_delivery.gif"
+      },
+      {
+        "title": "portable_title",
+        "subtitle": "portable_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/goTap_Portable.png",
+        "description": "portable_description",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/goTap_feature_artwork_portable_Verifone.png"
+      },
+      {
+        "title": "expo_store_title",
+        "subtitle": "expo_store_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/goTap_Expo_to_Store.png",
+        "description": "expo_store_description",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/Expo-to-Store.png"
+      }
+    ]
+  },
+  {
+    "categoryName": "account_category_title",
+    "showMoreButtonText": "account_category_more_button",
+    "showLessButtonText": "account_category_less_button",
+    "partners": ["zain", "boubyan", "nbk", "general"],
+    "items": [
+      {
+        "title": "next_day_settlement_title",
+        "subtitle": "next_day_settlement_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goTap/Icons/icon-BB-next-day-settlement.png",
+        "description": "next_day_settlement_description",
+        "image": "https://websiteimages.b-cdn.net//productsFeaturesImages/goTap/Illustrations/Boubyan-gotap-next-day.gif",
+        "partner": "boubyan"
+      },
+      {
+        "title": "banking_options_title",
+        "subtitle": "banking_options_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Icons/Flexible-banking.png",
+        "description": "banking_options_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Flexible-Banking-Options.png",
+        "partner": "none"
+      },
+      {
+        "title": "same_day_activation_title",
+        "subtitle": "same_day_activation_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Same-Day-Activation.png",
+        "description": "same_day_activation_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Same-Day-Activation.png"
+      },
+      {
+        "title": "support_title",
+        "subtitle": "support_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Dedicated-Support.png",
+        "description": "support_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Support.png"
+      },
+      {
+        "title": "statements_receipts_title",
+        "subtitle": "statements_receipts_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/statements-and-receipt.png",
+        "description": "statements_receipts_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Statements-&-Receipts.png"
+      },
+      {
+        "title": "analytics_history_title",
+        "subtitle": "analytics_history_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Analytics-&-History.png",
+        "description": "analytics_history_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Analytics-&-History.png"
+      },
+      {
+        "title": "security_title",
+        "subtitle": "security_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/Security.png",
+        "description": "security_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/Security.png"
+      },
+      {
+        "title": "all_businesses_title",
+        "subtitle": "all_businesses_subtitle",
+        "icon": "https://websiteimages.b-cdn.net/productsFeaturesImages/goCollect/Icons/All-Businesses-Welcome.png",
+        "description": "all_businesses_description",
+        "image": "https://websiteimages.b-cdn.net/productsFeaturesImages/general/Illustrations/All-Businesses-Welcome.png",
+        "partner": "none"
+      }
+    ]
+  }
+]

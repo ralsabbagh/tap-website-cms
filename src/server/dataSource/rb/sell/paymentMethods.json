@@ -1,0 +1,21 @@
+{
+  "image": {
+    "src": "https://websiteimages.b-cdn.net/partners/rb/all-payments.png",
+    "style": {
+      "xs": {
+        "height": "26px"
+      },
+      "lg": {
+        "height": "36px"
+      }
+    }
+  },
+  "title": {
+    "en": "Activate online payments for your business with Tap",
+    "ar": "فعل المدفوعات الإلكترونية مع تاب"
+  },
+  "subtitle": {
+    "en": "Start accepting payments on your website or mobile application from today!",
+    "ar": "استقبل المدفوعات على موقعك الإلكتروني أو التطبيق الخاص بك"
+  }
+}

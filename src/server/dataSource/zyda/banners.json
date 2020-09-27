@@ -1,0 +1,68 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#1B0120",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/zyda/banner/pattern1.png), url(https://websiteimages.b-cdn.net/partners/zyda/banner/pattern2.png)",
+          "backgroundSize": "25% auto, 15% auto",
+          "backgroundPosition": "top left, bottom right",
+          "backgroundRepeat": "no-repeat"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/zyda/banner/pattern1.png), url(https://websiteimages.b-cdn.net/partners/zyda/banner/pattern2.png)",
+          "backgroundSize": "25% auto, 15% auto",
+          "backgroundPosition": "top left, bottom right",
+          "backgroundRepeat": "no-repeat"
+        }
+      }
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/partners/zyda/banner/banner_en_.gif",
+        "ar": "https://websiteimages.b-cdn.net/partners/zyda/banner/banner_ar_.gif"
+      },
+      "style": {
+        "lg": { "width": "75%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "link",
+      "color": "#1B0120",
+      "partner": "zyda",
+      "logo": "https://websiteimages.b-cdn.net/partners/zyda/banner/zyda_tap.png",
+      "title": {
+        "en": "FREE websites and KNET payments\nfor the first 1000 businesses to sign up starting today",
+        "ar": "متجر إلكتروني ببلاش وعمليات الـ كي-نت ببلاش\nلأول 1000 متجر يسجل ابتداءاً من الآن!"
+      },
+      "shortTitle": {
+        "en": "FREE websites and KNET payments\nfor the first 1000 businesses to sign up starting today",
+        "ar": "متجر إلكتروني ببلاش وعمليات الـ كي-نت ببلاش\nلأول 1000 متجر يسجل ابتداءاً من الآن!"
+      },
+      "actionTitle": {
+        "en": "Please enter your mobile number",
+        "ar": "الرجاء إدخال رقم هاتفك"
+      },
+      "linkText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      },
+      "link": {
+        "en": "http://sandbox.register.tap.company/kw/en/sell/zyda?bus=registered/?adminid=207",
+        "ar": "http://sandbox.register.tap.company/kw/ar/sell/zyda?bus=registered/?adminid=207"
+      },
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      }
+    }
+  }
+]

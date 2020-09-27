@@ -1,0 +1,106 @@
+{
+  "component": "container",
+  "props": {
+    "className": "page_container"
+  },
+  "children": [
+    {
+      "component": "container",
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "spacing",
+              "props": { "space": { "lg": 100 } }
+            },
+            {
+              "component": "text",
+              "props": { "text": "In The News", "level": { "lg": "h5" } }
+            },
+            {
+              "component": "separator",
+              "props": { "width": { "lg": "250px" } }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "component": "row",
+      "props": {
+        "style": { "xs": { "width": "200px" } },
+        "spacing": { "lg": 70, "xs": 0 },
+        "portitions": {
+          "lg": [0.2, 0.2, 0.2, 0.2, 0.2],
+          "xs": [1, 1, 1, 1, 1]
+        }
+      },
+      "children": [
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/arab_times.png" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/alanba.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/arabnet.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/aljarida.svg" }
+            }
+          ]
+        },
+        {
+          "component": "animation",
+          "props": {
+            "type": "fade"
+          },
+          "children": [
+            {
+              "component": "image",
+              "props": { "src": "https://websiteimages.b-cdn.net/inthenews/alqabas.svg" }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

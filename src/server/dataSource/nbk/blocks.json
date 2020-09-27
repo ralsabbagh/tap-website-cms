@@ -1,0 +1,13 @@
+[
+  {
+    "slot": "collect/nbk",
+    "title": "gocollect",
+    "subtitle": {
+      "en": "send bills",
+      "ar": "إرسال الفواتير"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverColor": "#ff0031"
+  }
+]

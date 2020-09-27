@@ -1,0 +1,35 @@
+[
+  {
+    "slot": "collect",
+    "title": "gocollect",
+    "subtitle": {
+      "en": "send bills",
+      "ar": "إرسال الفواتير"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goCollect.png",
+    "hoverColor": "#ff0031"
+  },
+  {
+    "slot": "sell",
+    "title": "gosell",
+    "subtitle": {
+      "en": "accept online payments",
+      "ar": "استقبال المدفوعات الإلكترونية"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/goSell.png",
+    "hoverColor": "#00aff0"
+  },
+  {
+    "slot": "api",
+    "title": "api",
+    "subtitle": {
+      "en": "for developers",
+      "ar": "للمطورين"
+    },
+    "image": "https://websiteimages.b-cdn.net/blocks/api-1.png",
+    "hoverImage": "https://websiteimages.b-cdn.net/blocks/api-2.png",
+    "hoverColor": "#ffc72d"
+  }
+]

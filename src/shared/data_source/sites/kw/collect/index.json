@@ -1,0 +1,18 @@
+{
+  "component": "container",
+  "children": [
+    "blocks.json",
+    "businesses.json",
+    "news_1.json",
+    "news_2.json",
+    "feature_1.json",
+    "feature_2.json",
+    "call_to_action_row.json",
+    {
+      "component": "spacing",
+      "props": {
+        "space": { "lg": 100 }
+      }
+    }
+  ]
+}

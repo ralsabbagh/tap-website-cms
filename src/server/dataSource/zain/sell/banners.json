@@ -1,0 +1,66 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#1f525f",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/zain/zain-pattern.svg)",
+          "backgroundSize": "cover",
+          "backgroundPosition": "center"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/zain/zain-pattern.svg)",
+          "backgroundSize": "400%",
+          "backgroundPosition": "center"
+        }
+      }
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/goSell-accept-payments-online.png",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/goSell-accept-payments-online.png"
+      },
+      "style": {
+        "lg": { "width": "85%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "link",
+      "color": "#1f525f",
+      "partner": "zain",
+      "logo": "https://websiteimages.b-cdn.net/partners/zain/zain-tap-logo.svg",
+      "title": {
+        "en": "Start Accepting Online\nPayments on your App\nor Website",
+        "ar": "استقبل المدفوعات\nعلى التطبيق الخاص بك\nأو على موقعك الإلكتروني"
+      },
+      "shortTitle": {
+        "en": "Start Accepting\nOnline Payments",
+        "ar": "استقبل المدفوعات\nعلى تطبيقك أو موقعك"
+      },
+      "actionTitle": {
+        "en": "Please enter your mobile number",
+        "ar": "الرجاء إدخال رقم هاتفك"
+      },
+      "linkText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      },
+      "link": {
+        "en": "http://sandbox.register.tap.company/kw/en/sell",
+        "ar": "http://sandbox.register.tap.company/kw/ar/sell"
+      },
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      }
+    }
+  }
+]

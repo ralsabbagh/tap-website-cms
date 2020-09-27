@@ -1,0 +1,74 @@
+[
+  {
+    "ID": "132",
+    "country_code": "KW",
+    "country_name_english": "Kuwait",
+    "country_name_arabic": "الكويت",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Kuwait.png",
+    "international_code": "965"
+  },
+  {
+    "ID": "17",
+    "country_code": "BH",
+    "country_name_english": "Bahrain",
+    "country_name_arabic": "البحرين",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Bahrain.png",
+    "international_code": "973"
+  },
+  {
+    "ID": "70",
+    "country_code": "EG",
+    "country_name_english": "Egypt",
+    "country_name_arabic": "مصر",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Egypt.png",
+    "international_code": "20"
+  },
+  {
+    "ID": "124",
+    "country_code": "JO",
+    "country_name_english": "Jordan",
+    "country_name_arabic": "الأردن",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Jordan.png",
+    "international_code": "962"
+  },
+  {
+    "ID": "136",
+    "country_code": "LB",
+    "country_name_english": "Lebanon",
+    "country_name_arabic": "لبنان",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Lebanon.png",
+    "international_code": "961"
+  },
+  {
+    "ID": "184",
+    "country_code": "OM",
+    "country_name_english": "Oman",
+    "country_name_arabic": "عمان",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Oman.png",
+    "international_code": "968"
+  },
+  {
+    "ID": "199",
+    "country_code": "QA",
+    "country_name_english": "Qatar",
+    "country_name_arabic": "قطر",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Qatar.png",
+    "international_code": "974"
+  },
+  {
+    "ID": "212",
+    "country_code": "SA",
+    "country_name_english": "Saudi Arabia",
+    "country_name_arabic": "المملكة العربية السعودية",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/Saudi Arabia.png",
+    "international_code": "966"
+  },
+  {
+    "ID": "253",
+    "country_code": "AE",
+    "country_name_english": "United Arab Emirates",
+    "country_name_arabic": "الإمارات",
+    "country_flag_url": "https://www.gotapnow.com/web/countryflag/United Arab Emirates.png",
+    "international_code": "971"
+  }
+]

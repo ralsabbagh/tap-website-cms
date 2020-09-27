@@ -1,0 +1,48 @@
+[
+  {
+    "lat": "29.3460378",
+    "lng": "48.0848072",
+    "country_code": "kw",
+    "address": {
+      "addressTitle": {
+        "en": "Tap Payments - Kuwait",
+        "ar": "تاپ للدفع الإلكتروني - الكويت"
+      },
+      "addressDetails": {
+        "en": "8 Mall\nFloor no. 6, Salem Al Mubarak St,\nSalmiya, Kuwait",
+        "ar": "8 Mall\nالدورالسادس، شارع سالم المبارك\nالسالمية، الكويت "
+      }
+    },
+    "phoneNumber": "+965 2292 2822"
+  },
+  {
+    "lat": "25.1882355",
+    "lng": "55.27154085",
+    "country_code": "ae",
+    "address": {
+      "addressTitle": {
+        "en": "Tap Payments - United Arab Emirates",
+        "ar": "تاب للدفع الإلكتروني - الإمارات العربية المتحدة"
+      },
+      "addressDetails": {
+        "en": "Dar Almazaya Business Center\nPrime Tower 17th Floor, Downtown Rd Albraj St\nDubai, United Arab Emirates",
+        "ar": "مركز دار المزايا للأعمال\nبرج برايم الدور السابع عشر، شارع الأبراج وسط المدينة\nدبي، الإمارات العربية المتحدة"
+      }
+    }
+  },
+  {
+    "lat": "24.822016",
+    "lng": "46.600242",
+    "country_code": "sa",
+    "address": {
+      "addressTitle": {
+        "en": "Tap Payments - Saudi Arabia",
+        "ar": "تاپ للدفع الإلكتروني - المملكة العربية السعودية"
+      },
+      "addressDetails": {
+        "en": "Al-nakheel Neighborhood\nCross Road Abdelwahed st. with prince Turky Bin Abdelaziz\nRiyad, Saudi Arabia",
+        "ar": "حي النخيل\nاتقاطع شارع عبد الواحد مع شارع الأمير تركي بن عبد العزيز\nالرياض، المملكة العربية السعودية"
+      }
+    }
+  }
+]

@@ -1,0 +1,47 @@
+{
+  "appsStores": [
+    {
+      "link": "https://itunes.apple.com/us/developer/tap-payments/id1020065699",
+      "image": "https://websiteimages.b-cdn.net/footerImages/ios-black.svg"
+    },
+    {
+      "link": "https://play.google.com/store/apps/developer?id=Tap+Payments",
+      "image": "https://websiteimages.b-cdn.net/footerImages/google-play-badge.svg"
+    }
+  ],
+  "paymnetMethods": ["https://websiteimages.b-cdn.net/allpayments.png"],
+  "securityMethods": [
+    "https://websiteimages.b-cdn.net/footerImages/Thawte-logo.svg",
+    "https://websiteimages.b-cdn.net/footerImages/Mastercard-Secure.svg",
+    "https://websiteimages.b-cdn.net/footerImages/Verified-Visa.svg",
+    "https://websiteimages.b-cdn.net/footerImages/amex-SafeKey.svg"
+  ],
+  "ntp1": [
+    {
+      "link": "https://vision2030.gov.sa/programs/NTP",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/ntp.png"
+    },
+    {
+      "link": "https://vision2030.gov.sa",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/vision2030.png"
+    }
+  ],
+  "ntp2": [
+    {
+      "link": "https://mci.gov.sa",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/mocommerce.png"
+    },
+    {
+      "link": "https://www.mof.gov.sa",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/mofinance.png"
+    },
+    {
+      "link": "http://www.saudipayments.com/",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/saudipayments.png"
+    },
+    {
+      "link": "http://www.sama.gov.sa",
+      "image": "https://websiteimages.b-cdn.net/ntpLogos/sama.png"
+    }
+  ]
+}

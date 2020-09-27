@@ -1,0 +1,295 @@
+[
+  {
+    "link": "/",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Online Payment Services",
+      "ar": "تاپ | خدمات الدفع الإلكتروني"
+    },
+    "description": {
+      "en": "Tap Payments simplifies online payment & acceptance for businesses with an easy, quick & secure experience for people paying on websites & apps.",
+      "ar": "تاپ تسهل طرق الدفع والتحصيل للشركات التجارية عبر الانترنت بطريقة سهلة، سريعة وآمنة للمستخدمين على التطبيقات و المواقع الالكترونية."
+    }
+  },
+  {
+    "link": "/notfound",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "404 - Page not found | Tap Payments",
+      "ar": "404 - الصفحة غير موجودة | دفوعات تاپ"
+    },
+    "description": {
+      "en": "Oh no, we can’t seem to find the page you’re looking for.",
+      "ar": "عذزاً، يبدو أنّ الصفحة التي تبحث عنها غير موجودة"
+    }
+  },
+  {
+    "link": "/account/forgot-password",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Reset password",
+      "ar": "تاپ | تغيير رمز مرور الحساب"
+    },
+    "description": {
+      "en": "Forgot your password? No biggie",
+      "ar": "نسيت رمز الدخول؟ ليس هناك أي مشكلة"
+    }
+  },
+  {
+    "link": "/terms-conditions",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Terms and conditions",
+      "ar": "تاپ | الأحكام والشروط"
+    },
+    "description": {
+      "en": "Tap reserves the right, at its sole discretion, to change, modify, add or remove portions of these Terms of Use, at any time.",
+      "ar": "تحتفظ تاب بحق، وفقًا لتقديرها الخاص، في تغيير أجزاء من شروط الاستخدام هذه أو تعديلها أو إضافتها أو إزالتها في أي وقت."
+    }
+  },
+  {
+    "link": "/privacy-policy",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Privacy Policy",
+      "ar": "تاپ | سياسة الخصوصيّة"
+    },
+    "description": {
+      "en": "When you create a Tap business account, download our mobile application or contact us, we may collect a variety of information..",
+      "ar": "عندما تقوم بإنشاء حساب تاب، أو تنزيل تطبيق الهاتف المحمول الخاص بنا أو الاتصال بنا، قد نقوم بجمع مجموعة متنوعة من المعلومات.."
+    }
+  },
+  {
+    "link": "/vision2030",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | vision 2030",
+      "ar": "تاپ | رؤية ٢٠٣٠"
+    },
+    "description": {
+      "en": "Tap Payments have always been an active participant in government initiatives to develop the economy and to help SME’s move towards a cashless future..",
+      "ar": "لطالما كانت تاب مشاركًا نشطًا في المبادرات الحكومية لتطوير الاقتصاد ومساعدة الشركات الصغيرة والمتوسطة على التحرك نحو مستقبل غير نقدي..."
+    }
+  },
+  {
+    "link": "/covid19",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Coronavirus",
+      "ar": "تاپ | فيروس كورونا المستجد"
+    },
+    "description": {
+      "en": "Take a Step Towards Limiting the Spread of Coronavirus by Accepting Online Payments",
+      "ar": "فعّل المدفوعات الإلكترونية مع تاب ساهم في الحد من التعاملات النقدية التي قد تساهم في نقل الأوبئة"
+    }
+  },
+  {
+    "link": "/collect",
+    "image": "https://websiteimages.b-cdn.net/ogImages/collect.png",
+    "title": {
+      "en": "goCollect! by Tap | Create & Send Invoices Easily",
+      "ar": "goCollect! | خدمة إرسال و تحصيل الفواتير بسهوله من تاپ"
+    },
+    "description": {
+      "en": "Tap's goCollect service allows you to send invoices to your customers via SMS, email & social media & collect payments by major debit & credit cards.",
+      "ar": "هي خدمة من تاپ لإرسال وتحصيل الفواتيرعن طريق الرسائل القصيرة والإيميل أو مشاركتها على مواقع التواصل الاجتماعي goCollect وقبول الدفع ببطاقات الائتمان بسهوله"
+    }
+  },
+  {
+    "link": "/sell",
+    "image": "https://websiteimages.b-cdn.net/ogImages/sell.png",
+    "title": {
+      "en": "goSell! by Tap | Accept Payments Online",
+      "ar": "goSell | خدمة قبول الدفع الالكتروني من تاپ"
+    },
+    "description": {
+      "en": "Tap's goSell service is an online payment gateway that allows you to accept major debit & credit card payments; KNET, Visa & MasterCard, on apps & websites",
+      "ar": "هي خدمة تسمح بقبول عمليات الدفع الالكتروني بـ كي نت وفيزا وماستر كارد عن طريق دمج الاضافات المساعدة أو ربط بوابة دفع goSell الكتروني للتطبيقات والمواقع"
+    }
+  },
+  {
+    "link": "/pay",
+    "image": "https://websiteimages.b-cdn.net/ogImages/pay.png",
+    "title": {
+      "en": "goPay! by Tap | Bill Payments To-do List App",
+      "ar": "goPay! | كل مدفوعاتك في تطبيق واحد من تاپ"
+    },
+    "description": {
+      "en": "goPay is an app that allows you to keep track of your upcoming To-do list of bill payments & check things off your pay list in an easy, quick & secure way",
+      "ar": "تطبيق يمكنك من تنظيم ومتابعة مدفوعاتك ومستحقاتك الشهرية وترتيب أولوياتك ودفع أكثر من فاتورة في الوقت نفسه بطريقة سهلة goPay وسريعة وآمنة"
+    }
+  },
+  {
+    "link": "/tap",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "goTap! by Tap | Accept any Payment Anywhere",
+      "ar": "goTap! | استقبل المدفوعات من أي مكان من تاپ"
+    },
+    "description": {
+      "en": "If you’re running around your retail store or if you’re a regular at all the local expos, now you can accept any payment, anywhere by facilitating portable K-NET and credit card payment for your customers on the fly.",
+      "ar": "رحب بأحدث التقنيات للمبيعات مع goTap ! الآن يمكنك قبول أي دفع من عملائك في أي مكان من خلال تفعيل خدمتنا المتنقلة لمدفوعات ال K-NETوبطاقات الائتمان."
+    }
+  },
+  {
+    "link": "/pray",
+    "image": "https://websiteimages.b-cdn.net/ogImages/pray.png",
+    "title": {
+      "en": "goPray! | by Tap",
+      "ar": "goPray! | من تاپ"
+    },
+    "description": {
+      "en": "For Ramadan 2017, Tap is making it easier than ever to prioritize faith & prayer effortlessly. Meet goPray. It’s the all-in-one Ramadan app.",
+      "ar": "بمناسبة حلول شهر رمضان الكريم، تاپ تقدم لكم طريقة سهلة وفعّالة لمتاپعة وتنظيم أوقات العبادات خلال الشهر الفضيل. goPray هو هديتنا لكم في هذا الشهر المبارك."
+    }
+  },
+  {
+    "link": "/collect/nbk",
+    "partner": "NBK",
+    "image": "https://websiteimages.b-cdn.net/ogImages/nbk.png",
+    "title": {
+      "en": "goCollect! by Tap | Create & Send Invoices Easily with NBK",
+      "ar": "من تاپ goCollect! | خدمة إرسال و تحصيل الفواتير مع NBK"
+    },
+    "description": {
+      "en": "An exclusive, power-packed mega suite of tools and services from NBK and Tap to take your business from ‘better’ to ‘best.’",
+      "ar": "مجموعة ضخمة وحصرية من الأدوات والخدمات التي يقدمها بنك الكويت الوطني وتاپ لتحسين تجارتك إلى الأفضل."
+    }
+  },
+  {
+    "link": "/sell/zyda",
+    "partner": "zyda",
+    "image": "https://websiteimages.b-cdn.net/partners/zyda/meta/zyda.png",
+    "title": {
+      "en": "Tap | Zyda",
+      "ar": "تاب | زيدا"
+    },
+    "description": {
+      "en": "Accept KNET payments for free with Tap & launch your online store for free with Zyda!",
+      "ar": "انطلق عالأونلاين بموقع ببلاش من زيدا و الكي-نت ببلاش على تاب"
+    }
+  },
+  {
+    "link": "/rb",
+    "partner": "rb",
+    "image": "https://websiteimages.b-cdn.net/ogImages/rb.png",
+    "title": {
+      "en": "Tap | Riyad Bank",
+      "ar": "تاب | بنك الرياض"
+    },
+    "description": {
+      "en": "Simple, quick and secure online payment service",
+      "ar": "خدمات مبتكرة للدفع الإلكتروني"
+    }
+  },
+  {
+    "link": "/collect/rb",
+    "partner": "rb",
+    "image": "https://websiteimages.b-cdn.net/ogImages/rb.png",
+    "title": {
+      "en": "goCollect! by Tap | Create & Send Invoices Easily with Riyad Bank",
+      "ar": "goCollect! من تاپ | خدمة إرسال و تحصيل الفواتير مع بنك الرياض"
+    },
+    "description": {
+      "en": "Tap’s goCollect service allows you to send invoices to your customers via Whatsapp, SMS, email & social media & collect payments by major debit & credit cards.",
+      "ar": "يمكنك إرسال الفواتير إلى عملائك وتحصيل مدفوعاتك عن طريق رسالة نصية قصيرة (SMS) و/ أو بريداً الكترونياً ببطاقات دفع متعددة"
+    }
+  },
+  {
+    "link": "/sell/rb",
+    "partner": "rb",
+    "image": "https://websiteimages.b-cdn.net/ogImages/rb.png",
+    "title": {
+      "en": "goSell! by Tap | Accept Online Payments",
+      "ar": "goSell | خدمة قبول الدفع الإلكتروني من تاب"
+    },
+    "description": {
+      "en": "Tap’s goSell service is an online payments gateway that allows you to accept major debit & credit card payments on apps & websites.",
+      "ar": "هي خدمة تسمح بقبول عمليات الدفع الإلكتروني بكي نت و فيزا و ماستركارد عن طريق ربط بوابة الدفع للتطبيقات و المواقع"
+    }
+  },
+  {
+    "link": "/api",
+    "image": "https://websiteimages.b-cdn.net/ogImages/api.png",
+    "title": {
+      "en": "API Payment Gateway & E-Commerce Plugins | Tap",
+      "ar": "بوابة الدفع الالكتروني من تاپ للمطورين | API"
+    },
+    "description": {
+      "en": "Tap provides API Documentation & E-Commerce Plugins allowing developers to integrate card payment acceptance of KNET, Visa, & MasterCard on apps & websites",
+      "ar": "من تاپ للمطورين لتمكنهم من دمج بوابة دفع الكتروني وإضافات لمنصات التجارة الالكترونية لقبول عمليات الدفع بـ كي نت وفيزا API وماستركارد للتطبيقات والمواقع"
+    }
+  },
+  {
+    "link": "/support",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Support",
+      "ar": "تاپ | دعم"
+    },
+    "description": {
+      "en": "Your comments, suggestions, or concerns matter to us and our team is here to listen, assist and enhance the Tap experience.",
+      "ar": "تعليقاتكم، اقتراحات، أو اهتمامتكم تعني لنا الكثير وفريقنا دائما هنا للاستماع إليكم والمساعدة والإجابة على استفساراتكم لتعزيز تجربتكم مع تاپ."
+    }
+  },
+  {
+    "link": "/jobs",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Jobs",
+      "ar": "تاپ | وظائف"
+    },
+    "description": {
+      "en": "Join the Tap Team and explore new ways to connect with the world refining the way payments should be and work on making Tap the greatest payment tool.",
+      "ar": "انضم لفريق تاپ واستكشف طرق جديدة للتواصل مع العالم وتعرف على ما يجب أن تكون عليه طرق الدفع الإلكتروني الحديثة واعمل على جعل تاپ أفضل وسيلة دفع."
+    }
+  },
+  {
+    "link": "/about",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Our Story",
+      "ar": "تاپ | قصتنا"
+    },
+    "description": {
+      "en": "Tap is on a mission to help businesses grow with financial solutions billing systems, payment gateways, simplifying online and mobile payments.",
+      "ar": "تاپ مهمتها هي مساعدة الشركات على النمو من خلال توفير حلول مالية مثل نظام الفوترة وبوابة الدفع، وتبسيط عمليات الدفع عبر الهاتف والانترنت للتجار والمستهلكين."
+    }
+  },
+  {
+    "link": "/developers",
+    "image": "https://websiteimages.b-cdn.net/ogImages/api.png",
+    "title": {
+      "en": "Tap | Developers",
+      "ar": "تاپ | للمطورين"
+    },
+    "description": {
+      "en": "Integrate Tap's payment gatway on your website or app",
+      "ar": "قم بدمج بوابة الدفهع الإلكتروني من تاپ على موقعك الإلكتروني أو تطبيقك"
+    }
+  },
+  {
+    "link": "/knet-otp",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Knet one time password",
+      "ar": "تاپ | كي نت OTP"
+    },
+    "description": {
+      "en": "Knet online payment, integrated by Tap, provides OTP 'One Time Password' for higher online payments security. Pay securely with tap payments.",
+      "ar": "الدفوعات الإلكتروني عن طريق كي نت، الموّفرة من تاپ، تقدّم خدمة الـOTP من أجل دفوعات إلكترونية أكثر أماناً. ادفع بأمان مع دفوعات تاپ."
+    }
+  },
+  {
+    "link": "/testimonials",
+    "image": "https://websiteimages.b-cdn.net/ogImages/tap.png",
+    "title": {
+      "en": "Tap | Testimonials",
+      "ar": "تجارب العملاء"
+    },
+    "description": {
+      "en": "Hear is what our customers are saying about Tap Services. Our clients experience from different business sectors (Food, Events, Education..etc)",
+      "ar": "آراء وتجارب العملاء وأصحاب الأعمال مع خدمات تاپ"
+    }
+  }
+]

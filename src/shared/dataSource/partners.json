@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Boubyan",
+    "slot": "boubyan",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "slot": "collect"
+      },
+      {
+        "product": "sell",
+        "slot": "sell"
+      },
+      {
+        "product": "tap",
+        "slot": "tap"
+      }
+    ]
+  },
+  {
+    "name": "NBK",
+    "slot": "nbk",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "slot": "collect"
+      }
+    ]
+  },
+  {
+    "name": "Zain",
+    "slot": "zain",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "collect",
+        "slot": "collect"
+      },
+      {
+        "product": "sell",
+        "slot": "sell"
+      },
+      {
+        "product": "tap",
+        "slot": "tap"
+      }
+    ]
+  },
+  {
+    "name": "Zyda",
+    "slot": "zyda",
+    "countries": ["kw"],
+    "products": [
+      {
+        "product": "sell",
+        "slot": "sell"
+      }
+    ]
+  },
+  {
+    "name": "rb",
+    "slot": "rb",
+    "countries": ["sa"],
+    "products": [
+      {
+        "product": "sell",
+        "slot": "sell"
+      },
+      {
+        "product": "collect",
+        "slot": "collect"
+      }
+    ]
+  }
+]

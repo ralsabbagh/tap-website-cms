@@ -1,0 +1,13 @@
+{
+  "apps": [
+ 
+    {
+      "name": "tap-website-frontend",
+      "script": "./dist/server.js",
+      "env": {
+        "NODE_ENV": "production",
+        "PORT": "3000"
+      }
+    }
+  ]
+}

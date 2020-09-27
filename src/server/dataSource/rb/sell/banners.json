@@ -1,0 +1,66 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#282868",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/rb/rb_symbol.svg)",
+          "backgroundSize": "cover",
+          "backgroundPosition": "center"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/rb/rb_symbol.svg)",
+          "backgroundSize": "400%",
+          "backgroundPosition": "center"
+        }
+      }
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_en.png",
+        "ar": "https://websiteimages.b-cdn.net/partners/rb/rb_banner_ar.png"
+      },
+      "style": {
+        "lg": { "width": "85%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "none"
+    },
+    "callToAction": {
+      "actionType": "link",
+      "color": "#1d4d8a",
+      "partner": "rb",
+      "logo": "https://websiteimages.b-cdn.net/partners/rb/rb_tap_logos.svg",
+      "title": {
+        "en": "Start Accepting Online\nPayments on your App\nor Website",
+        "ar": "استقبل المدفوعات\nعلى التطبيق الخاص بك\nأو على موقعك الإلكتروني"
+      },
+      "shortTitle": {
+        "en": "Start Accepting\nOnline Payments",
+        "ar": "استقبل المدفوعات\nعلى تطبيقك أو موقعك"
+      },
+      "actionTitle": {
+        "en": "Please enter your mobile number",
+        "ar": "الرجاء إدخال رقم هاتفك"
+      },
+      "linkText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      },
+      "link": {
+        "en": "http://sandbox.register.tap.company/sa/en/sell/rb?bus=registered/?adminid=207",
+        "ar": "http://sandbox.register.tap.company/sa/ar/sell/rb?bus=registered/?adminid=207"
+      },
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Open an account",
+        "ar": "افتح حساباً"
+      }
+    }
+  }
+]

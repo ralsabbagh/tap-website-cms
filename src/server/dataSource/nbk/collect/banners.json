@@ -1,0 +1,72 @@
+[
+  {
+    "type": "floatSlide",
+    "background": {
+      "color": "#1d4d8a",
+      "style": {
+        "lg": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/nbk/NBK-symbol.png)",
+          "backgroundSize": "cover",
+          "backgroundPosition": "center"
+        },
+        "xs": {
+          "backgroundImage": "url(https://websiteimages.b-cdn.net/partners/nbk/NBK-symbol.png)",
+          "backgroundSize": "200%",
+          "backgroundPosition": "left 18% bottom",
+          "backgroundRepeat": "no-repeat"
+        }
+      }
+    },
+    "image": {
+      "src": {
+        "en": "https://websiteimages.b-cdn.net/bannerImages/gocollect-en-video.png",
+        "ar": "https://websiteimages.b-cdn.net/bannerImages/gocollect-en-video.png"
+      },
+      "style": {
+        "lg": { "width": "70%" },
+        "sm": { "width": "55%" },
+        "xs": { "width": "285px" }
+      },
+      "action": "openVideo",
+      "videoLink": {
+        "en": "https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc",
+        "ar": "https://player.vimeo.com/video/291702528?autoplay=0&byline=0&portrait=0&color=cccccc"
+      }
+    },
+    "callToAction": {
+      "actionType": "sms",
+      "schedule_for": "GD",
+      "color": "#1d4d8a",
+      "partner": "nbk",
+      "logo": "https://websiteimages.b-cdn.net/partners/nbk/NBK-tap-logo.svg",
+      "title": {
+        "en": "Start Sending Bills\nand Collect Payments Easily",
+        "ar": "أرسل الفواتير وحصّل مدفوعاتك بسهولة"
+      },
+      "shortTitle": {
+        "en": "The ease of online\nbuilt for offline",
+        "ar": " الإستخدام أونلاين\nحتى عندما تكون أوفلاين"
+      },
+      "actionTitle": {
+        "en": "Please enter your mobile number",
+        "ar": "الرجاء إدخال رقم هاتفك"
+      },
+      "placeholder": {
+        "en": "Mobile Number",
+        "ar": "رقم الهاتف"
+      },
+      "buttonText": {
+        "en": "Send a download link",
+        "ar": "أرسل رابط التحميل"
+      },
+      "linkText": {
+        "en": "Download the app",
+        "ar": "حمّل التطبيق "
+      },
+      "link": {
+        "ios": "https://itunes.apple.com/us/app/gocollect!/id1157951837?ls=1&mt=8",
+        "android": "https://play.google.com/store/apps/details?id=tap.gocollect"
+      }
+    }
+  }
+]

@@ -6,7 +6,7 @@
 }
 
 .t_input_container.bordered {
-  border: 2px solid;
+  border: 1px solid;
 }
 
 .t_input {
@@ -16,6 +16,10 @@
   height: 47px;
   background-color: transparent;
   padding: 0;
+}
+
+::placeholder {
+  color: #b2b2b2;
 }
 
 .t_input:focus {

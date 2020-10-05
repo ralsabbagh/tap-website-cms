@@ -30,9 +30,10 @@ function Row(props) {
 
   let _portitions = GeneralUtil.responsiveObject(props.portitions);
   let _spacing = GeneralUtil.responsiveObject(props.spacing);
-  let _children = children(props.children, _portitions, _spacing);
+  let _children = props.children.length ? props.children : [props.children];
+  let __children = children(_children, _portitions, _spacing);
   let _style = GeneralUtil.responsiveObject(props.style);
-  return <div style={_style}>{_children}</div>;
+  return <div style={_style}>{__children}</div>;
 }
 
 Row.defaultProps = {

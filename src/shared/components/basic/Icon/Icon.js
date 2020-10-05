@@ -9,11 +9,13 @@ function Icon(props) {
     style: GeneralUtil.responsiveObject(props.style),
     onClick: GeneralUtil.onClick_(props.onClick),
     src: props.src,
+    id: props.id,
   };
   return !props.src ? <i {..._props} /> : <Image {..._props} />;
 }
 
 Icon.defaultProps = {
+  id: '',
   className: '',
   style: {},
   size: 'sm',

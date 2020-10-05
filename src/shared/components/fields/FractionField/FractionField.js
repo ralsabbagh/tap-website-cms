@@ -6,15 +6,16 @@ function FractionField(props) {
   const [value, setValue] = useState();
 
   function onChange(e) {
-    setValue(NumberUtil.forceFraction(e.target.value));
-    () => props.onChange();
+    let _value = NumberUtil.forceFraction(e.target.value);
+    if (props.onChange) props.onChange(_value);
+    setValue(_value);
   }
 
-  return <NumberField {...props} value={value} onChange={(e) => onChange(e)} />;
+  return <NumberField {...props} value={value} onChange={onChange} />;
 }
 
 FractionField.defaultProps = {
-  placeHolder: 'Ex: 0.5, 0.25',
+  placeHolder: '0.00',
   onChange: () => {},
 };
 

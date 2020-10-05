@@ -14,6 +14,9 @@ import countries from '../data_source/countries.json';
 import Anchor from '../components/basic/Anchor/Anchor';
 import Iframe from '../components/basic/Iframe/Iframe';
 import Animation from '../components/basic/Animation/Animation';
+import FractionField from '../components/fields/FractionField/FractionField';
+import NumberField from '../components/fields/NumberField/NumberField';
+import ArrayFields from '../components/fields/ArrayFields/ArrayFields';
 class ComposeUtil {
   static composeComponent(component_obj) {
     if (!component_obj) return <React.Fragment />;
@@ -49,7 +52,24 @@ class ComposeUtil {
         return <Select items={countries} {...component_obj.props} />;
       case 'button':
         return <Button {...component_obj.props} />;
+      default:
+        return <React.Fragment />;
+    }
+  }
 
+  static mergeProps(props, props_) {
+    return { ...props, ...props_ };
+  }
+
+  static composeField(component_obj) {
+    if (!component_obj) return <React.Fragment />;
+    switch (component_obj.component) {
+      case 'fractionField':
+        return <FractionField {...component_obj.props} />;
+      case 'numberField':
+        return <NumberField {...component_obj.props} />;
+      case 'arrayFields':
+        return <ArrayFields {...component_obj.props} />;
       default:
         return <React.Fragment />;
     }

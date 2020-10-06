@@ -8,7 +8,7 @@ let obj_value = {};
 function RowWidget(props) {
   function onChange(value, key) {
     obj_value[key] = value;
-    // console.log(obj_value);
+    console.log(obj_value);
   }
 
   let portitions = [];
@@ -27,18 +27,15 @@ function RowWidget(props) {
             field: { component: 'fractionField' },
           },
         }}
-      >
-        {/* <ArrayFields length={props.children.length} field={'fractionField'} /> */}
-      </ResponsiveField>
+      ></ResponsiveField>
       <Spacing space={{ lg: 20 }} />
-      {/* <ResponsiveField fieldName={'Spacing'}>
-        <NumberField
-          onChange={(e) => {
-            console.log(e.target.parent);
-            console.log(e.target.value);
-          }}
-        />
-      </ResponsiveField> */}
+      <ResponsiveField
+        fieldName={'Spacing'}
+        onChange={(value) => onChange(value, 'spacing')}
+        field={{
+          component: 'numberField',
+        }}
+      ></ResponsiveField>
     </Card>
   );
 }

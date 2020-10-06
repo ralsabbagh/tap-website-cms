@@ -17,7 +17,7 @@ function Input(props) {
       {...props}
       className={'t_input ' + level}
       style={{ width: 'calc(' + style.width + ' - 80px)' }}
-      onChange={props.onChange}
+      onChange={(e) => props.onChange(e.target.value)}
     />
   );
 

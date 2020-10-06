@@ -5,8 +5,8 @@ import NumberField from '../NumberField/NumberField';
 function FractionField(props) {
   const [value, setValue] = useState();
 
-  function onChange(e) {
-    let _value = NumberUtil.forceFraction(e.target.value);
+  function onChange(value) {
+    let _value = NumberUtil.forceFraction(value);
     if (props.onChange) props.onChange(_value);
     setValue(_value);
   }

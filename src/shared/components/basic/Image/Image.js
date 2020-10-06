@@ -5,12 +5,15 @@ function Image(props) {
   require('./Image.css');
   let alt = GeneralUtil.extractFileName(props.src);
   let style = GeneralUtil.responsiveObject(props.style);
-  return <img src={props.src} alt={alt} style={style} className={props.className} {...props} />;
+  console.log(props.style);
+  console.log(style);
+  return <img {...props} src={props.src} alt={alt} style={style} className={props.className} />;
 }
 
 Image.defaultProps = {
   style: {},
   className: '',
+  src: '',
   onClick: () => {},
 };
 

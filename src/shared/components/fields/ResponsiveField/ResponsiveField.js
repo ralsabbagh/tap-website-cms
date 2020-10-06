@@ -31,7 +31,7 @@ function ResponsiveField(props) {
 
   function unitField(unit) {
     return (
-      <Row verticalAlign={'middle'} portitions={{ lg: [0.03, 0.97], xs: [0.07, 0.93] }}>
+      <Row verticalAlign={'middle'} portitions={{ lg: [0.03, 0.97], xs: [0.1, 0.9] }}>
         <Icon src={unitIcon(unit)} size={'md'} />
         {ComposeUtil.composeField({
           component: props.field.component,

@@ -17,6 +17,7 @@ import Animation from '../components/basic/Animation/Animation';
 import FractionField from '../components/fields/FractionField/FractionField';
 import NumberField from '../components/fields/NumberField/NumberField';
 import ArrayFields from '../components/fields/ArrayFields/ArrayFields';
+import WidgetPicker from '../components/pageBuilder/WidgetPicker/WidgetPicker';
 class ComposeUtil {
   static composeComponent(component_obj) {
     if (!component_obj) return <React.Fragment />;
@@ -32,6 +33,8 @@ class ComposeUtil {
         return <Anchor {...component_obj.props}>{children}</Anchor>;
       case 'animation':
         return <Animation {...component_obj.props}>{children}</Animation>;
+      case 'widgetPicker':
+        return <WidgetPicker {...component_obj.props} />;
       case 'text':
         return <Text {...component_obj.props} />;
       case 'paragraph':

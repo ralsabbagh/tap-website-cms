@@ -5,7 +5,7 @@ function Container(props) {
   require('./Container.css');
   let style = GeneralUtil.responsiveObject(props.style);
   return (
-    <div style={style} className={props.className}>
+    <div {...props} style={style} className={props.className}>
       {props.children}
     </div>
   );

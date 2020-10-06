@@ -10,6 +10,8 @@ import Text from './components/basic/Text/Text';
 import GeneralUtil from './utils/GeneralUtil';
 import Card from './components/basic/Anchor/Card/Card';
 import Spacing from './components/basic/Spacing/Spacing';
+import Popup from './components/basic/Popup/Popup';
+import ImageWidget from './components/widgets/ImageWidget/ImageWidget';
 let count = 0;
 
 function App({ history }) {
@@ -32,15 +34,16 @@ function App({ history }) {
         <div>{'Loader'}</div>
       ) : (
         <React.Fragment>
+          <Popup />
           <Spacing space={{ lg: 100 }} />
           <Container className={'page_container'}>
-            {/* <Card> */}
             <RowWidget>
               <Text />
               <Text />
               <Text />
             </RowWidget>
-            {/* </Card> */}
+            <Spacing space={{ lg: 20 }} />
+            <ImageWidget />
           </Container>
         </React.Fragment>
       )}

@@ -3,6 +3,7 @@ import Card from '../../basic/Anchor/Card/Card';
 import ResponsiveField from '../../fields/ResponsiveField/ResponsiveField';
 import Spacing from '../../basic/Spacing/Spacing';
 import Text from '../../basic/Text/Text';
+import AddWidget from '../../pageBuilder/addWidget/addWidget';
 let obj_value = {};
 
 function RowWidget(props) {
@@ -14,7 +15,7 @@ function RowWidget(props) {
   let portitions = [];
   props.children.map(() => portitions.push(1 / props.children.length));
   return (
-    <Card textAlign={'initial'}>
+    <Card style={{ lg: { textAlign: 'initial' } }}>
       <Text text={'Row'} level={{ lg: 'h4' }} />
       <Spacing space={{ lg: 20 }} />
       <ResponsiveField
@@ -36,6 +37,10 @@ function RowWidget(props) {
           component: 'numberField',
         }}
       ></ResponsiveField>
+      <Spacing space={{ lg: 20 }} />
+      <Text text={'children'} level={{ lg: 'h6' }} />
+      <Spacing space={{ lg: 10 }} />
+      <AddWidget />
     </Card>
   );
 }

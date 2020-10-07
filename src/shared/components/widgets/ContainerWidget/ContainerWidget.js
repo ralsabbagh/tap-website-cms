@@ -18,7 +18,8 @@ function ContainerWidget(props) {
       FunctionsUtil.updateArray(value, key, childrenValue, setChildrenValue);
     }
     setTimeout(() => {
-      console.log({ component: 'container', props: objValue, children: childrenValue });
+      FunctionsUtil.updateValue({ component: 'container', props: objValue, ...childrenValue }, props.onChange);
+      console.log({ component: 'container', props: objValue, ...childrenValue });
     }, 10);
   }
 
@@ -26,11 +27,11 @@ function ContainerWidget(props) {
     <Card style={{ lg: { textAlign: 'initial' } }}>
       <Text text={'Container'} level={{ lg: 'h4' }} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'Class Name'} level={{ lg: 'h6' }} />
+      <Text text={'class name'} level={{ lg: 'h6' }} />
       <Spacing space={{ lg: 5 }} />
       <Input onChange={(value) => onChange(value, 'className')} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'Children'} level={{ lg: 'h6' }} />
+      <Text text={'children'} level={{ lg: 'h6' }} />
       <Spacing space={{ lg: 5 }} />
       <ChildrenFields onChange={(value) => onChange(value, 'children')} />
     </Card>

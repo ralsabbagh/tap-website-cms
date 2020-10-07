@@ -16,7 +16,7 @@ function ImageWidget(props) {
     <Card style={{ lg: { textAlign: 'initial' } }}>
       <Text text={'Image'} level={{ lg: 'h4' }} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'Url'} level={{ lg: 'h6' }} />
+      <Text text={'src'} level={{ lg: 'h6' }} />
       <Spacing space={{ lg: 5 }} />
       <Input placeHolder={'https://www.domainname.com/image.png'} onChange={(value) => onChange(value, 'src')} />
       {/* <Text text={'Class'} level={{ lg: 'h6' }} />

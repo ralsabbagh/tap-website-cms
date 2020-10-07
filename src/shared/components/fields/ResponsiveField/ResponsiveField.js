@@ -6,13 +6,14 @@ import Animation from '../../basic/Animation/Animation';
 import Text from '../../basic/Text/Text';
 import Container from '../../basic/Container/Container';
 import ComposeUtil from '../../../utils/ComposeUtil';
+import FunctionsUtil from '../../utils/FunctionsUtil';
 let all_icon = 'https://www.flaticon.com/svg/static/icons/svg/639/639371.svg';
 
 function ResponsiveField(props) {
   const [appear, setAppear] = useState(false);
   const [objValue, setObjValue] = useState({});
 
-  let spacing = <Spacing space={{ lg: 10 }} />;
+  let spacing = <Spacing space={{ lg: 5 }} />;
 
   function unitIcon(unit) {
     switch (unit) {
@@ -42,9 +43,7 @@ function ResponsiveField(props) {
   }
 
   function onChange(value, key) {
-    let _objValue = { ...objValue, ...{ [`${key}`]: value } };
-    if (props.onChange) props.onChange(_objValue);
-    setObjValue(_objValue);
+    FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, props.onChange, setObjValue);
   }
 
   function showall() {
@@ -80,6 +79,7 @@ function ResponsiveField(props) {
 
 ResponsiveField.defaultProps = {
   fieldName: 'Properity Name',
+  onChange: () => {},
 };
 
 export default ResponsiveField;

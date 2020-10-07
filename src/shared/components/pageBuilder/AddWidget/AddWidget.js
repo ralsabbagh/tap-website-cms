@@ -10,7 +10,9 @@ function AddWidget(props) {
   return (
     <Card
       style={{ lg: { textAlign: 'center', cursor: 'pointer' } }}
-      onClick={() => popup.setState({ state: 'open', child: { component: 'widgetPicker' } })}
+      onClick={() =>
+        popup.setState({ state: 'open', child: { component: 'widgetPicker', props: { onClick: props.onClick } } })
+      }
     >
       <Icon src={'https://www.flaticon.com/svg/static/icons/svg/747/747944.svg'} size={'xlg'} />
     </Card>

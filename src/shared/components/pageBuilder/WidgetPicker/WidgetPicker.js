@@ -2,19 +2,25 @@ import React from 'react';
 import Card from '../../basic/Anchor/Card/Card';
 import Row from '../../basic/Row/Row';
 import widgets from './widgets.json';
-// import Icon from '../../basic/Icon/Icon';
 import Text from '../../basic/Text/Text';
 import Spacing from '../../basic/Spacing/Spacing';
 import Image from '../../basic/Image/Image';
+import { useAppContext } from '../../../Context/AppContext';
 
 function WidgetPicker(props) {
-  function onClick() {}
+  const { controllers } = useAppContext();
+  const popup = controllers.popup;
+
+  function onClick(component) {
+    props.onClick(component);
+    popup.setState({ state: 'close' });
+  }
 
   return (
     <Card className={'page_container'}>
       <Row spacing={{ lg: 20, xs: 10 }} portitions={{ lg: [1 / 5, 1 / 5, 1 / 5, 1 / 5, 1 / 5] }}>
         {widgets.map((widget) => (
-          <Card>
+          <Card onClick={() => onClick(widget.component)} style={{ lg: { cursor: 'pointer' } }}>
             <Text text={widget.component} level={{ lg: 'h6' }} />
             <Spacing space={{ lg: 5 }} />
             <Image
@@ -28,6 +34,8 @@ function WidgetPicker(props) {
   );
 }
 
-WidgetPicker.defaultProps = {};
+WidgetPicker.defaultProps = {
+  onClick: () => {},
+};
 
 export default WidgetPicker;

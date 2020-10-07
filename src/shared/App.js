@@ -12,6 +12,7 @@ import Card from './components/basic/Anchor/Card/Card';
 import Spacing from './components/basic/Spacing/Spacing';
 import Popup from './components/basic/Popup/Popup';
 import ImageWidget from './components/widgets/ImageWidget/ImageWidget';
+import ContainerWidget from './components/widgets/ContainerWidget/ContainerWidget';
 let count = 0;
 
 function App({ history }) {
@@ -37,13 +38,15 @@ function App({ history }) {
           <Popup />
           <Spacing space={{ lg: 100 }} />
           <Container className={'page_container'}>
-            <RowWidget>
+            {/* <RowWidget>
               <Text />
               <Text />
               <Text />
             </RowWidget>
             <Spacing space={{ lg: 20 }} />
             <ImageWidget />
+            <Spacing space={{ lg: 20 }} /> */}
+            <ContainerWidget />
           </Container>
         </React.Fragment>
       )}

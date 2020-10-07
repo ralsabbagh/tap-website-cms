@@ -9,7 +9,7 @@ let obj_value = {};
 function RowWidget(props) {
   function onChange(value, key) {
     obj_value[key] = value;
-    console.log(obj_value);
+    // console.log(obj_value);
   }
 
   let portitions = [];
@@ -38,8 +38,8 @@ function RowWidget(props) {
         }}
       ></ResponsiveField>
       <Spacing space={{ lg: 20 }} />
-      <Text text={'children'} level={{ lg: 'h6' }} />
-      <Spacing space={{ lg: 10 }} />
+      <Text text={'Children'} level={{ lg: 'h6' }} />
+      <Spacing space={{ lg: 5 }} />
       <AddWidget />
     </Card>
   );

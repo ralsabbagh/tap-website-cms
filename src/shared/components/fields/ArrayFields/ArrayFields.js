@@ -9,8 +9,8 @@ function ArrayFields(props) {
   function onChange(value, key) {
     let _arrayValue = arrayValue;
     _arrayValue[key] = value;
+    props.onChange(_arrayValue);
     setArrayValue(_arrayValue);
-    if (props.onChange) props.onChange(_arrayValue);
   }
 
   return (
@@ -28,6 +28,7 @@ function ArrayFields(props) {
 ArrayFields.defaultProps = {
   length: 0,
   field: { component: 'number', props: {} },
+  onChange: () => {},
 };
 
 export default ArrayFields;

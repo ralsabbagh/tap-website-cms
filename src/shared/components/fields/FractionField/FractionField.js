@@ -1,14 +1,13 @@
 import React, { useState } from 'react';
 import NumberUtil from '../../utils/NumberUtil';
 import NumberField from '../NumberField/NumberField';
+import FunctionsUtil from '../../utils/FunctionsUtil';
 
 function FractionField(props) {
   const [value, setValue] = useState();
 
   function onChange(value) {
-    let _value = NumberUtil.forceFraction(value);
-    if (props.onChange) props.onChange(_value);
-    setValue(_value);
+    FunctionsUtil.updateValue(NumberUtil.forceFraction(value), props.onChange, setValue);
   }
 
   return <NumberField {...props} value={value} onChange={onChange} />;

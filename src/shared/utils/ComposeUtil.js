@@ -18,6 +18,9 @@ import FractionField from '../components/fields/FractionField/FractionField';
 import NumberField from '../components/fields/NumberField/NumberField';
 import ArrayFields from '../components/fields/ArrayFields/ArrayFields';
 import WidgetPicker from '../components/pageBuilder/WidgetPicker/WidgetPicker';
+import RowWidget from '../components/widgets/RowWidget/RowWidget';
+import ImageWidget from '../components/widgets/ImageWidget/ImageWidget';
+import ContainerWidget from '../components/widgets/ContainerWidget/ContainerWidget';
 class ComposeUtil {
   static composeComponent(component_obj) {
     if (!component_obj) return <React.Fragment />;
@@ -75,6 +78,20 @@ class ComposeUtil {
         return <ArrayFields {...component_obj.props} />;
       default:
         return <React.Fragment />;
+    }
+  }
+
+  static composeWidget(component_obj) {
+    if (!component_obj) return <React.Fragment>{'hahah'}</React.Fragment>;
+    switch (component_obj.component) {
+      case 'row':
+        return <RowWidget {...component_obj.props} />;
+      case 'image':
+        return <ImageWidget {...component_obj.props} />;
+      case 'container':
+        return <ContainerWidget {...component_obj.props} />;
+      default:
+        return <React.Fragment>{'hahah'}</React.Fragment>;
     }
   }
 

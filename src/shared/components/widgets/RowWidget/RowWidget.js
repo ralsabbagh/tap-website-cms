@@ -24,9 +24,11 @@ function RowWidget(props) {
 
   let portitions = [];
   childrenValue.map(() => portitions.push(1 / childrenValue.length));
+  let title_style = { lg: { color: 'gray' } };
+
   return (
     <Card style={{ lg: { textAlign: 'initial' } }}>
-      <Text text={'Row'} level={{ lg: 'h4' }} />
+      <Text text={'Row'} level={{ lg: 'h5' }} />
       <Spacing space={{ lg: 20 }} />
       <ResponsiveField
         fieldName={'portitions'}
@@ -48,7 +50,7 @@ function RowWidget(props) {
         }}
       ></ResponsiveField>
       <Spacing space={{ lg: 20 }} />
-      <Text text={'children'} level={{ lg: 'h6' }} />
+      <Text text={'children'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />
       <ChildrenFields onChange={(value) => onChange(value, 'children')} type={'row'} />
     </Card>

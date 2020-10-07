@@ -23,15 +23,17 @@ function ContainerWidget(props) {
     }, 10);
   }
 
+  let title_style = { lg: { color: 'gray' } };
+
   return (
     <Card style={{ lg: { textAlign: 'initial' } }}>
-      <Text text={'Container'} level={{ lg: 'h4' }} />
+      <Text text={'Container'} level={{ lg: 'h5' }} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'class name'} level={{ lg: 'h6' }} />
+      <Text text={'class name'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />
       <Input onChange={(value) => onChange(value, 'className')} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'children'} level={{ lg: 'h6' }} />
+      <Text text={'children'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />
       <ChildrenFields onChange={(value) => onChange(value, 'children')} />
     </Card>

@@ -1,16 +1,14 @@
 import React, { useState } from 'react';
 import Row from '../../basic/Row/Row';
 import ComposeUtil from '../../../utils/ComposeUtil';
+import FunctionsUtil from '../../utils/FunctionsUtil';
 
 function ArrayFields(props) {
   let portitions = new Array(props.length).fill(1 / props.length);
   const [arrayValue, setArrayValue] = useState([]);
 
   function onChange(value, key) {
-    let _arrayValue = arrayValue;
-    _arrayValue[key] = value;
-    props.onChange(_arrayValue);
-    setArrayValue(_arrayValue);
+    FunctionsUtil.updateArray(value, key, arrayValue, props.onChange, setArrayValue);
   }
 
   return (

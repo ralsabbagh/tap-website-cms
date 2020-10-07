@@ -13,7 +13,8 @@ function ResponsiveField(props) {
   const [appear, setAppear] = useState(false);
   const [objValue, setObjValue] = useState({});
 
-  let spacing = <Spacing space={{ lg: 5 }} />;
+  let spacing = <Spacing space={{ lg: 10 }} />;
+  let title_style = { lg: { color: 'gray' } };
 
   function unitIcon(unit) {
     switch (unit) {
@@ -53,7 +54,7 @@ function ResponsiveField(props) {
   return (
     <React.Fragment>
       <Row verticalAlign={'middle'} portitions={{ lg: [0.5, 0.5] }}>
-        <Text text={props.fieldName} level={{ lg: 'h6' }} />
+        <Text text={props.fieldName} level={{ lg: 'h6' }} style={title_style} />
         <Container style={{ lg: { textAlign: 'right' } }}>
           <Icon
             size={'md'}

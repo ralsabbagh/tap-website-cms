@@ -12,14 +12,16 @@ function ImageWidget(props) {
     FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, props.onChange, setObjValue);
   }
 
+  let title_style = { lg: { color: 'gray' } };
+
   return (
     <Card style={{ lg: { textAlign: 'initial' } }}>
-      <Text text={'Image'} level={{ lg: 'h4' }} />
+      <Text text={'Image'} level={{ lg: 'h5' }} />
       <Spacing space={{ lg: 20 }} />
-      <Text text={'src'} level={{ lg: 'h6' }} />
+      <Text text={'src'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />
       <Input placeHolder={'https://www.domainname.com/image.png'} onChange={(value) => onChange(value, 'src')} />
-      {/* <Text text={'Class'} level={{ lg: 'h6' }} />
+      {/* <Text text={'Class'} level={{ lg: 'h6' }} style={title_style}/>
       <Spacing space={{ lg: 10 }} />
       <Input onChange={(value) => onChange(value, 'className')} /> */}
     </Card>

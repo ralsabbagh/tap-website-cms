@@ -6,6 +6,7 @@ import Spacing from '../../basic/Spacing/Spacing';
 import FunctionsUtil from '../../utils/FunctionsUtil';
 import Row from '../../basic/Row/Row';
 import Container from '../../basic/Container/Container';
+import GeneralUtil from '../../../utils/GeneralUtil';
 
 function ChildrenFields(props) {
   const [widgets, setWidgets] = useState([]);
@@ -26,29 +27,42 @@ function ChildrenFields(props) {
       ...widgets,
       <Container>
         {ComposeUtil.composeWidget(_component)}
-        {props.type !== 'row' && <Spacing space={{ lg: 15 }} />}
+        {(props.type !== 'row' || GeneralUtil.mediaMatch(992)) && <Spacing space={{ lg: 15 }} />}
       </Container>,
     ]);
     onChange({ component: component }, widgets.length);
   }
 
-  function children() {
-    // let _widgets = widgets;
-    // _widgets[_widgets.length] = <AddWidget onClick={onClick} />;
-    // return _widgets;
-    return [...widgets, <AddWidget onClick={onClick} />];
-  }
-
-  let row_props = {
+  let outer_row_props = {
     portitions: {
-      lg: new Array(widgets.length + 1).fill(1 / (widgets.length + 1)),
-      sm: new Array(widgets.length + 1).fill(1),
+      lg: [0.9, 0.1],
+      sm: [1, 1],
     },
     spacing: { lg: 15 },
   };
 
-  if (props.type === 'row') return <Row {...row_props}>{children()}</Row>;
-  if (props.type !== 'row') return children();
+  let row_props = {
+    portitions: {
+      lg: new Array(widgets.length).fill(1 / widgets.length),
+      sm: new Array(widgets.length).fill(1),
+    },
+    spacing: { lg: 15 },
+  };
+
+  if (props.type !== 'row') return [...widgets, <AddWidget onClick={onClick} />];
+  if (props.type === 'row')
+    return (
+      <React.Fragment>
+        {widgets.length === 0 ? (
+          <AddWidget onClick={onClick} />
+        ) : (
+          <Row {...outer_row_props}>
+            <Row {...row_props}>{widgets}</Row>
+            <AddWidget onClick={onClick} />
+          </Row>
+        )}
+      </React.Fragment>
+    );
 }
 
 ChildrenFields.defaultProps = {

@@ -26,9 +26,11 @@ function Select(props) {
 
   return (
     <select className={className} style={style} onChange={(e) => onChange(e)}>
-      <option value={'default'} selected={'selected'}>
-        {props.title}
-      </option>
+      {props.title && (
+        <option value={'default'} selected={'selected'}>
+          {props.title}
+        </option>
+      )}
       {props.items.map((item, key) => (
         <option value={item[props.valueKey]} key={key}>
           {props.textKeys.map((textkey) => textkey.prefixText + item[textkey.textkey])}

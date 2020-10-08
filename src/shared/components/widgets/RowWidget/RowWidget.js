@@ -5,7 +5,7 @@ import Spacing from '../../basic/Spacing/Spacing';
 import Text from '../../basic/Text/Text';
 import ChildrenFields from '../../fields/ChildrenFields/ChildrenFields';
 import FunctionsUtil from '../../utils/FunctionsUtil';
-
+import portitions_options from './portitions_options.json';
 function RowWidget(props) {
   const [objValue, setObjValue] = useState({});
   const [childrenValue, setChildrenValue] = useState([]);
@@ -34,10 +34,17 @@ function RowWidget(props) {
         fieldName={'portitions'}
         onChange={(value) => onChange(value, 'portitions')}
         field={{
-          component: 'arrayFields',
+          component: 'select',
           props: {
-            length: childrenValue.length,
-            field: { component: 'fractionField' },
+            items: portitions_options,
+            style: { lg: { width: '100%' } },
+            valueKey: 'value',
+            textKeys: [
+              {
+                prefixText: '',
+                textkey: 'option',
+              },
+            ],
           },
         }}
       ></ResponsiveField>

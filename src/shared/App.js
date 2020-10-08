@@ -13,6 +13,8 @@ import Spacing from './components/basic/Spacing/Spacing';
 import Popup from './components/basic/Popup/Popup';
 import ImageWidget from './components/widgets/ImageWidget/ImageWidget';
 import ContainerWidget from './components/widgets/ContainerWidget/ContainerWidget';
+import Select from './components/basic/Select/Select';
+import Icon from './components/basic/Icon/Icon';
 let count = 0;
 
 function App({ history }) {
@@ -38,14 +40,6 @@ function App({ history }) {
           <Popup />
           <Spacing space={{ lg: 100 }} />
           <Container className={'page_container'}>
-            {/* <RowWidget>
-              <Text />
-              <Text />
-              <Text />
-            </RowWidget>
-            <Spacing space={{ lg: 20 }} />
-            <ImageWidget />
-            <Spacing space={{ lg: 20 }} /> */}
             <ContainerWidget />
           </Container>
         </React.Fragment>

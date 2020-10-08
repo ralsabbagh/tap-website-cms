@@ -76,6 +76,8 @@ class ComposeUtil {
         return <NumberField {...component_obj.props} />;
       case 'arrayFields':
         return <ArrayFields {...component_obj.props} />;
+      case 'select':
+        return <Select {...component_obj.props} />;
       default:
         return <React.Fragment />;
     }

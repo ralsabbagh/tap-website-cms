@@ -7,6 +7,7 @@ function Select(props) {
   require('./Select.css');
 
   function onChange(e) {
+    console.log(e.target.value);
     props.onChange(e.target.value);
     setCurrentItem(findItem(e.target.value));
   }

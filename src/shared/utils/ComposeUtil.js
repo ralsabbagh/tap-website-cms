@@ -84,7 +84,7 @@ class ComposeUtil {
   }
 
   static composeWidget(component_obj) {
-    if (!component_obj) return <React.Fragment>{'hahah'}</React.Fragment>;
+    if (!component_obj) return <React.Fragment />;
     switch (component_obj.component) {
       case 'row':
         return <RowWidget {...component_obj.props} />;
@@ -93,7 +93,7 @@ class ComposeUtil {
       case 'container':
         return <ContainerWidget {...component_obj.props} />;
       default:
-        return <React.Fragment>{'hahah'}</React.Fragment>;
+        return <React.Fragment />;
     }
   }
 

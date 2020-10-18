@@ -34,12 +34,22 @@ function App({ history }) {
   history.listen(() => {});
 
   function store(value) {
-    let blob = new Blob([JSON.stringify(value)], { type: 'application/json' });
-    var storageRef = firebase.storage().ref();
-    var fileRef = storageRef.child('/kw/collect.json');
-    fileRef.put(blob).then(function (snapshot) {
-      console.log('Uploaded a blob!');
-    });
+    console.log(value);
+    firebase
+      .database()
+      .ref()
+      .set({
+        kw: {
+          collect: JSON.stringify(value),
+        },
+      });
+
+    // let blob = new Blob([JSON.stringify(value)], { type: 'application/json' });
+    // var storageRef = firebase.storage().ref();
+    // var fileRef = storageRef.child('/kw/collect.json');
+    // fileRef.put(blob).then(function (snapshot) {
+    //   console.log('Uploaded a blob!');
+    // });
   }
 
   useEffect(() => {

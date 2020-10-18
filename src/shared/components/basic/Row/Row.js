@@ -3,6 +3,7 @@ import GeneralUtil from '../../../utils/GeneralUtil';
 
 function Row(props) {
   function children(children, portitions, spacing) {
+    if (!children.length) children = [children];
     let spaceStyle = { display: 'inline-block', width: spacing + 'px' };
     let rows = 0;
     portitions.map((portition) => {

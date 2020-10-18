@@ -12,7 +12,7 @@ function RowWidget(props) {
 
   function onChange(value, key) {
     if (key !== 'children') {
-      FunctionsUtil.updateObj(objValue, { [$`key`]: value }, setObjValue);
+      FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, setObjValue);
     }
     if (key === 'children') {
       FunctionsUtil.updateArray(value, key, childrenValue, setChildrenValue);
@@ -20,6 +20,14 @@ function RowWidget(props) {
     setTimeout(() => {
       FunctionsUtil.updateValue({ component: 'row', props: objValue, ...childrenValue }, props.onChange);
     }, 10);
+  }
+
+  function onPortitionsChange(value, key) {
+    let _value = {};
+    for (var propName in value) {
+      Object.assign(_value, { [`${propName}`]: JSON.parse(value[propName]) });
+    }
+    onChange(_value, key);
   }
 
   let portitions = [];
@@ -32,19 +40,13 @@ function RowWidget(props) {
       <Spacing space={{ lg: 20 }} />
       <ResponsiveField
         fieldName={'portitions'}
-        onChange={(value) => onChange(value, 'portitions')}
+        onChange={(value) => {
+          onPortitionsChange(value, 'portitions');
+        }}
         field={{
           component: 'select',
           props: {
             items: portitions_options,
-            style: { lg: { width: '100%' } },
-            valueKey: 'value',
-            textKeys: [
-              {
-                prefixText: '',
-                textkey: 'option',
-              },
-            ],
           },
         }}
       ></ResponsiveField>

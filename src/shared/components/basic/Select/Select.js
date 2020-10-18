@@ -1,13 +1,15 @@
 import React, { useState } from 'react';
 import GeneralUtil from '../../../utils/GeneralUtil';
-
+let default_textkeys = {
+  prefixText: '',
+  textkey: 'option',
+};
 function Select(props) {
   const [currentItem, setCurrentItem] = useState({});
 
   require('./Select.css');
 
   function onChange(e) {
-    console.log(e.target.value);
     props.onChange(e.target.value);
     setCurrentItem(findItem(e.target.value));
   }
@@ -19,9 +21,7 @@ function Select(props) {
 
   let style = GeneralUtil.responsiveObject(props.style);
   let className = props.className + ' t_select ' + props.shape + ' fa-' + props.iconSize + ' h6';
-  let icon = currentItem[props.iconKey]
-    ? currentItem[props.iconKey]
-    : 'https://websiteimages.b-cdn.net/select_default_icon.svg';
+  let icon = props.iconKey ? currentItem[props.iconKey] : 'https://websiteimages.b-cdn.net/select_default_icon.svg';
   if (props.iconKey && props.shape === 'icon') style.backgroundImage = 'url(' + icon + ')';
   if (props.shape === 'bordered') style.borderColor = props.primaryColor;
 
@@ -48,8 +48,8 @@ Select.defaultProps = {
   shape: 'flat', /// flat //// bordered //// icon
   iconSize: 'md',
   iconKey: null,
-  valueKey: '',
-  textKeys: [],
+  valueKey: 'value',
+  textKeys: [default_textkeys],
   title: '',
   primaryColor: 'gray',
   onChange: () => {},

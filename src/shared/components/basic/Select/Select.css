@@ -5,6 +5,7 @@
   -webkit-appearance: none;
   cursor: pointer;
   background-repeat: no-repeat;
+  width: 100%;
 }
 
 .t_select.flat,

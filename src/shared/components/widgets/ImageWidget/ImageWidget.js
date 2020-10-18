@@ -9,7 +9,11 @@ function ImageWidget(props) {
   const [objValue, setObjValue] = useState({});
 
   function onChange(value, key) {
-    FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, props.onChange, setObjValue);
+    FunctionsUtil.updateValue(
+      { component: 'image', props: { ...objValue, ...{ [`${key}`]: value } } },
+      props.onChange,
+      setObjValue,
+    );
   }
 
   let title_style = { lg: { color: 'gray' } };

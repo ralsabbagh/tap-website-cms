@@ -15,10 +15,32 @@ import ImageWidget from './components/widgets/ImageWidget/ImageWidget';
 import ContainerWidget from './components/widgets/ContainerWidget/ContainerWidget';
 import Select from './components/basic/Select/Select';
 import Icon from './components/basic/Icon/Icon';
+import firebase from 'firebase';
 let count = 0;
+
+var config = {
+  apiKey: 'AIzaSyBpsaBbgIWp5q3tU5asi-q-sVhMcnqDICE',
+  authDomain: 'page-builder-cec56.firebaseapp.com',
+  databaseURL: 'https://page-builder-cec56.firebaseio.com',
+  projectId: 'page-builder-cec56',
+  storageBucket: 'page-builder-cec56.appspot.com',
+  messagingSenderId: '950873454129',
+  appId: '1:950873454129:web:b0651349d9f2c55128c710',
+  measurementId: 'G-J71NJK3R19',
+};
+firebase.initializeApp(config);
 
 function App({ history }) {
   history.listen(() => {});
+
+  function store(value) {
+    let blob = new Blob([JSON.stringify(value)], { type: 'application/json' });
+    var storageRef = firebase.storage().ref();
+    var fileRef = storageRef.child('/kw/collect.json');
+    fileRef.put(blob).then(function (snapshot) {
+      console.log('Uploaded a blob!');
+    });
+  }
 
   useEffect(() => {
     if (count === 0) {
@@ -40,7 +62,7 @@ function App({ history }) {
           <Popup />
           <Spacing space={{ lg: 100 }} />
           <Container className={'page_container'}>
-            <ContainerWidget />
+            <ContainerWidget onChange={store} />
           </Container>
         </React.Fragment>
       )}

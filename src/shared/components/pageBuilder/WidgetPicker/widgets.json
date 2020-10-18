@@ -2,6 +2,6 @@
   { "component": "container", "icon": "https://www.flaticon.com/svg/static/icons/svg/747/747535.svg" },
   { "component": "row", "icon": "https://www.flaticon.com/svg/static/icons/svg/1014/1014820.svg" },
   { "component": "image", "icon": "https://www.flaticon.com/svg/static/icons/svg/1102/1102097.svg" },
-  { "component": "text", "icon": "https://www.flaticon.com/svg/static/icons/svg/1617/1617705.svg" },
-  { "component": "paragraph", "icon": "https://www.flaticon.com/svg/static/icons/svg/1634/1634797.svg" }
+  { "component": "paragraph", "icon": "https://www.flaticon.com/svg/static/icons/svg/1634/1634797.svg" },
+  { "component": "text", "icon": "https://www.flaticon.com/svg/static/icons/svg/1617/1617705.svg" }
 ]

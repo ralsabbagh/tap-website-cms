@@ -3,23 +3,22 @@ import Card from '../../basic/Anchor/Card/Card';
 import Spacing from '../../basic/Spacing/Spacing';
 import Text from '../../basic/Text/Text';
 import ChildrenFields from '../../fields/ChildrenFields/ChildrenFields';
-import Input from '../../basic/Input/Input';
 import FunctionsUtil from '../../utils/FunctionsUtil';
-
+import Select from '../../basic/Select/Select';
+import classname_options from './classname_options.json';
 function ContainerWidget(props) {
   const [objValue, setObjValue] = useState({});
   const [childrenValue, setChildrenValue] = useState([]);
 
   function onChange(value, key) {
     if (key !== 'children') {
-      FunctionsUtil.updateObj(objValue, { [$`key`]: value }, setObjValue);
+      FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, setObjValue);
     }
     if (key === 'children') {
       FunctionsUtil.updateArray(value, key, childrenValue, setChildrenValue);
     }
     setTimeout(() => {
       FunctionsUtil.updateValue({ component: 'container', props: objValue, ...childrenValue }, props.onChange);
-      console.log({ component: 'container', props: objValue, ...childrenValue });
     }, 10);
   }
 
@@ -31,7 +30,7 @@ function ContainerWidget(props) {
       <Spacing space={{ lg: 20 }} />
       <Text text={'class name'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />
-      <Input onChange={(value) => onChange(value, 'className')} />
+      <Select onChange={(value) => onChange(value, 'className')} items={classname_options} />
       <Spacing space={{ lg: 20 }} />
       <Text text={'children'} level={{ lg: 'h6' }} style={title_style} />
       <Spacing space={{ lg: 5 }} />

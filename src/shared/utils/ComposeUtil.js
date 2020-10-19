@@ -21,6 +21,8 @@ import WidgetPicker from '../components/pageBuilder/WidgetPicker/WidgetPicker';
 import RowWidget from '../components/widgets/RowWidget/RowWidget';
 import ImageWidget from '../components/widgets/ImageWidget/ImageWidget';
 import ContainerWidget from '../components/widgets/ContainerWidget/ContainerWidget';
+import TextWidget from '../components/widgets/TextWidget/TextWidget';
+
 class ComposeUtil {
   static composeComponent(component_obj) {
     if (!component_obj) return <React.Fragment />;
@@ -92,6 +94,8 @@ class ComposeUtil {
         return <ImageWidget {...component_obj.props} />;
       case 'container':
         return <ContainerWidget {...component_obj.props} />;
+      case 'text':
+        return <TextWidget {...component_obj.props} />;
       default:
         return <React.Fragment />;
     }

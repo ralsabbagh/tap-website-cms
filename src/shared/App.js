@@ -43,7 +43,6 @@ function App({ history }) {
           collect: JSON.stringify(value),
         },
       });
-
     // let blob = new Blob([JSON.stringify(value)], { type: 'application/json' });
     // var storageRef = firebase.storage().ref();
     // var fileRef = storageRef.child('/kw/collect.json');

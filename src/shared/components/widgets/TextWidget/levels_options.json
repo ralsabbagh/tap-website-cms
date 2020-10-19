@@ -1,0 +1,8 @@
+[
+  { "value": "h6", "option": "h6 - xsmall" },
+  { "value": "h5", "option": "h5 - small" },
+  { "value": "h4", "option": "h4 - medium" },
+  { "value": "h3", "option": "h3 - large" },
+  { "value": "h2", "option": "h2 - xlarge" },
+  { "value": "h1", "option": "h1 - xxlarge" }
+]

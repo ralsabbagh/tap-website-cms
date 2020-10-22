@@ -1,21 +1,16 @@
 import React, { useEffect } from 'react';
 import { observer } from 'mobx-react-lite';
-import { Route, Redirect, Switch, withRouter } from 'react-router-dom';
-import preferencesStore from './stores/PreferencesStore';
-import Component from './components/basic/Component/Component';
-import FractionField from './components/fields/FractionField/FractionField';
+import { withRouter } from 'react-router-dom';
 import Container from './components/basic/Container/Container';
-import RowWidget from './components/widgets/RowWidget/RowWidget';
-import Text from './components/basic/Text/Text';
 import GeneralUtil from './utils/GeneralUtil';
-import Card from './components/basic/Anchor/Card/Card';
 import Spacing from './components/basic/Spacing/Spacing';
 import Popup from './components/basic/Popup/Popup';
-import ImageWidget from './components/widgets/ImageWidget/ImageWidget';
 import ContainerWidget from './components/widgets/ContainerWidget/ContainerWidget';
-import Select from './components/basic/Select/Select';
-import Icon from './components/basic/Icon/Icon';
 import firebase from 'firebase';
+import MainTemplate from './components/cms/mainTemplate/mainTemplate';
+import MenuItem from './components/basic/MenuItem/MenuItem';
+import Text from './components/basic/Text/Text';
+import Icon from './components/basic/Icon/Icon';
 let count = 0;
 
 var config = {
@@ -43,12 +38,6 @@ function App({ history }) {
           collect: JSON.stringify(value),
         },
       });
-    // let blob = new Blob([JSON.stringify(value)], { type: 'application/json' });
-    // var storageRef = firebase.storage().ref();
-    // var fileRef = storageRef.child('/kw/collect.json');
-    // fileRef.put(blob).then(function (snapshot) {
-    //   console.log('Uploaded a blob!');
-    // });
   }
 
   useEffect(() => {
@@ -59,22 +48,82 @@ function App({ history }) {
     }
   }, []);
 
-  let country = preferencesStore.country;
-  let language = preferencesStore.language;
-
+  let iconSrc = 'https://www.flaticon.com/svg/static/icons/svg/888/888071.svg';
   return (
-    <div className={'App'} dir={language === 'ar' ? 'rtl' : 'ltr'}>
-      {!country ? (
-        <div>{'Loader'}</div>
-      ) : (
-        <React.Fragment>
-          <Popup />
-          <Spacing space={{ lg: 100 }} />
+    <div className={'App'} dir={'ltr'}>
+      <React.Fragment>
+        <Popup />
+        <Container style={{ lg: { backgroundColor: '#1c1c1c', padding: '10px 0' } }}>
           <Container className={'page_container'}>
-            <ContainerWidget onChange={store} />
+            <Container style={{ lg: { textAlign: 'right' } }}>
+              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/1738/1738691.svg'} size={'lg'} />
+            </Container>
           </Container>
-        </React.Fragment>
-      )}
+        </Container>
+        <Spacing space={{ lg: 45 }} />
+        <MainTemplate
+          sideMenu={
+            <Container style={{ lg: { textAlign: 'initial' } }}>
+              <Text text={'pages'} level={{ lg: 'h5' }} />
+              <Spacing space={{ lg: 10 }} iconSrc={iconSrc} />
+              <MenuItem
+                title={'Kuwait'}
+                iconSrc={'https://www.gotapnow.com/web/countryflag/Kuwait.png'}
+                active={true}
+              />
+              <Spacing space={{ lg: 5 }} iconSrc={iconSrc} />
+              <MenuItem title={'pay'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'sell'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'collect'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'api'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'about'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'jobs'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 15 }} />
+              <MenuItem
+                title={'Saudi Arabia'}
+                iconSrc={'https://www.gotapnow.com/web/countryflag/Saudi%20Arabia.png'}
+                active={true}
+              />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'pay'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'sell'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'collect'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'api'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'about'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'jobs'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 15 }} />
+              <MenuItem
+                title={'Emirates'}
+                iconSrc={'https://www.gotapnow.com/web/countryflag/United%20Arab%20Emirates.png'}
+                active={true}
+              />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'pay'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'sell'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'collect'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'api'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'about'} iconSrc={iconSrc} />
+              <Spacing space={{ lg: 5 }} />
+              <MenuItem title={'jobs'} iconSrc={iconSrc} />
+            </Container>
+          }
+          body={<ContainerWidget onChange={store} />}
+        />
+      </React.Fragment>
     </div>
   );
 }

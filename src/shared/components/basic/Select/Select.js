@@ -46,7 +46,7 @@ Select.defaultProps = {
   className: '',
   items: [],
   shape: 'flat', /// flat //// bordered //// icon
-  iconSize: 'md',
+  iconSize: 'sm',
   iconKey: null,
   valueKey: 'value',
   textKeys: [default_textkeys],

@@ -1,20 +1,8 @@
 .page_container {
-  width: 66%;
-}
-
-@media screen and (max-width: 1199px) {
-  .page_container {
-    width: 80%;
-  }
+  width: calc(100% - 90px);
 }
 
 @media screen and (max-width: 992px) {
-  .page_container {
-    width: 90%;
-  }
-}
-
-@media screen and (max-width: 767px) {
   .page_container {
     width: calc(100% - 30px);
   }

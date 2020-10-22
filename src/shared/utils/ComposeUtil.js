@@ -22,6 +22,7 @@ import RowWidget from '../components/widgets/RowWidget/RowWidget';
 import ImageWidget from '../components/widgets/ImageWidget/ImageWidget';
 import ContainerWidget from '../components/widgets/ContainerWidget/ContainerWidget';
 import TextWidget from '../components/widgets/TextWidget/TextWidget';
+import SpacingWidget from '../components/widgets/SpacingWidget/SpacingWidget';
 
 class ComposeUtil {
   static composeComponent(component_obj) {
@@ -96,6 +97,8 @@ class ComposeUtil {
         return <ContainerWidget {...component_obj.props} />;
       case 'text':
         return <TextWidget {...component_obj.props} />;
+      case 'spacing':
+        return <SpacingWidget {...component_obj.props} />;
       default:
         return <React.Fragment />;
     }

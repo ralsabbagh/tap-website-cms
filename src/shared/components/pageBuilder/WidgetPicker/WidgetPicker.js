@@ -18,7 +18,7 @@ function WidgetPicker(props) {
 
   return (
     <Card className={'page_container'}>
-      <Row spacing={{ lg: 20, xs: 10 }} portitions={{ lg: [1 / 5, 1 / 5, 1 / 5, 1 / 5, 1 / 5] }}>
+      <Row spacing={{ lg: 20, xs: 10 }} portitions={{ lg: new Array(widgets.length).fill(1 / 6) }}>
         {widgets.map((widget) => (
           <Card onClick={() => onClick(widget.component)} style={{ lg: { cursor: 'pointer' } }}>
             <Text text={widget.component} level={{ lg: 'h6' }} />

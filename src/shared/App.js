@@ -217,6 +217,25 @@ function App({ history }) {
         <Spacing space={{ lg: 40 }} />
         <Container className={'page_container'}>
           <Container style={{ lg: { textAlign: 'initial ' } }}>
+            <Text text={'Page Status'} level={{ lg: 'h5' }} />
+            <Spacing space={{ lg: 10 }} />
+            <label style={{ display: 'inline-block', marginRight: '230px' }}>
+              <input type="radio" name="optradio" checked />
+              Building
+            </label>
+            <label style={{ display: 'inline-block', marginRight: '230px' }}>
+              <input type="radio" name="optradio" />
+              Editing
+            </label>
+            <label style={{ display: 'inline-block', marginRight: '230px' }}>
+              <input type="radio" name="optradio" />
+              Review
+            </label>
+            <label style={{ display: 'inline-block' }}>
+              <input type="radio" name="optradio" />
+              Ready for publish
+            </label>
+            <Spacing space={{ lg: 45 }} />
             <Text text={'Meta Data'} level={{ lg: 'h5' }} />
             <Spacing space={{ lg: 10 }} />
             <Input placeHolder={'Page Title'} />

@@ -40,7 +40,7 @@ Input.defaultProps = {
   level: { lg: 'h6' },
   prefix: null,
   shape: 'flat', /// bordered /// flat
-  primaryColor: 'white',
+  primaryColor: '#ececec',
   secondaryColor: 'gray',
 };
 

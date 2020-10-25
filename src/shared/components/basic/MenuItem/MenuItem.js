@@ -8,11 +8,11 @@ function MenuItem(props) {
   return (
     <Row
       className={'t_menu_item'}
-      style={{ lg: { opacity: props.active ? 1 : 0.7, cursor: 'pointer' } }}
-      spacing={{ lg: 5 }}
+      style={{ lg: { opacity: props.active ? 1 : 0.6, cursor: 'pointer' } }}
+      spacing={{ lg: 7 }}
     >
       <Icon src={props.iconSrc} />
-      <Text text={props.title} level={{ lg: 'h7' }} />
+      <Text text={props.title} level={{ lg: 'h6' }} />
     </Row>
   );
 }

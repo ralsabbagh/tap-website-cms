@@ -6,7 +6,7 @@ function Card(props) {
 
   return (
     <Container {...props} className={props.className + ' t_card'}>
-      {props.children}
+      <Container className={' t_card_body'}>{props.children}</Container>
     </Container>
   );
 }

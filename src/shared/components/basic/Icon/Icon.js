@@ -11,7 +11,11 @@ function Icon(props) {
     src: props.src,
     id: props.id,
   };
-  return !props.src ? <i {..._props} /> : <Image {..._props} />;
+  return (
+    <div className={_props.className} style={{ ..._props.style, ...{ display: 'inline-block' } }}>
+      {!props.src ? <i {..._props} /> : <Image {..._props} />}
+    </div>
+  );
 }
 
 Icon.defaultProps = {

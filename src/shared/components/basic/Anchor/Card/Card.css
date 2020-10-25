@@ -1,6 +1,17 @@
 .t_card {
   border-radius: 6px;
-  padding: 20px;
-  box-shadow: #00000026 0px 0px 17px;
+  box-shadow: #00000017 0px 0px 12px;
   background-color: #f3f3f3;
+  border: 1px solid #e1e1e1;
+}
+
+.t_card_header {
+  border-radius: 6px 6px 0px 0px;
+  background-color: #413a3a;
+  padding: 5px 20px;
+  color: #fff;
+}
+
+.t_card_body {
+  padding: 20px;
 }

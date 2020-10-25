@@ -45,7 +45,7 @@ function Animation(props) {
 
 Animation.defaultProps = {
   type: 'fade',
-  on: 'scroll', //// load, scroll, external
+  on: 'external', //// load, scroll, external
   appear: false,
 };
 

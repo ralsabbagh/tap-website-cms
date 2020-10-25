@@ -1,5 +1,5 @@
 .page_container {
-  width: calc(100% - 90px);
+  width: calc(100% - 400px);
 }
 
 @media screen and (max-width: 992px) {

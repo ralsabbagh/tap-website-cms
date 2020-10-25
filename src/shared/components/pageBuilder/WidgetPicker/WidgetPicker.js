@@ -18,11 +18,13 @@ function WidgetPicker(props) {
 
   return (
     <Card className={'page_container'}>
+      <Text text={'Widgets'} level={{ lg: 'h5' }} />
+      <Spacing space={{ lg: 20 }} />
       <Row spacing={{ lg: 20, xs: 10 }} portitions={{ lg: new Array(widgets.length).fill(1 / 6) }}>
         {widgets.map((widget) => (
           <Card onClick={() => onClick(widget.component)} style={{ lg: { cursor: 'pointer' } }}>
             <Text text={widget.component} level={{ lg: 'h6' }} />
-            <Spacing space={{ lg: 5 }} />
+            <Spacing space={{ lg: 10 }} />
             <Image
               src={widget.icon}
               style={{ lg: { height: '80px', width: '80px' }, xs: { height: '35px', width: '35px' } }}
@@ -30,6 +32,7 @@ function WidgetPicker(props) {
           </Card>
         ))}
       </Row>
+      <Spacing space={{ lg: 5 }} />
     </Card>
   );
 }

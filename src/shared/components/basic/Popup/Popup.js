@@ -14,7 +14,7 @@ function Poppup(props) {
 
   return (
     <div className={className + controller.state} style={style} onClick={() => controller.setState({ state: 'close' })}>
-      <Icon className={'fas fa-times t_popup_close'} size={'md'} />
+      {/* <Icon className={'fas fa-times t_popup_close'} size={'md'} /> */}
       <Center style={{ lg: { cursor: 'auto' } }} onClick={(e) => e.stopPropagation()}>
         {controller.child}
       </Center>

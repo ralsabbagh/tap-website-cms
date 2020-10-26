@@ -14,8 +14,18 @@ function BaseWidget(props) {
         <Container style={{ lg: { textAlign: 'right' } }}>
           {props.widgetTitle !== 'Container' && (
             <Row spacing={{ lg: 7 }}>
-              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/1365/1365230.svg'} size={'md'} />
-              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/3143/3143542.svg'} size={'md'} />
+              <Icon
+                src={'https://www.flaticon.com/svg/static/icons/svg/1365/1365230.svg'}
+                size={'md'}
+                title={'Copy'}
+                style={{ lg: { cursor: 'pointer' } }}
+              />
+              <Icon
+                src={'https://www.flaticon.com/svg/static/icons/svg/3143/3143542.svg'}
+                size={'md'}
+                title={'Delete'}
+                style={{ lg: { cursor: 'pointer' } }}
+              />
             </Row>
           )}
         </Container>

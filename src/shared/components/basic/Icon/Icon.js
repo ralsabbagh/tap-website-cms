@@ -5,11 +5,12 @@ import GeneralUtil from '../../../utils/GeneralUtil';
 function Icon(props) {
   require('./Icon.css');
   let _props = {
-    className: props.className + ' fa-' + props.size + ' t_icon',
-    style: GeneralUtil.responsiveObject(props.style),
-    onClick: GeneralUtil.onClick_(props.onClick),
-    src: props.src,
-    id: props.id,
+    ...props,
+    ...{
+      className: props.className + ' fa-' + props.size + ' t_icon',
+      style: GeneralUtil.responsiveObject(props.style),
+      onClick: GeneralUtil.onClick_(props.onClick),
+    },
   };
   return (
     <div className={_props.className} style={{ ..._props.style, ...{ display: 'inline-block' } }}>
@@ -19,7 +20,6 @@ function Icon(props) {
 }
 
 Icon.defaultProps = {
-  id: '',
   className: '',
   style: {},
   size: 'sm',

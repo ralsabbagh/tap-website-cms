@@ -16,6 +16,7 @@ import Row from './components/basic/Row/Row';
 import Animation from './components/basic/Animation/Animation';
 import BaseField from './components/widgets/BaseField/BaseField';
 import Input from './components/basic/Input/Input';
+import Button from './components/basic/Button/Button';
 let count = 0;
 
 var config = {
@@ -204,11 +205,26 @@ function App({ history }) {
     <div className={'App'} dir={'ltr'}>
       <React.Fragment>
         <Popup />
-        <Container style={{ lg: { backgroundColor: '#fff', padding: '10px 0', borderBottom: '1px solid #e8e8e8' } }}>
+        <Container
+          style={{
+            lg: {
+              backgroundColor: '#fff',
+              padding: '10px 0',
+              borderBottom: '1px solid #e8e8e8',
+              position: 'fixed',
+              width: '100%',
+              zIndex: '9',
+            },
+          }}
+        >
           <Container className={'page_container'}>
             <Row portitions={{ lg: [0.5, 0.5] }}>
               <Container style={{ lg: { textAlign: 'left' } }} onClick={() => setAppear(!appear)}>
-                <Icon src={'https://www.flaticon.com/svg/static/icons/svg/1828/1828859.svg'} size={'lg'} />
+                <Icon
+                  src={'https://www.flaticon.com/svg/static/icons/svg/1828/1828859.svg'}
+                  size={'lg'}
+                  style={{ lg: { cursor: 'pointer' } }}
+                />
               </Container>
               <Container style={{ lg: { textAlign: 'right' } }}>
                 <Icon src={'https://www.flaticon.com/svg/static/icons/svg/1738/1738691.svg'} size={'lg'} />
@@ -216,7 +232,7 @@ function App({ history }) {
             </Row>
           </Container>
         </Container>
-        <Spacing space={{ lg: 40 }} />
+        <Spacing space={{ lg: 88 }} />
         <Container className={'page_container'}>
           <Container style={{ lg: { textAlign: 'initial ' } }}>
             {/* <Text text={'Page Status'} level={{ lg: 'h5' }} />
@@ -258,17 +274,35 @@ function App({ history }) {
             <Input placeHolder={'Page Icon'} />
           </Container>
           <Spacing space={{ lg: 45 }} />
-          <Row spacing={{ lg: 10 }} style={{ lg: { textAlign: 'initial ' } }}>
-            <Icon src={'https://www.flaticon.com/svg/static/icons/svg/432/432429.svg'} size={'md'} />
-            <Text text={'Page Builder'} level={{ lg: 'h5' }} />
+          <Row portitions={{ lg: [0.5, 0.5] }} verticalAlign={'bottom'}>
+            <Row spacing={{ lg: 10 }} style={{ lg: { textAlign: 'initial ' } }}>
+              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/432/432429.svg'} size={'md'} />
+              <Text text={'Page Builder'} level={{ lg: 'h5' }} />
+            </Row>
+            <Row spacing={{ lg: 10 }} style={{ lg: { textAlign: 'right ' } }}>
+              <Button
+                text={{ text: 'Save' }}
+                icon={{ src: 'https://www.flaticon.com/svg/static/icons/svg/907/907027.svg' }}
+                shape={'solid'}
+              />
+              <Button
+                text={{ text: 'Prerview' }}
+                icon={{ src: 'https://www.flaticon.com/svg/static/icons/svg/560/560523.svg' }}
+                shape={'solid'}
+              />
+            </Row>
           </Row>
+          {/* https://www.flaticon.com/svg/static/icons/svg/907/907027.svg
+             https://www.flaticon.com/svg/static/icons/svg/560/560523.svg */}
+
           <Spacing space={{ lg: 10 }} />
           <ContainerWidget onChange={store} />
+          <Spacing space={{ lg: 100 }} />
         </Container>
         <Container
           style={{
             lg: {
-              position: 'absolute',
+              position: 'fixed',
               top: 46,
               width: '100%',
               height: '100%',
@@ -282,7 +316,7 @@ function App({ history }) {
             appear={appear}
             fade={false}
             distance={'400px'}
-            duration={'0.3s'}
+            duration={'0.2s'}
           >
             {sideMenu()}
           </Animation>
@@ -291,5 +325,7 @@ function App({ history }) {
     </div>
   );
 }
+// https://www.flaticon.com/svg/static/icons/svg/907/907027.svg
+// https://www.flaticon.com/svg/static/icons/svg/560/560523.svg
 
 export default withRouter(observer(App));

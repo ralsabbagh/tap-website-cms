@@ -59,7 +59,7 @@ function App({ history }) {
             borderRight: '1px solid #e8e8e8',
             // paddingRight: '40px',
             height: '100vh',
-            // boxShadow: '#00000038 0px 43px 50px',
+            boxShadow: '#0000001a 0px 60px 100px',
             width: '400px',
             marginLeft: 0,
           },
@@ -171,20 +171,22 @@ function App({ history }) {
   }
 
   function target() {
+    let _src = 'https://www.flaticon.com/svg/static/icons/svg/2246/2246696.svg';
     return (
       <React.Fragment>
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'pay'} />
+        <MenuItem title={'pay'} iconSrc={_src} />
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'sell'} />
+        <MenuItem title={'sell'} iconSrc={_src} />
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'collect'} active={true} />
+        <MenuItem title={'collect'} iconSrc={_src} active={true} />
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'api'} />
+        <MenuItem title={'api'} iconSrc={_src} />
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'about'} />
+        <MenuItem title={'about'} iconSrc={_src} />
         <Spacing space={{ lg: 5 }} />
-        <MenuItem title={'jobs'} />
+        <MenuItem title={'jobs'} iconSrc={_src} />
+        <Spacing space={{ lg: 7 }} />
       </React.Fragment>
     );
   }
@@ -217,7 +219,7 @@ function App({ history }) {
         <Spacing space={{ lg: 40 }} />
         <Container className={'page_container'}>
           <Container style={{ lg: { textAlign: 'initial ' } }}>
-            <Text text={'Page Status'} level={{ lg: 'h5' }} />
+            {/* <Text text={'Page Status'} level={{ lg: 'h5' }} />
             <Spacing space={{ lg: 10 }} />
             <label style={{ display: 'inline-block', marginRight: '230px' }}>
               <input type="radio" name="optradio" checked />
@@ -235,20 +237,31 @@ function App({ history }) {
               <input type="radio" name="optradio" />
               Ready for publish
             </label>
+            <Spacing space={{ lg: 45 }} /> */}
+
+            <Row spacing={{ lg: 10 }}>
+              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/189/189688.svg'} size={'md'} />
+              <Text text={'Page Name'} level={{ lg: 'h5' }} />
+            </Row>
+            <Spacing space={{ lg: 10 }} />
+            <Input placeHolder={'new-page-name'} />
             <Spacing space={{ lg: 45 }} />
-            <Text text={'Meta Data'} level={{ lg: 'h5' }} />
+            <Row spacing={{ lg: 10 }}>
+              <Icon src={'https://www.flaticon.com/svg/static/icons/svg/2572/2572630.svg'} size={'md'} />
+              <Text text={'Meta Data'} level={{ lg: 'h5' }} />
+            </Row>
             <Spacing space={{ lg: 10 }} />
             <Input placeHolder={'Page Title'} />
             <Spacing space={{ lg: 5 }} />
             <Input placeHolder={'Page Description'} />
             <Spacing space={{ lg: 5 }} />
             <Input placeHolder={'Page Icon'} />
-            {/* <BaseField title={'page title'} field={<Input />} />
-            <BaseField title={'page description'} field={<Input />} />
-            <BaseField title={'page icon'} field={<Input />} /> */}
           </Container>
           <Spacing space={{ lg: 45 }} />
-          <Text text={'Page Builder'} level={{ lg: 'h5' }} style={{ lg: { textAlign: 'initial ' } }} />
+          <Row spacing={{ lg: 10 }} style={{ lg: { textAlign: 'initial ' } }}>
+            <Icon src={'https://www.flaticon.com/svg/static/icons/svg/432/432429.svg'} size={'md'} />
+            <Text text={'Page Builder'} level={{ lg: 'h5' }} />
+          </Row>
           <Spacing space={{ lg: 10 }} />
           <ContainerWidget onChange={store} />
         </Container>

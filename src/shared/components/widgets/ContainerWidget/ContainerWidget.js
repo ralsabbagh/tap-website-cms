@@ -4,7 +4,6 @@ import Select from '../../basic/Select/Select';
 import BaseWidget from '../BaseWidget/BaseWidget';
 import ChildrenFields from '../../fields/ChildrenFields/ChildrenFields';
 import classname_options from './classname_options.json';
-import Text from '../../basic/Text/Text';
 
 function ContainerWidget(props) {
   const [objValue, setObjValue] = useState({});

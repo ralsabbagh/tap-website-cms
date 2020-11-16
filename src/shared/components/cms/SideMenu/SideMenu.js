@@ -6,8 +6,6 @@ import MenuItem from '../../basic/MenuItem/MenuItem';
 import Spacing from '../../basic/Spacing/Spacing';
 import Text from '../../basic/Text/Text';
 
-const iconSrc = 'https://www.flaticon.com/svg/static/icons/svg/888/888071.svg';
-
 function SideMenu(props) {
   function sideMenu() {
     return (
@@ -27,7 +25,7 @@ function SideMenu(props) {
         }}
       >
         <Text text={'Pages'} level={{ lg: 'h6' }} />
-        <Spacing space={{ lg: 10 }} iconSrc={iconSrc} />
+        <Spacing space={{ lg: 10 }} />
         <Expandable
           appear={true}
           trigger={

@@ -12,32 +12,24 @@ function BaseWidget(props) {
       <Row portitions={{ lg: [0.5, 0.5] }}>
         <Text text={props.widgetTitle} level={{ lg: 'h5' }} />
         <Container style={{ lg: { textAlign: 'right' } }}>
-          {props.widgetTitle !== 'Container' && (
-            <Row spacing={{ lg: 7 }}>
-              <Icon
-                src={'https://www.flaticon.com/svg/static/icons/svg/1365/1365230.svg'}
-                size={'md'}
-                title={'Copy'}
-                style={{ lg: { cursor: 'pointer' } }}
-              />
-              <Icon
-                src={'https://www.flaticon.com/svg/static/icons/svg/3143/3143542.svg'}
-                size={'md'}
-                title={'Delete'}
-                style={{ lg: { cursor: 'pointer' } }}
-              />
-            </Row>
-          )}
+          <Row spacing={{ lg: 5 }}>
+            <Icon
+              src={'https://www.flaticon.com/svg/static/icons/svg/1365/1365230.svg'}
+              size={'md'}
+              title={'Copy'}
+              style={{ lg: { cursor: 'pointer' } }}
+            />
+            <Icon
+              src={'https://www.flaticon.com/svg/static/icons/svg/3143/3143542.svg'}
+              size={'md'}
+              title={'Delete'}
+              style={{ lg: { cursor: 'pointer' } }}
+            />
+          </Row>
         </Container>
       </Row>
       {props.fields.map((field, key) => (
-        <BaseField
-          key={key}
-          title={field.title}
-          field={field.field}
-          responsive={field.responsive}
-          onChange={field.onChange}
-        />
+        <BaseField key={key} {...field} />
       ))}
     </Card>
   );

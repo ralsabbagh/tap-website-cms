@@ -1,0 +1,9 @@
+.t_template_header {
+  position: fixed;
+  width: 100%;
+  z-index: 9;
+}
+
+.t_template_sidemenu {
+  z-index: 9;
+}

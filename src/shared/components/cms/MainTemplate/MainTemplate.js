@@ -1,14 +1,22 @@
-import React from 'react';
+import React, { useState } from 'react';
 import Container from '../../basic/Container/Container';
-import Row from '../../basic/Row/Row';
+import Header from '../Header/Header';
+import SideMenu from '../SideMenu/SideMenu';
 
 function MainTemplate(props) {
+  const [menuStatus, setMenuStatus] = useState(false);
+
+  require('./MainTemplate.css');
+
   return (
-    <Container className={'page_container'}>
-      <Row portitions={{ lg: [0.13, 0.87] }}>
-        {props.sideMenu}
-        {props.body}
-      </Row>
+    <Container className={'t_template'}>
+      <Container className={'t_template_header'}>
+        <Header setMenuStatus={() => setMenuStatus(!menuStatus)} />
+      </Container>
+      {props.page}
+      <Container className={'t_template_sidemenu'}>
+        <SideMenu appear={menuStatus} />
+      </Container>
     </Container>
   );
 }

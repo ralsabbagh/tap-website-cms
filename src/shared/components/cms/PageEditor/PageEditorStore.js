@@ -1,13 +1,37 @@
 import { decorate, observable } from 'mobx';
 import { DEFAULT_OBJECT } from '../../widgets/Constants';
-
+import firebase from 'firebase';
 class PageEditorStore {
   constructor() {
     this.obj = DEFAULT_OBJECT;
+    const config = {
+      apiKey: 'AIzaSyBpsaBbgIWp5q3tU5asi-q-sVhMcnqDICE',
+      authDomain: 'page-builder-cec56.firebaseapp.com',
+      databaseURL: 'https://page-builder-cec56.firebaseio.com',
+      projectId: 'page-builder-cec56',
+      storageBucket: 'page-builder-cec56.appspot.com',
+      messagingSenderId: '950873454129',
+      appId: '1:950873454129:web:b0651349d9f2c55128c710',
+      measurementId: 'G-J71NJK3R19',
+    };
+    firebase.initializeApp(config);
   }
 
-  change(ks, val) {
+  store() {
+    console.log(this.obj);
+    firebase
+      .database()
+      .ref()
+      .set({
+        kw: {
+          collect: JSON.stringify(this.obj),
+        },
+      });
+  }
+
+  onChange(ks, val) {
     ks = ks.split(',');
+    console.log(ks);
     switch (ks.length) {
       case 1:
         this.obj[ks[0]] = val;

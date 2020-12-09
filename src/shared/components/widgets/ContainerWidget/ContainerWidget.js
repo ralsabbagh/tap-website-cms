@@ -9,13 +9,13 @@ function ContainerWidget(props) {
   const [objValue, setObjValue] = useState({});
   const [childrenValue, setChildrenValue] = useState([]);
 
-  function onChange(value, key) {
-    if (key !== 'children') FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, setObjValue);
-    if (key === 'children') FunctionsUtil.updateArray(value, key, childrenValue, setChildrenValue);
-    setTimeout(() => {
-      FunctionsUtil.updateValue({ component: 'container', props: objValue, ...childrenValue }, props.onChange);
-    }, 10);
-  }
+  // function onChange(value, key) {
+  //   if (key !== 'children') FunctionsUtil.updateObj(objValue, { [`${key}`]: value }, setObjValue);
+  //   if (key === 'children') FunctionsUtil.updateArray(value, key, childrenValue, setChildrenValue);
+  //   setTimeout(() => {
+  //     FunctionsUtil.updateValue({ component: 'container', props: objValue, ...childrenValue }, props.onChange);
+  //   }, 10);
+  // }
 
   return (
     <BaseWidget

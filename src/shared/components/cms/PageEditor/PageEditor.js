@@ -7,33 +7,11 @@ import Row from '../../basic/Row/Row';
 import Spacing from '../../basic/Spacing/Spacing';
 import Text from '../../basic/Text/Text';
 import ContainerWidget from '../../widgets/ContainerWidget/ContainerWidget';
-import firebase from 'firebase';
+import { useAppContext } from '../../../Context/AppContext';
 
 function PageEditor() {
-  const config = {
-    apiKey: 'AIzaSyBpsaBbgIWp5q3tU5asi-q-sVhMcnqDICE',
-    authDomain: 'page-builder-cec56.firebaseapp.com',
-    databaseURL: 'https://page-builder-cec56.firebaseio.com',
-    projectId: 'page-builder-cec56',
-    storageBucket: 'page-builder-cec56.appspot.com',
-    messagingSenderId: '950873454129',
-    appId: '1:950873454129:web:b0651349d9f2c55128c710',
-    measurementId: 'G-J71NJK3R19',
-  };
-  firebase.initializeApp(config);
+  const { pageEditorStore } = useAppContext();
   require('./PageEditor.css');
-
-  function store(value) {
-    console.log(value);
-    firebase
-      .database()
-      .ref()
-      .set({
-        kw: {
-          collect: JSON.stringify(value),
-        },
-      });
-  }
 
   return (
     <Container className={'page_container'}>
